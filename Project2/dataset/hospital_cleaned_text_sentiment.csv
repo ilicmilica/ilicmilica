@@ -1,0 +1,978 @@
+Feedback,Sentiment Label,Ratings,Sentiment
+"['good', 'and', 'clean', 'hospit', 'there', 'is', 'great', 'team', 'of', 'doctor', 'and', 'good', 'ot', 'facil', 'the', 'medic', 'facil', 'are', 'all', 'great', 'with', 'good', 'inpati', 'post', 'oper', 'care', 'by', 'doctor', 'nurs', 'the', 'housekeep', 'staff', 'is', 'also', 'good', 'but', 'they', 'can', 'respond', 'to', 'call', 'from', 'the', 'room', 'a', 'littl', 'faster']",1,5,0.680952380952381
+"['had', 'a', 'realli', 'bad', 'experi', 'dure', 'discharg', 'they', 'need', 'to', 'be', 'sensit', 'and', 'more', 'transpar', 'toward', 'the', 'patient', 'and', 'hisher', 'famili']",1,5,-0.09999999999999992
+"['i', 'have', 'visit', 'to', 'take', 'my', 'second', 'dose', 'and', 'process', 'wa', 'realli', 'smooth', 'hospit', 'from', 'all', 'staff', 'are', 'realli', 'appreci', 'shanti', 'took', 'good', 'care', 'and', 'provid', 'all', 'detail', 'befor', 'vaccin', 'thank', 'you']",1,4,0.3666666666666667
+"['that', 'person', 'wa', 'slightli', 'clueless', 'and', 'offer', 'onli', 'one', 'packag', 'but', 'onc', 'i', 'got', 'to', 'the', 'hospit', 'i', 'found', 'a', 'better', 'and', 'more', 'econom', 'one', 'and', 'decid', 'to', 'go', 'ahead']",1,3,0.5
+"['there', 'is', 'great', 'team', 'of', 'doctor', 'and', 'good', 'ot', 'facil']",0,1,0.75
+"['my', 'primari', 'concern', 'aros', 'from', 'the', 'insist', 'on', 'conduct', 'multipl', 'test', 'which', 'appear', 'unrel', 'to', 'my', 'condit', 'befor', 'initi', 'ani', 'treatment']",0,2,0.0
+"['good', 'and', 'clean', 'hospit', 'the', 'medic', 'facil', 'are', 'all', 'great', 'with', 'good', 'inpati', 'post', 'oper', 'care', 'by', 'doctor', 'nurs', 'the', 'housekeep', 'staff', 'is', 'also', 'good', 'but', 'they', 'can', 'respond', 'to', 'call', 'from', 'the', 'room', 'a', 'littl', 'faster']",1,5,0.6533333333333333
+"['recent', 'underw', 'a', 'surgeri', 'for', 'my', 'left', 'shoulder', 'the', 'doctor', 'are', 'extrem', 'good', 'but', 'the', 'manag', 'need', 'to', 'be', 'more', 'patient', 'orient', 'than', 'money', 'mind']",1,3,0.3
+"['over', 'all', 'experi', 'wa', 'good', 'start', 'from', 'receptionlab', 'servic', 'and', 'doctor', 'interactiondoctor', 'with', 'whom', 'i', 'have', 'had', 'consult', 'wa', 'so', 'niceh', 'heard', 'me', 'with', 'patienc', 'and', 'clarifi', 'all', 'my', 'health', 'condit']",1,5,0.7
+"['howeverth', 'servic', 'of', 'front', 'offic', 'where', 'we', 'report', 'first', 'need', 'to', 'be', 'improv', 'servic', 'should', 'be', 'fast']",1,5,0.225
+"['other', 'wise', 'no', 'complaint', 'fulli', 'satisfi']",1,4,0.24166666666666667
+"['thank', 'to', 'the', 'emerg', 'doctor', 'abhishek', 'and', 'thank', 'to', 'the', 'secur', 'guard', 'there']",1,5,0.0
+"['they', 'have', 'expert', 'doctor', 'who', 'give', 'the', 'right', 'medicin', 'and', 'help', 'the', 'patient', 'recov', 'fast']",1,5,0.24285714285714285
+"['i', 'realli', 'like', 'the', 'servic', 'there']",1,4,0.0
+"['hopeless', 'hospit', 'i', 'dont', 'know', 'how', 'they', 'have', 'got', 'jci', 'and', 'nabh', 'they', 'have', 'no', 'valu', 'for', 'patient', 'or', 'their', 'attend', 'time']",0,2,0.0
+"['receptionist', 'onli', 'want', 'money', 'they', 'dont', 'care', 'if', 'the', 'doctor', 'is', '2', 'hr', 'late', 'but', 'give', 'them', 'money']",0,1,-0.3
+"['i', 'went', 'for', 'my', 'father', 'he', 'ha', 'tracheostomi', 'n', 'all', 'issu', 'they', 'made', 'him', 'wait', 'for', '1', 'hour', 'n', 'said', 'wait', 'if', 'you', 'want', 'to', 'or', 'go']",0,2,0.0
+"['i', 'call', 'them', 'to', 'book', 'an', 'appoint', 'i', 'request', 'for', 'a', 'senior', 'doctor', 'and', 'seek', 'their', 'year', 'of', 'experi', 'they', 'dont', 'want', 'to', 'share', 'it', 'transpar', 'is', 'not', 'there', 'when', 'i', 'call', 'appolo', 'they', 'give', 'all', 'the', 'detailsexperi', 'and', 'i', 'feel', 'comfort', 'while', 'choos', 'doctor', 'fortispl', 'have', 'transper', 'and', 'it', 'is', 'right', 'of', 'a', 'patient']",0,1,0.2857142857142857
+"['i', 'wa', 'have', 'menopaus', 'relat', 'issu', 'and', 'went', 'to', 'see', 'a', 'gynecologist']",1,5,0.0
+"['i', 'realli', 'like', 'the', 'servic', 'there']",1,5,0.0
+"['thank', 'to', 'the', 'emerg', 'doctor', 'abhishek', 'and', 'thank', 'to', 'the', 'secur', 'guard', 'there']",1,4,0.0
+"['say', 'hello', 'with', 'fold', 'handsand', 'take', 'the', 'patient', 'sit', 'in', 'the', 'wheel', 'chair', '']",1,5,0.0
+"['i', 'notic', 'the', 'price', 'there', 'is', 'a', 'bit', 'high', 'but', 'the', 'treatment', 'is', 'veri', 'good', 'and', 'the', 'behavior', 'of', 'the', 'doctor', 'is', 'also', 'veri', 'goodso', 'i', 'dont', 'think', 'such', 'a', 'hospit', 'is', 'anywher', 'near', 'hr', 'layout']",1,4,0.24
+"['good', 'experi', 'polit', 'staff', 'and', 'time', 'servic', 'well', 'organ', 'and', 'hygien']",1,5,0.7
+"['a', 'veri', 'nice', 'experi', 'dure', 'our', 'stay', 'and', 'treatment', 'in', 'the', 'forti', 'hospit', 'from', '2772023', 'to', '382023', 'we', 'felt', 'like', 'stay', 'in', 'our', 'own', 'home', 'drrajkumar', 'deshpand', 'and', 'hi', 'team', 'done', 'the', 'c1', 'c2', 'surgic', 'spine', 'replac', 'under', 'o', 'arm', 'machin', 'success', 'doctor', 'and', 'other', 'support', 'staff', 'for', 'their', 'wonder', 'servic']",1,5,0.34375
+"['highli', 'experienc', 'doctor', 'their', 'analysi', 'interact', 'and', 'treatment', 'are', 'excel']",1,5,0.0
+"['the', 'room', 'are', 'veri', 'neat', 'and', 'clean', 'veri', 'good', 'hous', 'keep']",1,4,0.5333333333333333
+"['the', 'staff', 'nurs', 'are', 'down', 'to', 'earth', 'their', 'care', 'and', 'hospit', 'is', 'highli', 'appreci']",1,5,-0.15555555555555559
+"['overal', 'the', 'servic', 'from', 'admiss', 'till', 'discharg', 'is', 'excel']",1,5,0.0
+"['we', 'love', 'the', 'hospit', 'of', 'the', 'staff', 'member', 'and', 'doctor', 'they', 'are', 'so', 'hardwork', 'and', 'put', 'effort', 'to', 'ensur', 'good', 'health', 'and', 'safeti', 'of', 'the', 'patient', 'dr', 'gayathri', 'is', 'an', 'excel', 'doctor', 'who', 'also', 'provid', 'you', 'guidanc', 'and', 'emot', 'support']",1,5,0.6
+"['the', 'hospit', 'servic', 'ha', 'been', 'realli', 'good', 'the', 'patient', 'ha', 'been', 'taken', 'good', 'care', 'overal', 'right', 'from', 'the', 'consult', 'until', 'the', 'discharg', 'everyth', 'is', 'seamless', 'and', 'hassl', 'free', 'we', 'went', 'with', 'the', 'insur', 'and', 'the', 'process', 'time', 'wa', 'quick']",1,5,0.41984126984126985
+"['dr', 'sashidhara', 'cardiologist', 'took', 'everi', 'effort', 'to', 'diagnos', 'the', 'problem', 'and', 'suggest', 'for', 'the', 'bypass', 'and', 'later', 'the', 'surgeon']",1,5,0.0
+"['dr', 'murali', 'manohar', 'took', 'care', 'of', 'the', 'oper', 'with', 'great', 'confid', 'overal', 'it', 'wa', 'a', 'good', 'experi', 'throughout']",1,5,0.75
+"['everyth', 'is', 'well', 'organis', 'with', 'the', 'variou', 'room', 'for', 'photo', 'blood', 'test', 'xray', 'main', 'doctor', 'consult', 'etc', 'all', 'situat', 'around', 'the', 'huge', 'wait', 'room', 'with', 'the', 'sequenc', 'you', 'have', 'to', 'follow', 'commun', 'to', 'you', 'at', 'the', 'bill', 'counter']",1,4,0.2833333333333334
+"['card', 'payment', 'is', 'accept']",1,5,0.0
+"['while', 'the', 'cost', 'of', 'the', 'test', 'is', 'perhap', 'just', 'a', 'tad', 'bit', 'more', 'than', 'the', 'other', 'option', 'elbit', 'diagnost', 'the', 'conveni', 'and', 'servic', 'more', 'than', 'make', 'up', 'for', 'it']",1,3,0.2916666666666667
+"['while', 'prior', 'appoint', 'book', 'is', 'not', 'requir', 'you', 'are', 'advis', 'to', 'call', 'befor', 'come', 'becaus', 'the', 'form', 'for', 'some', 'countri', 'have', 'to', 'be', 'print', 'and', 'brought', 'along', 'with', 'you', 'while', 'other', 'are', 'avail', 'there']",1,3,-0.0625
+"['the', 'place', 'can', 'get', 'quit', 'crowd', 'so', 'if', 'you', 'wish', 'to', 'get', 'done', 'with', 'all', 'formal', 'within', '152', 'hour', 'it', 'is', 'better', 'to', 'reach', 'there', 'befor', '830am', 'when', 'the', 'bill', 'counter', 'open', 'dont', 'forget', 'to', 'pick', 'out', 'a', 'token', 'from', 'the', 'machin', 'near', 'the', 'counter']",1,3,0.19999999999999998
+"['we', 'are', 'realli', 'satisfi', 'with', 'the', 'servic', 'from', 'forti', 'there', 'is', 'no', 'neg', 'point', 'about', 'thi', 'hospit', 'well', 'maintain', 'and', 'veri', 'systemat', 'the', 'best', 'part', 'is', 'your', 'time', 'will', 'not', 'be', 'wast', 'even', 'for', '1', 'min', 'thank', 'for', 'the', 'doctor', 'and', 'all', 'other', 'worker']",1,5,0.4375
+"['had', 'an', 'emerg', 'visit', 'to', 'the', 'hospit', 'with', 'my', 'father', 'who', 'wa', 'hospitalis', 'for', 'a', 'coupl', 'of', 'day', 'due', 'to', 'a', 'surgeri', 'the', 'doctor', 'and', 'staff', 'of', 'the', 'hospit', 'took', 'utmost', 'care', 'the', 'best', 'part', 'of', 'the', 'hospit', 'is', 'that', 'the', 'team', 'follow', 'it', 'process', 'and', 'protocol', 'so', 'well']",1,4,0.4375
+"['we', 'had', 'a', 'great', 'experi', 'with', 'the', 'hospit']",1,5,0.8
+"['drjawali', 'and', 'hi', 'team', 'were', 'veri', 'impress', 'not', 'onli', 'for', 'the', 'surgeri', 'and', 'procedur', 'but', 'also', 'post', 'oper', 'follow', 'up', 'with', 'the', 'patient', 'and', 'ensur', 'he', 'wa', 'feel', 'absolut']",1,5,0.0
+"['i', 'would', 'also', 'thank', 'the', 'icu', 'nurs', 'and', 'the', 'ward', 'nurs', 'and', 'all', 'the', 'differ', 'dr’', 'who', 'were', 'involv', 'in', 'ensur', 'my', 'father', 'recov', 'thank', 'you', 'so', 'much', '']",1,5,0.2
+"['great', 'care', 'taken', 'by', 'the', 'staff', 'and', 'hospit', '', 'special', 'mention', 'of', 'dr', 'vivek', 'padeg', 'and', 'dr', 'ashish', 'parekh', 'thank', 'to', 'energet', 'and', 'charm', 'nurs', 'ms', 'jacquelin', 'for', 'special', 'care', 'taken', 'while', 'treatment', '']",1,4,0.5047619047619049
+"['dr', 'ravindra', 'and', 'team', 'wa', 'excel']",1,5,0.0
+"['treatment', 'given', 'to', 'the', 'partient', 'wa', 'impecc', 'all', 'the', 'staff', 'are', 'much', 'recogn', 'for', 'their', 'dedic', 'and', 'kind', 'given', 'to', 'the', 'patient', 'throughout']",1,5,0.4
+"['immens', 'gratitud', 'to', 'all', 'the', 'forti', 'team', 'for', 'ensur', 'my', 'wellb', 'ensur', 'comfort', 'and', 'fast', 'recoveri']",1,4,0.2
+"['thank', 'you', 'onc', 'again', 'for', 'your', 'outstand', 'servic', 'and', 'commit', 'toward', 'excel', 'each', 'one', 'role', 'and', 'effort', 'are', 'much', 'appreci']",1,5,0.2
+"['dr', 'narayan', 'huls', 'is', 'an', 'amaz', 'doctor', 'nurs', 'are', 'also', 'veri', 'humbl', 'and', 'care']",1,5,0.0
+"['midnight', 'also', 'they', 'are', 'veri', 'quick', 'and', 'activ', 'they', 'are', 'present', 'near', 'the', 'patient', 'whenev', 'need']",1,5,0.14444444444444446
+"['food', 'servic', 'is', 'also', 'veri', 'good', 'housekeep', 'are', 'do', 'their', 'job', 'effici', 'the', 'hospit', 'is', 'veri', 'clean']",1,5,0.5333333333333333
+"['my', 'cosist', '81', 'had', 'a', 'knee', 'replac', 'dure', 'covid', 'post', 'surgeri', 'had', 'complic', 'pain', 'did', 'not', 'subsid', 'she', 'becam', 'total', 'bedridden']",1,4,0.0
+"['we', 'met', 'dr', 'narayan', 'huls', 'at', 'forti', 'for', 'hi', 'opinion', 'he', 'gave', 'us', '100', 'assur', 'and', 'oper', 'her']",1,5,0.0
+"['she', 'walk', 'now', 'independ', 'of', 'cours', 'with', 'walker', 'she', 'is', 'ever', 'grate', 'to', 'him', 'thank', 'a', 'ton', 'doctor', 'for', 'give', 'her', 'anoth', 'life']",1,5,0.0
+"['they', 'book', 'more', 'appoint', 'than', 'capac', 'my', 'wife', 'went', 'for', 'checkup', 'in', 'forti', 'and', 'my', 'friend', 'went', 'to', 'hiranandani', 'in', 'mumbai', 'start', 'same', 'time', 'at', '8', 'am', 'today', 'friend', 'finish', 'the', 'process', 'by', '1130', 'wife', 'finish', 'at', '4', 'pm', 'avoid', 'for', 'master', 'health', 'checkup']",1,3,0.25
+"['dont', 'go', 'buy', 'name', 'of', 'the', 'hospit']",0,1,0.0
+"['worst', 'experi', 'when', 'we', 'went', 'for', 'the', 'full', 'bodi', 'health', 'checkup']",0,2,-0.325
+"['they', 'do', 'not', 'care', 'onli', 'thing', 'they', 'care', 'is', 'money', 'onc', 'money', 'is', 'in', 'their', 'bank', 'account', 'you', 'are', 'on', 'your', 'own']",0,2,0.6
+"['the', 'staff', 'for', 'health', 'checkup', 'is', 'worst', 'and', 'doesnt', 'know', 'how', 'to', 'manag', 'peopl', 'and', 'give', 'proper', 'guidanc']",0,1,-0.5
+"['if', 'you', 'say', 'you', 'do', 'not', 'have', 'ani', 'visibl', 'issu', 'they', 'will', 'finish', 'the', 'examin', 'in', 'less', 'than', 'a', 'minut', 'and', 'send', 'you', 'out', 'to', 'serv', 'next', 'custom']",0,1,-0.08333333333333333
+"['poor', 'servic', 'disorgan', 'no', 'valu', 'for', 'peopl', 'time', 'and', 'overpr']",0,2,-0.4
+"['after', 'charg', 'a', 'bomb', 'to', 'the', 'patient', 'they', 'have', 'no', 'system', 'in', 'place']",0,1,0.0
+"['book', 'an', 'appoint', 'is', 'a', 'joke', 'as', 'you', 'can', 'never', 'get', 'thing', 'done', 'as', 'per', 'the', 'appoint', 'time']",0,2,0.0
+"['they', 'expect', 'peopl', 'to', 'be', 'unemploy', 'or', 'on', 'indefinit', 'leav', 'while', 'visit', 'their', 'hospit', 'for', 'treatment']",0,2,0.0
+"['the', 'road', 'outsid', 'the', 'hospit', 'is', 'full', 'of', 'garbag', 'and', 'dirti', 'pothol', 'the', 'hospit', 'administr', 'should', 'take', 'some', 'respons', 'to', 'make', 'it', 'walkabl', 'for', 'patient', 'and', 'their', 'famili']",0,1,0.35
+"['i', 'took', 'a', 'comprehens', 'health', 'check', 'up', 'packag', 'here', 'with', 'an', 'appoint', 'date', 'and', 'time', 'the', 'total', 'durat', 'we', 'were', 'suppos', 'to', 'wait', 'wa', 'around', '56', 'hour']",0,2,0.0
+"['id', 'suggest', 'just', 'dont', 'go', 'by', 'name', 'there', 'are', 'lot', 'of', 'local', 'lab', 'who', 'provid', 'much', 'better', 'servic', 'in', 'less', 'fee', 'truli', 'horribl', 'and', 'unexpect', 'experi', 'at', 'forti']",1,3,0.11111111111111112
+"['my', 'heartfelt', 'plea', 'for', 'better', 'patient', 'care', 'a', 'harrow', 'experi', 'at', 'forti', 'hospit']",0,1,0.25
+"['pleas', 'display', 'few', 'board', 'in', 'the', 'entranc', 'of', 'the', 'hospit', 'and', 'also', 'in', 'the', 'emerg', 'depart']",1,3,-0.2
+"['state', 'thi', 'hospit', 'is', 'not', 'for', 'middl', 'class', 'peopl']",1,3,0.0
+"['nice', 'hospit', 'and', 'doctor', 'also', 'good', 'and', 'they', 'take', 'care', 'patienc', 'supereventh', 'is', 'super', 'in', 'the', 'hospit', '🎉', '…']",1,5,0.5444444444444444
+"['veri', 'good', 'hospit', 'and', 'careexcel', 'servic', 'happi', 'with', 'forti']",1,5,0.7
+"['dr', 'harsha', 'ha', 'provid', 'amaz', 'treatment', 'the', 'night', 'shift', 'nurs', 'are', 'help', 'overal', 'manag', 'wa', 'veri', 'good']",1,4,0.7
+"['must', 'visit', 'for', 'dr', 'suresh', 'babu', 'for', 'chemotherapi']",1,3,0.0
+"['dr', 'gayathri', 'kamath', 'is', 'a', 'veri', 'good', 'doctorveri', 'reliabl', 'who', 'you', 'can', 'believ', 'in', 'veri', 'good', 'servic', 'at', 'fortissh', 'made', 'all', 'my', 'pregnanc', 'complic', 'noth', 'make', 'it', 'smooth', 'and', 'help', 'me', 'get', 'recov', 'much', 'faster']",1,5,0.49999999999999994
+"['drvivek', 'belatur', 'treatment', 'is', 'super', '', 'chemotherapi', 'treatment', 'went', 'well', 'and', 'smooth', '', 'happi', 'with', 'forti', 'and', 'it', 'servic']",1,4,0.3666666666666667
+"['my', 'father', 'ha', 'been', 'treat', 'under', 'supervis', 'of', 'dr', 'adil', 'hasaan', 'and', 'dr', 'suresh', 'babu', 'sir']",1,5,0.0
+"['the', 'servic', 'provid', 'here', 'is', 'good', 'with', 'veri', 'profession', 'and', 'friendli', 'staff', 'doctor', 'were', 'veri', 'profession', 'experienc', 'and', 'respons']",1,5,0.7
+"['special', 'thank', 'to', 'kavita', 'for', 'all', 'the', 'guidanc', 'and', 'support', 'she', 'had', 'provid', 'us', 'so', 'far']",1,4,0.2285714285714286
+"['veri', 'crowdi', 'and', 'excess', 'long', 'queue', 'tri', 'to', 'avoid', 'and', 'be', 'happy😊😊', '…']",1,5,-0.05
+"['such', 'a', 'worst', 'staff', 'in', 'thi', 'hospit']",0,1,-0.5
+"['they', 'are', 'charg', 'too', 'much', 'for', 'small', 'thing', 'n', 'most', 'import', 'thing', 'is', 'unka', 'secur', 'staff', 'jo', 'apko', 'hospit', 'staff', 'se', 'jyada', 'enquiri', 'kart', 'hai', 'n', 'too', 'much', 'rude', 'behaviour', 'like', 'a', 'roadsid', 'loafer']",0,1,0.037500000000000006
+"['the', 'overal', 'dignosi', 'treantment', 'plan', 'and', 'post', 'opp', 'receveri', 'manag', 'wa', 'super', 'excel', 'and', 'have', 'a', 'complet', 'recoveri', 'without', 'ani', 'post', 'opp', 'complic', 'despit', 'have', 'complex', 'health', 'condit', 'prior', 'to', 'the', 'surgeri']",1,5,0.011111111111111108
+"['the', 'entir', 'doctor', 'team', 'dr', 'gayathri', 'from', 'gynaecolog', 'dr', 'sharath', 'chandra', 'from', 'surgeri', 'and', 'dr', 'sudha', 'from', 'intern', 'medicin', 'dr', 'shwetha', 'from', 'gynaecolog', 'and', 'the', 'nurs', 'staff', 'have', 'given', 'the', 'best', 'treatment', 'and', 'excel', 'psycholog', 'support', 'to', 'us']",1,4,1.0
+"['they', 'were', 'with', 'us', 'each', 'and', 'everi', 'stage', 'plan', 'the', 'best', 'treatment', 'for', 'me', 'and', 'also', 'give', 'confid', 'and', 'mental', 'support', 'that', 'we', 'felt', 'home']",1,5,0.45
+"['thi', 'team', 'of', 'doctor', 'wa', 'veri', 'friendli', 'approach', 'servic', 'orient', 'and', 'selfless', 'servic', 'and', 'extrem', 'profession', 'onc', 'again', 'a', 'big', 'thank', 'you', 'from', 'the', 'bottom', 'of', 'our', 'heart']",1,5,0.0
+"['dr', 'mohan', 'keshavamurthi', 'and', 'team', 'all', 'doctor', 'all', 'nurs', 'staff', 'especi', '6th', 'floor', 'staff', 'jeena', 'davi', 'nurs', 'supervisor', 'we', 'thank', 'each', 'and', 'everi', 'one', 'for', 'your', 'support']",1,4,0.0
+"['alway', 'good']",1,5,0.7
+"['dr', 'manisha', 'rajpal', 'singh', 'treat', 'for', 'laparoscopi', 'hysteroscopi', 'dilat', '', 'curettag', 'cervic', 'cauter', 'bilater', 'ovarian', 'endometrosi', 'excis', 'we', 'came', 'from', 'bangladesh', 'specif', 'to', 'consult', 'the', 'doctor']",1,4,0.0
+"['doctor', 'is', 'veri', 'profession', 'care', 'dr', 'roopa', 'from', 'the', 'team', 'too', 'nurs', 'care', 'are', 'superb', 'hygien', 'by', 'support', 'team']",1,5,1.0
+"['i', 'done', 'immigr', 'health', 'check', 'up', 'here', 'in', 'forti', 'hospit', 'bannargetta']",1,5,0.0
+"['it', 'wa', 'amaz', 'experi', 'and', 'help', 'staff', 'especi', 'ms', 'poornima', '', 'ms', 'manjula', 'an', 'santhosh']",1,4,0.0
+"['we', 'have', 'visit', 'the', 'hospit', 'for', 'knee', 'replac', 'for', 'my', 'mother', 'and', 'dr', 'narayan', 'huls', 'ha', 'treat', 'her', 'veri', 'well', 'and', 'explain', 'the', 'minut', 'detail', 'as', 'well']",1,5,0.0
+"['onc', 'the', 'surgeri', 'is', 'complet', 'my', 'mother', 'ha', 'recov', 'well', 'and', 'thank', 'to', 'narayan', 'huls', 'and', 'team', 'who', 'treat', 'well', 'and', 'along', 'with', 'physiotherapi', 'nurs', 'and', 'hous', 'keep', 'depart']",1,5,0.0
+"['excel', 'treatment', 'in', 'forti', 'bannergatta', 'dr', 'anil', 'kumar', 'kustagi', 'treatment', 'made', 'my', 'son', 'up', 'and', 'abov', 'nurs', 'staff', 'are', 'excel']",1,4,0.0
+"['dr', 'mohan', 'keshavamurthi', 'oper', 'for', 'kidney', 'stone', 'with', 'laser', 'treatment', 'overal', 'treatment', 'servic', 'are', 'good', 'nurs', 'night', 'staff', 'wa', 'veri', 'care']",1,5,0.7
+"['had', 'a', 'better', 'experi', 'in', 'the', 'treatment', 'of', 'my', 'mother', 'at', 'forti', 'hospit', 'by', 'dr', 'shashidhara']",1,5,0.5
+"['feel', 'to', 'bow', 'to', 'dr', 'narayan', 'huls', 'he', 'is', 'such', 'a', 'great', 'doctor', 'i', 'am', 'relax', 'onc', 'i', 'heard', 'from', 'him', 'about', 'the', 'surgeri']",1,4,0.4
+"['big', 'thank', 'to', 'dr', 'narayan', 'huls', 'nurs', 'mahalakshmi', 'shalini', 'nivetha', 'mani', 'more', 'attend', 'on', 'me', 'veri', 'care', 'physio', 'team', 'are', 'excel', 'in', 'their', 'work']",1,5,0.25
+"['dr', 'mohan', 'keshavamurthi', 'ha', 'done', 'my', 'surgeri', 'nurs', 'includ', 'josena', 'parimala', 'they', 'are', 'veri', 'care']",1,4,0.0
+"['the', 'care', 'and', 'hospit', 'offer', 'by', 'the', 'staff', 'from', 'all', 'the', 'depart', 'and', 'forti', 'as', 'a', 'whole', 'is', 'excel']",1,5,0.2
+"['most', 'importantli', 'the', 'treat', 'doctor', 'mr', 'ravindra', 'bs', 'and', 'the', 'whole', 'gastroenterolog', 'depart', 'had', 'been', 'effect', 'in', 'diagnos', 'the', 'health', 'issu', 'appropri']",1,5,0.35
+"['the', 'treatment', 'given', 'by', 'drravindra', 'and', 'team', 'ha', 'brought', 'a', 'lot', 'of', 'improv', 'in', 'my', 'health', 'and', 'abl', 'to', 'cope', 'with', 'my', 'life', 'as', 'a', 'veri', 'healthi', 'and', 'confid', 'person', 'thank', 'again', 'for', 'everyth', 'pleas', 'keep', 'up', 'the', 'good', 'work']",1,4,0.7
+"['dr', 'shabeer', 'ahm', 'is', 'a', 'veri', 'good', 'doctor', 'he', 'explain', 'everyth', 'to', 'us', 'clearli', 'and', 'amaz', 'treatment', 'ha', 'been', 'provid']",1,5,0.7
+"['my', 'husband', 'is', 'do', 'well', 'cabg', 'is', 'done', 'by', 'dr', 'vivek', 'jawali', '', 'team', 'dr', 'murali', 'manohar', 'dr', 'sudarshan', 'dr', 'nikhil']",1,4,0.0
+"['happi', 'with', 'veri', 'good', 'servic', 'by', 'doctor', 'and', 'staff', 'icu', 'staff', 'are', 'excel', 'polina', 'prafulla', 'priya', 'toi', 'are', 'excel', 'big', 'thank', 'to', 'support', 'staff', 'as', 'well']",1,5,0.35
+"['dr', 'ravindra', 'is', 'undoubtedli', 'an', 'amaz', 'doctor', 'the', 'effici', 'of', 'treatment', 'ha', 'help', 'to', 'cure', 'my', 'health', 'issu', 'nurs', 'are', 'also', 'provid', 'good', 'servic']",1,5,0.7
+"['review', 'is', 'for', 'master', 'health', 'checkup']",0,1,0.0
+"['poorli', 'manag', 'patient', 'flow']",0,2,0.0
+"['they', 'book', 'more', 'appoint', 'than', 'capac']",0,2,0.5
+"['my', 'wife', 'went', 'for', 'checkup', 'in', 'forti', 'and', 'my', 'friend', 'went', 'to', 'hiranandani', 'in', 'mumbai', 'start', 'same', 'time', 'at', '8', 'am', 'today', 'friend', 'finish', 'the', 'process', 'by', '1130', 'wife', 'finish', 'at', '4', 'pm', 'avoid', 'for', 'master', 'health', 'checkup']",0,1,0.0
+"['excel', 'medic', 'facil', 'and', 'servic']",1,5,0.0
+"['dr', 'ravindra', 'is', 'undoubtedli', 'an', 'amaz', 'doctor', 'the', 'effici', 'of', 'treatment', 'ha', 'help', 'to', 'cure', 'my', 'health', 'issu', 'nurs', 'are', 'also', 'provid', 'good', 'servic']",1,4,0.7
+"['we', 'consult', 'drsudarshan', 'g', 't', 'they', 'treat', 'us', 'veri', 'well', 'we', 'are', 'happi', 'with', 'the', 'hospit', 'servic']",1,5,0.0
+"['dr', 'vivek', 'belathur', 'is', 'a', 'veri', 'good', 'oncologist', 'happi', 'with', 'hi', 'treatment', 'kavitha', 'madam', 'is', 'veri', 'help', 'and', 'kind']",1,4,0.6499999999999999
+"['happi', 'to', 'get', 'treat', 'by', 'dr', 'vivek', 'belathur', 'the', 'best', 'oncologist', 'in', 'bangalor', 'hi', 'care', 'to', 'hi', 'patient', 'is', 'wonder']",1,5,1.0
+"['all', 'the', 'staff', 'afe', 'care', 'and', 'responsiblem', 'kavitha', 'is', 'an', 'amaz', 'pesrson', 'who', 'is', 'veri', 'help', 'in', 'everi', 'step', 'of', 'the', 'treatmentthank', 'to', 'forti']",1,5,0.0
+"['i', 'have', 'been', 'visit', 'for', 'cancer', 'treatment', 'dr', 'suresh', 'babu', 'is', 'coordin', 'for', 'the', 'treatment', 'and', 'experi', 'with', 'the', 'doctor', 'and', 'hospit', 'ha', 'been', 'good']",1,5,0.7
+"['nice', 'respons', 'from', 'doctor', 'and', 'staff', 'tq']",1,4,0.6
+"['diagnosi', 'treatment', 'and', 'care', 'are', 'good']",1,4,0.7
+"['hopeless', 'hospit', 'i', 'dont', 'know', 'how', 'they', 'have', 'got', 'jci', 'and', 'nabh', 'they', 'have', 'no', 'valu', 'for', 'patient', 'or', 'their', 'attend', 'time']",0,1,0.0
+"['receptionist', 'onli', 'want', 'money', 'they', 'dont', 'care', 'if', 'the', 'doctor', 'is', '2', 'hr', 'late', 'but', 'give', 'them', 'money']",0,2,-0.3
+"['i', 'went', 'for', 'my', 'father', 'he', 'ha', 'tracheostomi', 'n', 'all', 'issu', 'they', 'made', 'him', 'wait', 'for', '1', 'hour', 'n', 'said', 'wait', 'if', 'you', 'want', 'to', 'or', 'go']",0,1,0.0
+"['i', 'wa', 'have', 'menopaus', 'relat', 'issu', 'and', 'went', 'to', 'see', 'a', 'gynecologist']",0,2,0.0
+"['hey', 'kept', 'me', 'wait', 'until', '4pm', 'and', 'then', 'after', 'sever', 'request', 'they', 'let', 'me', 'see', 'her', 'it', 'wa', 'unfortun', 'for', 'me', 'to', 'have', 'gone', 'for', 'a', 'check', 'up', 'and', 'with', 'thi', 'rather', 'rude', 'and', 'veri', 'arrog', 'gynecologist']",0,1,-0.3
+"['didnt', 'give', 'anesthesia', 'and', 'directli', 'stab', 'thi', 'is', 'the', 'right', 'word', 'my', 'vagina', 'it', 'happen', '8year', 'back']",0,1,0.14285714285714285
+"['after', 'that', 'incid', 'i', 'lost', 'sensibl', 'in', 'that', 'part', 'i', 'could', 'have', 'left', 'the', 'hospit', 'without', 'see', 'her', 'if', 'the', 'hospit', 'had', 'not', 'collect', 'the', 'fee', 'in', 'advanc']",0,2,0.0
+"['it', 'a', 'bad', 'practic', 'for', 'the', 'hospit', 'to', 'collect', 'the', 'fee', 'in', 'advanc', 'so', 'patient', 'be', 'alert', 'while', 'select', 'your', 'doctor']",0,1,-0.6999999999999998
+"['not', 'everi', 'bodi', 'is', 'like', 'that', 'i', 'have', 'been', 'busi', 'all', 'these', 'year', 'and', 'now', 'got', 'free', 'time', 'and', 'thought', 'of', 'share', 'my', 'experi']",1,3,0.4
+"['some', 'of', 'the', 'doctor', 'are', 'veri', 'good']",1,5,0.7
+"['but', 'some', 'of', 'them', 'are', 'are', 'realli', 'terribl', 'especi', 'the', 'one', 'who', 'are', 'in', 'emerg']",1,3,0.0
+"['i', 'had', 'a', 'veri', 'good', 'repo', 'for', 'forti', 'hospit', 'but', 'no', 'more', '', 'they', 'are', 'good', 'for', 'themselv', 'good', 'for', 'make', 'money', 'for', 'them', 'by', 'employ', 'such', 'doctor', '']",0,1,0.37
+"['and', 'walk', 'from', 'the', 'car', 'park', 'to', 'the', 'hospit', 'feel', 'like', 'a', 'dungeon', 'under', 'rattl', 'pipe', 'next', 'to', 'pump', 'room', 'and', 'what', 'not', 'truli', 'scari']",0,2,0.0
+"['also', 'minimum', 'car', 'park', 'charg', 'of', '₹60', 'wa', 'pure', 'loot', 'id', 'bare', 'left', 'the', 'car', 'for', '5', 'min', 'there', 'and', 'still', 'had', 'to', 'pay', '60']",1,3,0.0880952380952381
+"['administr', 'servic', 'is', 'so', 'irrespons', 'for', 'orthopaed', 'depart', 'inspit', 'of', 'collect', 'token', 'they', 'have', 'not', 'bill', 'me', 'for', 'hr']",0,2,0.0
+"['i', 'took', 'an', 'appoint', 'for', '11', 'am', 'and', 'it', 'now', '1230', 'pm', 'but', 'still', 'didnt', 'got', 'to', 'see', 'doctor', 'the', 'ladi', 'in', 'recept', 'are', 'so', 'rude', 'that', 'they', 'do', 'not', 'care', 'if', 'the', 'patient', 'is', 'suffer', 'due', 'to', 'their', 'delay', 'in', 'bill', 'they', 'work', 'so', 'slow', 'that', 'patient', 'ha', 'to', 'wait', 'for', 'so', 'long']",0,2,-0.19375000000000003
+"['dr', 'rajpal', 'in', 'cardiologist', 'depart', 'thi', 'whole', 'forti', 'hospit', 'and', 'the', 'app', 'myforti', 'is', 'a', 'total', 'scam', 'they', 'took', 'the', 'appoint', 'fee', 'even', 'when', 'the', 'appoint', 'wa', 'cancel', 'they', 'havent', 'refund', 'the', 'amount', 'back', 'from', '12th', 'juli', 'to', 'thi', 'novemb', 'i', 'have', 'not', 'got', 'the', 'refund']",0,2,0.06666666666666667
+"['i', 'mean', 'if', 'you', 'are', 'so', 'backdat', 'and', 'illiter', 'that', 'you', 'dont', 'even', 'know', 'that', 'account', 'statement', 'pdf', 'and', 'physic', 'passbook', 'would', 'show', 'same', 'record', 'then', 'whi', 'even', 'are', 'you', 'tri', 'to', 'get', 'an', 'app', 'for', 'your', 'hospit']",0,2,-0.15625
+"['worst', 'hospit', 'simpli', 'loot', 'peopl', 'with', 'too', 'high', 'charg', 'in', 'emerg', 'there', 'wa', 'onli', '1', 'nurs', 'who', 'wa', 'not', 'abl', 'to', 'handl', 'all', 'in', 'bill', 'there', 'is', 'onli', 'one', 'person', 'sit', 'caus', 'inconveni', 'to', 'huge', 'queue', 'onli', 'go', 'there', 'if', 'you', 'have', 'too', 'much', 'money']",0,2,-0.05999999999999997
+"['highli', 'disappoint', 'for', 'secur', 'servic', 'veri', 'arrog', 'speak', 'for', 'all', 'secur', 'and', 'admiss', 'counter', 'are', 'veri', 'wast', 'for', 'custom', 'support', 'not', 'given', 'solut', 'for', 'ward', 'book', 'bill', 'manag', 'ram', 'is', 'veri', 'careless', 'speak', 'for', 'custom', 'not', 'given', 'proper', 'solut']",0,1,-0.25
+"['i', 'paid', 'almost', '20', 'lack', 'for', 'last', 'one', 'year', 'but', 'last', 'week', 'i', 'am', 'veri', 'disappoint', 'for', 'admiss', 'counter', 'and', 'bill', 'manag', 'and', 'secur']",0,2,0.0
+"['one', 'of', 'the', 'worst', 'hospit', 'in', 'entir', 'india', 'doctor', 'visit', 'for', 'inpati', 'onli', 'onc', 'a', 'day', 'with', 'utter', 'non', 'sens', 'knowledg', 'unprofession', 'nurs', 'and', 'administr', 'who', 'treat', 'patient', 'like', 'materi', 'expens', 'is', 'pathet', 'who', 'take', '50k', 'for', 'just', 'investig', 'of', 'the', 'patient']",0,1,-0.5
+"['last', 'but', 'not', 'least', 'dr', 'balaji', 'and', 'dr', 'ravindra', 'were', 'excel', 'and', 'they', 'deserv', 'to', 'work', 'in', 'a', 'better', 'hospit', 'who', 'valu', 'patient', 'better']",1,5,0.2875
+"['one', 'of', 'the', 'worst', 'hospit', 'with', 'one', 'or', 'the', 'worst', 'servic']",0,2,-1.0
+"['they', 'don’t', 'care', 'about', 'patient', 'all', 'they', 'care', 'about', 'is', 'money', 'i', 'want', 'to', 'get', 'a', 'few', 'blood', 'test', 'done', 'i', 'tri', 'contact', 'their', 'health', 'check', 'up', 'depart', 'but', 'nobodi', 'answer', 'when', 'we', 'call', 'the', 'custom', 'servic', 'they', 'say', 'call', 'the', 'health', 'check', 'up', 'depart', 'i', 'had', 'made', 'atleast', '15', 'call', 'and', 'went', 'off', 'without', 'an', 'answer']",0,2,-0.2
+"['sinc', 'it', 'wa', 'import', 'that', 'the', 'test', 'be', 'done', 'in', 'thi', 'particular', 'hospit', 'onli', 'i', 'went', 'there', 'which', 'is', 'around', '8', 'km', 'from', 'my', 'hous', 'to', 'take', 'an', 'appoint', 'but', 'there', 'also', 'i', 'wa', 'given', 'a', 'contact', 'number', 'again', 'which', 'no', 'one', 'pick', 'up']",0,1,0.16666666666666666
+"['one', 'of', 'the', 'worst', 'hospit', 'my', 'mother', 'wa', 'admit', 'she', 'wa', 'have', 'eject', 'fraction', 'of', 'the', 'heart', 'of', '35℅', 'but', 'they', 'gave', 'fals', 'inform', 'say', '15℅', 'in', 'the', 'report', 'and', 'the', 'cardiologist', 'doctor', 'venkatesh', 'call', 'us', 'in', 'enquir', 'about', 'our', 'financi', 'inform', '']",0,2,-1.0
+"['doctor', 'appear', 'to', 'care', 'more', 'about', 'follow', 'administr', 'procedur', 'rather', 'than', 'heal', 'pharmaci', 'is', 'not', 'effici', 'and', 'doe', 'not', 'sell', 'medicin', 'accord', 'to', 'dosag', 'they', 'onli', 'care', 'about', 'maxim', 'profit', 'by', 'sell', 'medicin', 'in', 'full', 'strip', 'instead', 'of', 'how', 'much', 'patient', 'need']",0,1,0.35000000000000003
+"['veri', 'poor', 'servic', 'i', 'got', 'my', 'blood', 'cultur', 'done', 'on', '9th', 'june', '2023', 'till', 'now', 'no', 'report', 'i', 'got', 'admit', 'also', 'i', 'must', 'say', 'it', 'is', 'one', 'of', 'the', 'most', 'pathet', 'hospit', 'the', 'doctor', 'don’t', 'come', 'the', 'nurs', 'have', 'to', 'be', 'remind', 'to', 'give', 'medicin', 'the', 'food', 'is', 'pathet', 'it', 'stink', 'think', 'twice']",0,2,0.04999999999999999
+"['went', 'for', 'a', 'equip', 'servic', 'in', 'the', 'hospit', 'the', 'secur', 'in', 'back', 'gate', 'are', 'veri', 'unprofession']",0,1,0.0
+"['highli', 'disappoint', 'for', 'secur', 'servic', 'veri', 'arrog', 'speak', 'for', 'all', 'secur', 'and', 'admiss', 'counter', 'are', 'veri', 'wast', 'for', 'custom', 'support', 'not', 'given', 'solut', 'for', 'ward', 'book', 'bill', 'manag', 'ram', 'is', 'veri', 'careless', 'speak', 'for', 'custom', 'not', 'given', 'proper', 'solut']",0,2,-0.25
+"['i', 'paid', 'almost', '20', 'lack', 'for', 'last', 'one', 'year', 'but', 'last', 'week', 'i', 'am', 'veri', 'disappoint', 'for', 'admiss', 'counter', 'and', 'bill', 'manag', 'and', 'secur']",0,1,0.0
+"['met', 'dr', 'niti', 'raizada', 'for', 'treatment', 'of', 'micosi', 'fungoid', 'the', 'team', 'attend', 'us', 'veri', 'well', 'my', 'husband', 'had', 'secondari', 'infect', 'and', 'it', 'wa', 'taken', 'care', 'well', 'nurs', 'servic', 'and', 'hospit', 'wa', 'veri', 'good']",1,5,0.7
+"['all', 'servic', 'are', 'good', 'doctor', 'and', 'nurs', 'are', 'veri', 'good', 'dr', 'mohan', 'keshavamurthi', 'is', 'an', 'amaz', 'doctornurs', 'joseena', 'ha', 'help', 'us', 'whenev', 'we', 'need', 'hospit', 'is', 'clean', 'and', 'well', 'maintain']",1,5,0.5888888888888889
+"['dr', 'rajpal', 'singh', '', 'dr', 'jyothi', 'are', 'the', 'best', 'doctor', 'they', 'brought', 'faith', 'in', 'us', 'their', 'approach', 'toward', 'us', 'is', 'human', 'and', 'are', 'regularli', 'avail', 'show', 'us', 'utmost', 'care', 'over', 'all', 'had', 'a', 'veri', 'pleasant', 'experi', 'everyth', 'is', 'maintain', 'well', 'grate', 'to', 'all', 'the', 'nurs', 'who', 'have', 'help', 'me', 'recov']",1,5,0.5777777777777778
+"['dr', 'prasanth', 'kesari', 'treat', 'the', 'patient', 'well', 'and', 'oper', 'my', 'daughter', 'finger', 'injuri', 'veri', 'well', 'and', 'we', 'are', 'satisfi', 'with', 'it', 'nurs', 'anju', 'sneha', 'anshu', 'dhaya', 'were', 'veri', 'kind', 'and', 'care']",1,5,0.6
+"['dr', 'ajay', 'rao', 'is', 'an', 'excel', 'oncologistw', 'are', 'amaz', 'with', 'hi', 'treatment', 'and', 'care', 'given', 'to', 'my', 'mothernurs', 'servic', 'is', 'wonder', 'by', 'ms', 'ankamma', 'and', 'ms', 'sai', 'rahithya', 'all', 'the', 'staff', 'here', 'are', 'veri', 'support', 'mental', 'especi', 'ms', 'kavitha', 'slmshe', 'help', 'us', 'in', 'everi', 'step', 'of', 'the', 'treatmentspeci', 'thank', 'to', 'her', '']",1,5,-0.1
+"['dr', 'shivananda', 'patil', 'is', 'extraordinary3rd', 'floor', 'icu', 'bro', 'manikandan', 'd', 'si', 'soumya', 'are', 'superb', 'nurs', 'clean', 'staff', 'in', 'icu', 'and', '6th', 'floor', 'are', 'do', 'good', 'job', 'thank', 'you', 'for', 'your', 'wonder', 'servic', 'thank', 'you', 'dr', 'shivanand', 'patil', 'sir']",1,5,0.6888888888888888
+"['dr', 'sheela', 'chakravarthi', 'is', 'like', 'mu', 'famili', 'doctor', 'we', 'alway', 'consult', 'her', 'regard', 'ani', 'issu', 'of', 'my', 'famili', 'veri', 'gentl', 'and', 'kind', 'nurs', 'staff', 'are', 'extrem', 'help', 'and', 'on', 'time', 'everyth', 'went', 'well', 'thank', 'to', 'doctor', 'and', 'her', 'team']",1,5,0.6
+"['dr', 'naveen', 'd', 'is', 'realli', 'experienc', 'doctor', '', 'my', 'mother', 'knee', 'replac', 'done', 'by', 'him', 'he', 'as', 'done', 'a', 'good', 'job', 'we', 'are', 'veri', 'satisfi', 'with', 'hi', 'team', '', 'thank', 'you', 'sir', 'for', 'your', 'and', 'team', 'outstand', 'care', 'and', 'support']",1,5,0.7
+"['treatment', 'by', 'dr', 'suresh', 'babu', 'is', 'veri', 'good', 'we', 'have', 'come', 'for', 'chemotherapi', 'day', 'care', 'treatment', 'the', 'servic', 'are', 'excel', 'and', 'we', 'are', 'veri', 'happi', '', 'staff', 'are', 'veri', 'cooper', 'and', 'kind', 'happi', 'with', 'forti']",1,4,0.6499999999999999
+"['dr', 'manish', 'joshi', 'and', 'dr', 'shashikiran', 'ha', 'treat', 'my', 'husband', 'the', 'treat', 'provid', 'to', 'him', 'is', 'veri', 'help', 'for', 'him', 'to', 'recov', 'nurs', 'staff', 'are', 'also', 'veri', 'care']",1,4,0.0
+"['my', 'father', 'had', 'colorect', 'and', 'gallbladd', 'surgeri', 'perform', 'by', 'dr', 'shabbir', 'ahmad', 'and', 'we', 'were', 'all', 'impress', 'with', 'hi', 'patienc', 'and', 'attent', 'natur']",1,5,0.0
+"['dr', 'anil', 'kumar', 'anand', 'kustagi', 'ha', 'provid', 'amaz', 'treatment', 'that', 'help', 'to', 'recov', 'soon', 'nurs', 'particularli', 'teena', 'had', 'taken', 'care', 'of', 'us', 'veri', 'care']",1,5,0.0
+"['savio', 'music', 'chang', 'the', 'mood', 'and', 'made', 'the', 'stress', 'less', 'thank', 'you', 'for', 'the', 'music', 'thank', 'for', 'dr', 'nagabhusan', 'sir', 'and', 'dr', 'divya', 'madam', 'to', 'support', 'us']",1,4,-0.16666666666666666
+"['i', 'am', 'veri', 'impress', 'with', 'dr', 'narayan', 'huls', '', 'veri', 'care', 'intellig', '', 'compassion', 'toward', 'hi', 'work', 'he', 'had', 'given', 'me', 'confid', 'to', 'undergo', 'bilater', 'knee', 'replac', 'so', 'i', 'did', 'and', 'i', 'am', 'veri', 'happi', 'with', 'my', 'decis', 'great', 'person']",1,5,0.8
+"['dr', 'raju', 'g', 'h', 'counsel', 'treat', 'for', 'gallbladd', 'stone', 'he', 'is', 'an', 'excel', 'doctor', 'with', 'human', 'nurs', 'staff', 'in', '6th', 'floor', 'are', 'veri', 'care', 'the', 'process', 'is', 'veri', 'fast', 'compar', 'to', 'other', 'hospit']",1,4,0.025000000000000005
+"['dr', 'manisha', 'rajpal', 'singh', 'she', 'is', 'veri', 'smart', 'we', 'realli', 'appreci', 'her', 'kind', 'and', 'compasion']",1,5,0.40714285714285714
+"['she', 'hold', 'the', 'skill', 'necessari', 'for', 'those', 'who', 'suffer', 'with', 'endometriosi', 'her', 'flexibl', 'to', 'adapt', 'to', 'the', 'treatment', 'she', 'give', 'us', 'courag']",1,5,0.0
+"['thi', 'feedback', 'is', 'the', 'express', 'of', 'my', 'gratitud', 'and', 'experi', 'which', 'may', 'be', 'benefit', 'for', 'the', 'patient', 'and', 'their', 'famili']",1,5,0.0
+"['hospit', 'servic', 'are', 'veri', 'good', 'extrem', 'well', 'maintain', 'hospit', 'with', 'a', 'terrif', 'team', 'of', 'doctor', 'with', 'a', 'human', 'approach', 'toward', 'patient', 'who', 'leav', 'no', 'stone', 'unturn', 'for', 'a', 'patient', 'and', 'stand', 'by', 'you', 'on', 'the', 'journey', 'to', 'recoveri']",1,4,0.35
+"['overal', 'had', 'a', 'veri', 'good', 'experi', 'and', 'feel', 'at', 'home', 'everi', 'staff', 'have', 'taken', 'a', 'great', 'care', 'of', 'me', 'im', 'veri', 'grate', 'to', 'all', 'the', 'staff', 'who', 'ha', 'help', 'me', 'recov', 'by', 'treat', 'me', 'with', 'utmost', 'care']",1,5,0.75
+"['forti', 'is', 'a', 'much', 'reliabl', 'hospit', 'where', 'everi', 'patient', 'who', 'visit', 'the', 'hospit', 'is', 'treat', 'like', 'a', 'famili', 'wish', 'the', 'team', 'a', 'grand', 'success', 'a', 'bright', 'futur', 'and', 'good', 'speed']",1,4,0.4800000000000001
+"['my', 'entir', 'pregnanc', 'experi', 'at', 'forti', 'wa', 'phenomen', 'from', 'prenat', 'to', 'deliveri', '', 'my', 'experi', 'of', 'be', 'a', 'first', 'time', 'mother', 'wa', 'made', 'the', 'most', 'memor', 'experi', 'thank', 'you', '', 'gayatri', 'd', 'kamath', 'and', 'team', 'for', 'make', 'the', 'happiest', 'day', 'of', 'my', 'life', 'even', 'better', '']",1,5,0.4166666666666667
+"['excel', 'servic', 'everyth', 'is', 'well', 'taken', 'care', 'of', 'by', 'the', 'staff', 'here', 'food', 'is', 'also', 'good', 'veri', 'neatli', 'maintain', 'room', 'i', 'am', 'fulli', 'satisfi', 'with', 'the', 'treatment', 'and', 'hospit', 'at', 'thi', 'hospit', 'thank', 'you', 'so', 'much', 'forti', 'team']",1,5,0.44999999999999996
+"['dr', 'sheela', 'is', 'a', 'veri', 'profession', 'and', 'experienc', 'doctor', 'good', 'facil', 'and', 'the', 'staff', 'is', 'good', 'too', 'howev', 'dure', 'insur', 'clearanc', 'you', 'may', 'have', 'to', 'face', 'a', 'littl', 'issu', 'overal', 'veri', 'good', 'hospit', 'with', 'great', 'facil']",1,4,0.7249999999999999
+"['dr', 'raju', 'sir', 'and', 'team', 'are', 'veri', 'good', 'and', 'the', 'servic', 'of', 'all', 'staff', 'member', 'is', 'veri', 'good', 'facil', 'in', 'hospit', 'are', 'excel', 'and', 'accur']",1,5,0.7
+"['had', 'come', 'for', 'ear', 'surgeri', 'for', 'my', 'brother', 'under', 'dr', 'athira', 'ramakrishnan', 'she', 'had', 'given', 'excel', 'treatment']",1,4,0.0
+"['she', 'had', 'an', 'effect', 'commun', 'with', 'the', 'patient', 'and', 'explain', 'everyth', 'thoroughli', 'the', 'nurs', 'servic', 'were', 'realli', 'good', 'be', 'avail', 'all', 'the', 'time', 'around', 'veri', 'happi', 'with', 'the', 'servic', 'given', 'by', 'the', 'support', 'staff', 'as', 'well', 'all', 'the', 'staff', 'perform', 'their', 'duti', 'realli', 'well', 'thank', 'you', 'all']",1,5,0.7
+"['recommend', 'doctor', 'and', 'hospit', 'for', 'cardiac', 'surgeri', 'dr', 'vivek', 'jawali', 'dr', 'murali', 'manohar', 'dr', 'nikhil', 'are', 'excelk', 'team', 'doctor', 'suraksha', 'alida', 'aneesha', 'support', 'staff', 'are', 'extrem', 'good', 'care', 'food', 'is', 'hygien', 'and', 'time']",1,5,0.32499999999999996
+"['dr', 'usha', 'b', 'r', 'is', 'veri', 'well', 'experienc', 'and', 'knowledg', 'she', 'treat', 'patient', 'as', 'her', 'friend', 'build', 'that', 'confid', 'and', 'bond', 'with', 'patient', 'to', 'make', 'them', 'comfort']",1,5,0.0
+"['overal', 'good', 'experi', 'with', 'her', 'daycar', 'all', 'nurs', 'staff', 'are', 'veri', 'care', 'and', 'alway', 'avail', 'thank', 'to', 'dr', 'usha', 'and', 'her', 'team']",1,4,0.7
+"['dr', 'shabeer', 'ahm', 'ha', 'provid', 'prompt', 'treatment', 'and', 'it', 'help', 'me', 'to', 'recov', 'nurs', 'are', 'also', 'veri', 'good', 'theyr', 'veri', 'help', 'and', 'humbl']",1,5,0.7
+"['veri', 'satisfi', 'with', 'dr', 's', 's', 'praharaj', 'nice', 'we', 'did', 'my', 'surgeri', 'super', 'nurs', 'staff', 'from', 'morn', 'till', 'night', 'they', 'took', 'care', 'veri', 'effici', 'onc', 'we', 'press', 'the', 'call', 'bell', 'they', 'will', 'alway', 'come', 'immedi', 'food', 'and', 'clean', 'team', 'alway', 'on', 'time', 'overal', 'good', 'servic']",1,4,0.5
+"['dr', 'usha', 'b', 'r', 'is', 'friendli', 'and', 'analysi', 'the', 'medic', 'condit', 'veri', 'effici', 'she', 'took', 'care', 'veri', 'well', 'nurs', 'staff', 'are', 'veri', 'veri', 'cooper', 'special', 'thank', 'to', 'sister', 'shalini', 'we', 'like', 'the', 'environ', 'veri', 'much', 'and', 'hope', 'for', 'the', 'best', 'result', 'thank', 'u', 'all']",1,5,0.5190476190476191
+"['the', 'treatment', 'wa', 'veri', 'good', 'from', 'the', 'hospit', 'they', 'guid', 'us', 'in', 'each', 'and', 'everi', 'step', 'the', 'doctor', 'includ', 'gayathri', 'kamat', 'and', 'swetha', 'mam', 'are', 'realli', 'good', 'and', 'care', 'it', 'wa', 'nice', 'to', 'get', 'the', 'treatment', 'done', 'at', 'forti']",1,5,0.6666666666666666
+"['dr', 'sudha', 'vinod', 'menon', 'is', 'an', 'amaz', 'doctor', 'she', 'ha', 'explain', 'everyth', 'to', 'us', 'properli', 'all', 'the', 'nurs', 'are', 'veri', 'good', 'and', 'care']",1,4,0.7
+"['my', 'wife', 'wa', 'admit', 'recent', 'for', 'an', 'emerg', 'while', 'she', 'is', 'expect', 'and', 'we', 'are', 'extrem', 'satisfi', 'with', 'all', 'the', 'servic', 'provid', 'by', 'doctor', 'and', 'nurs', 'right', 'from', 'the', 'emerg', 'depart', 'till', 'our', 'discharg']",1,5,0.14285714285714285
+"['special', 'thank', 'to', 'dr', 'chaitra', 'and', 'dr', 'mangala', 'for', 'a', 'thorough', 'checkup', 'and', 'dilig', 'treatment', 'approach', 'dure', 'thi', 'visit']",1,5,0.35714285714285715
+"['i', 'visit', 'dr', 'usha', 'from', 'gynecolog', 'depart', 'at', 'forti', 'bannerghatta', 'the', 'diagnosi', 'wa', 'apt', 'and', 'had', 'to', 'go', 'though', 'a', 'minor', 'surgeri', 'later', 'i', 'wa', 'treat', 'well', 'by', 'all', 'the', 'doctor', 'and', 'nurs', 'everyon', 'wa', 'realli', 'corpor', 'and', 'help']",1,4,0.18333333333333332
+"['i', 'am', 'veri', 'thank', 'to', 'thi', 'hospit', 'and', 'dr', 'for', 'cure', 'my', 'father', 'health', 'problem', 'with', 'hi', 'skill', 'treatment', 'i', 'realli', 'appreci', 'all', 'the', 'doctor', 'team', 'and', 'nurs', 'staff', 'for', 'their', 'commit', 'excel', 'servic']",1,5,0.0
+"['we', 'are', 'realli', 'satisfi', 'with', 'the', 'servic', 'from', 'forti', 'there', 'is', 'no', 'neg', 'point', 'about', 'thi', 'hospit', 'well', 'maintain', 'and', 'veri', 'systemat', 'the', 'best', 'part', 'is', 'your', 'time', 'will', 'not', 'be', 'wast', 'even', 'for', '1', 'min', 'thank', 'for', 'the', 'doctor', 'and', 'all', 'other', 'worker']",1,3,0.4375
+"['had', 'an', 'emerg', 'visit', 'to', 'the', 'hospit', 'with', 'my', 'father', 'who', 'wa', 'hospitalis', 'for', 'a', 'coupl', 'of', 'day', 'due', 'to', 'a', 'surgeri', 'the', 'doctor', 'and', 'staff', 'of', 'the', 'hospit', 'took', 'utmost', 'care', 'the', 'best', 'part', 'of', 'the', 'hospit', 'is', 'that', 'the', 'team', 'follow', 'it', 'process', 'and', 'protocol', 'so', 'well']",1,5,0.4375
+"['good', 'hospit', '', 'servic']",1,5,0.7
+"['great', 'hospit', 'with', 'qualiti', 'standard']",1,4,0.4
+"['dr', 'chaya', 'patel', 'is', 'a', 'veri', 'good', 'doctor', 'know', 'her', 'from', '10', 'year', 'polit', 'and', 'experienc']",1,5,0.7
+"['diagnosi', 'treatment', 'and', 'care', 'are', 'good', 'it', 'is', 'a', 'big', 'organis', 'and', 'a', 'larg', 'team', 'of', 'doctor', 'and', 'support', 'staff', 'do', 'a', 'decent', 'job', 'cost', 'is', 'bit', 'on', 'the', 'higher', 'side', 'a', 'cot', 'could', 'be', 'provid', 'for', 'attend', 'in', 'gener', 'ward', 'discharg', 'process', 'wa', 'not', 'smooth']",1,3,0.18333333333333335
+"['the', 'ward', 'wa', 'also', 'veri', 'clean', 'and', 'well', 'maintain', 'we', 'had', 'chosen', 'a', 'twin', 'share', 'room']",1,5,0.3666666666666667
+"['the', 'pulmonologist', 'team', 'did', 'a', 'veri', 'thorough', 'diagnosi', 'and', 'suggest', 'the', 'best', 'cours', 'of', 'treatment']",1,5,1.0
+"['my', 'entir', 'pregnanc', 'experi', 'at', 'forti', 'wa', 'phenomen', 'from', 'prenat', 'to', 'deliveri', '', 'my', 'experi', 'of', 'be', 'a', 'first', 'time', 'mother', 'wa', 'made', 'the', 'most', 'memor', 'experi', 'thank', 'you', '', 'gayatri', 'd', 'kamath', 'and', 'team', 'for', 'make', 'the', 'happiest', 'day', 'of', 'my', 'life', 'even', 'better', '']",1,4,0.4166666666666667
+"['dr', 'sheela', 'is', 'a', 'veri', 'profession', 'and', 'experienc', 'doctor', 'good', 'facil', 'and', 'the', 'staff', 'is', 'good', 'too', 'howev', 'dure', 'insur', 'clearanc', 'you', 'may', 'have', 'to', 'face', 'a', 'littl', 'issu', 'overal', 'veri', 'good', 'hospit', 'with', 'great', 'facil']",1,5,0.7249999999999999
+"['it', 'is', 'a', 'big', 'organis', 'and', 'a', 'larg', 'team', 'of', 'doctor', 'and', 'support', 'staff', 'do', 'a', 'decent', 'job', 'cost', 'is', 'bit', 'on', 'the', 'higher', 'side']",1,4,0.13888888888888887
+"['they', 'were', 'a', 'great', 'support', 'dure', 'the', 'difficult', 'time', 'night', 'staff', 'were', 'except', 'alway', 'run', 'to', 'peopleâ€™', 'aid', 'i', 'felt', 'they', 'were', 'overload', 'with', 'work']",1,5,0.15000000000000002
+"['over', 'all', 'great', 'servic', 'and', 'support', 'all', 'of', 'staff', 'member', 'were', 'awesom', 'peopl']",1,4,0.8
+"['aster', 'hospit', 'ha', 'the', 'latest', 'system', 'and', 'techniqu', 'the', 'hospit', 'is', 'veri', 'clean', 'and', 'well', 'maintain']",1,4,0.43333333333333335
+"['i', 'wholeheartedli', 'recommend', 'them', 'to', 'anyon', 'in', 'need', 'of', 'cardiac', 'care', 'their', 'combin', 'of', 'medic', 'expertis', 'and', 'genuin', 'compass', 'is', 'truli', 'remark']",1,5,-0.05
+"['they', 'are', 'master', 'in', 'consult', 'treatment', 'lab', 'servic', 'and', 'car', 'special', 'thank', 'to', 'emerg', 'icu', 'insur', 'and', 'secur', 'team']",1,4,0.35714285714285715
+"['overal', 'help', 'staff', 'and', 'good', 'servic']",1,5,0.7
+"['crowd', 'manag', 'can', 'be', 'improv', 'and', 'nurs', 'support', 'staff', 'can', 'be', 'increas', 'in', 'depart']",1,3,0.0
+"['worst', 'hospit', 'onli', 'becaus', 'of', 'good', 'doctor', 'we', 'came', 'here', 'except', 'that', 'each', 'and', 'everi', 'thing', 'here', 'is', 'worst']",0,2,-0.43333333333333335
+"['aster', 'cmi', 'is', 'one', 'of', 'the', 'best', 'hospit', 'with', 'good', 'facil', 'and', 'the', 'top', 'consult', 'in', 'the', 'south', 'india']",1,4,0.7333333333333334
+"['i', 'would', 'strongli', 'recommend', 'thi', 'hospit', 'to', 'whoever', 'want', 'top', 'class', 'treatment', 'and', 'best', 'administr', 'servic']",1,4,0.75
+"['one', 'of', 'the', 'best', 'hospit', 'with', 'good', 'facil', 'we', 'had', 'taken', 'full', 'bodi', 'checkup', 'for', 'both', 'realli', 'good', 'staff', 'and', 'friendli', 'staff']",1,5,0.6875
+"['we', 'were', 'in', 'the', 'gener', 'ward', 'and', 'there', 'wa', 'no', 'nurs', 'call', 'option', 'provid']",0,2,0.0
+"['admit', 'for', 'dengu', 'treatment', 'under', 'doctor', 'brunda', 'madam', 'doctor', 'treat', 'veri', 'well', 'and', 'help', 'me', 'to', 'get', 'platlet', 'improv', 'within', 'a', 'short', 'time']",1,4,0.0
+"['i', 'got', 'a', 'posit', 'vibe', 'while', 'leav', 'the', 'hospit', 'they', 'provid', 'get', 'well', 'soon', 'card', 'for', 'me', 'excel', 'servic', 'treatment']",1,4,0.0
+"['if', 'you', 'have', 'enough', 'money', 'then', 'you', 'can', 'choos', 'thi', 'hospit', 'there', 'is', 'no', 'limit', 'on', 'loot', 'patient', 'here']",1,3,0.0
+"['for', 'hospit', 'below', 'is', 'feedback', 'senior', 'doctor', 'are', 'good', 'jr', 'doctor', 'are', 'not', 'share', 'or', 'respond', 'for', 'ani', 'queri']",1,3,0.7
+"['nurs', 'station', 'support', 'is', 'veri', 'poor', 'we', 'have', 'to', 'follow', 'up', 'for', 'everyth']",0,2,-0.4
+"['they', 'just', 'say', 'wait', 'doctor', 'will', 'come', 'or', 'test', 'will', 'start', 'no', 'proper', 'data', 'they', 'have']",0,1,0.0
+"['fantast', 'treatment', 'doctor', 'nagamalesh', 'sir', 'remov', 'two', 'block', 'success', 'and', 'he', 'made', 'me', 'veri', 'comfort', 'procedur', 'time', 'awesom', 'support']",1,4,0.3
+"['dr', 'somshekar', 'is', 'the', 'best', 'he', 'gave', 'my', 'mom', 'a', 'second', 'life']",1,4,0.5
+"['staff', 'are', 'friendli', 'and', 'excel', 'in', 'whatev', 'servic', 'they', 'render']",1,5,0.0
+"['thi', 'is', 'an', 'extrem', 'expens', 'hospit', 'which', 'cannot', 'be', 'afford', 'without', 'insur']",1,3,0.0
+"['in', 'patient', 'care', 'wa', 'great', 'dure', 'the', 'first', 'few', 'day', 'nurs', 'team', 'wa', 'veri', 'fast', 'to', 'respond', 'and', 'veri', 'friendli']",1,4,0.2625
+"['regular', 'visit', 'by', 'the', 'doctor', 'excel', 'hous', 'keep']",1,5,0.0
+"['the', 'food', 'take', 'a', 'veri', 'long', 'time', 'to', 'get', 'deliv', 'food', 'is', 'again', 'on', 'the', 'expens', 'side']",0,2,-0.05
+"['a', 'lot', 'can', 'improv', 'in', 'thi', 'place', 'to', 'make', 'the', 'experi', 'great']",1,3,0.8
+"['itâ€™', 'been', '7', 'month', 'sinc', 'the', 'accid', 'now', 'and', 'iâ€™m', 'back', 'on', 'my', 'feet', 'thank', 'to', 'aster', 'cmi', 'for', 'their', 'good', 'healthcar']",1,4,0.35
+"['the', 'registr', 'experi', 'wa', 'quick', 'and', 'hassl', 'free', 'the', 'diagnost', 'lab', 'are', 'good', 'too']",1,4,0.4777777777777778
+"['overal', 'it', 'is', 'a', 'good', 'and', 'clean', 'hospit', 'which', 'make', 'it', 'one', 'of', 'the', 'most', 'favorit', 'hospit', 'for', 'local', 'and', 'intern', 'patient']",1,5,0.39166666666666666
+"['the', 'doctor', 'are', 'the', 'best', 'in', 'the', 'citi', 'along', 'with', 'great', 'infrastructur', 'make', 'thi', 'a', 'prefer', 'hospit', 'for', 'all']",1,4,0.9
+"['had', 'a', 'veri', 'good', 'experi', 'with', 'the', 'hospit', 'doctor', 'dr', 'brinda', 'dr', 'lokesh', 'and', 'surgeon', 'dr', 'santosh', 'nu', 'neuro']",1,5,0.7
+"['i', 'wa', 'realli', 'happi', 'and', 'fulli', 'satisfi', 'with', 'the', 'pre', 'surgeri', 'prepar', 'surgeri', 'oper', '', 'post', 'surgeri', 'care']",1,5,0.0
+"['my', 'experi', 'with', 'the', 'hospit', 'wa', 'good', 'overal']",1,5,0.7
+"['the', 'hospit', 'ha', 'good', 'infrastructur', 'and', 'facil']",1,4,0.7
+"['when', 'it', 'come', 'to', 'doctor', 'they', 'do', 'have', 'lot', 'of', 'well', 'experienc', 'and', 'knowledg', 'doctor']",1,4,0.0
+"['special', 'mention', 'to', 'except', 'nurs', 'and', 'other', 'medic', '', 'non', 'medic', 'staff', 'who', 'were', 'veri', 'care', 'and', 'check', 'on', 'the', 'kid', 'everi', 'now', 'and', 'then']",1,5,0.11607142857142858
+"['especi', 'mr', 'rajesh', 'took', 'care', 'of', 'mother', 'like', 'anyth', 'whenev', 'whatev', 'we', 'ask', 'he', 'had', 'help', 'and', 'arrang', 'great', 'job']",1,4,0.8
+"['i', 'recent', 'had', 'a', 'posit', 'experi', 'at', 'aster', 'cmi', 'hospit']",1,5,0.0
+"['i', 'am', 'so', 'glad', 'that', 'we', 'got', 'a', 'kidney', 'transplant', 'done', 'for', 'my', 'wife', 'in', 'aster', 'hospit', 'i', 'can', 'say', 'the', 'best', 'hospit', 'with', 'superb', 'servic']",1,4,0.8333333333333334
+"['overal', 'the', 'hospit', 'ha', 'been', 'follow', 'good', 'maintan', 'and', 'clean', 'of', 'the', 'ward', 'to', 'ensur', 'hygien']",1,5,0.5333333333333333
+"['visit', 'the', 'medic', 'oncolog', 'depart', 'the', 'consult', 'process', 'wa', 'smooth', 'staff', 'were', 'polit', 'and', 'help']",1,4,0.4
+"['overal', 'it', 'wa', 'good', 'treatment', 'wise', 'and', 'the', 'servic', 'were', 'also', 'realli', 'good']",1,5,0.6999999999999998
+"['the', 'entir', 'gynac', 'depart', 'includ', 'fetal', 'medicin', 'opd', 'staff', 'labor', 'ward', 'and', 'nurs', 'work', 'veri', 'effici', 'and', 'effect', 'throughout', 'the', 'time']",1,5,0.0
+"['my', 'wife', 'wa', 'given', 'a', 'complimentari', 'massag', 'post', 'deliveri', 'which', 'speed', 'up', 'her', 'recoveri', 'and', 'wa', 'veri', 'relax', 'for', 'her']",1,4,0.0
+"['the', 'staff', 'also', 'organis', 'a', 'surpris', 'cake', 'cut', 'for', 'us', 'as', 'part', 'of', 'the', 'celebr']",1,5,0.0
+"['the', 'admiss', 'process', 'wa', 'remark', 'smooth', 'reflect', 'the', 'hospit', 'commit', 'to', 'effici', 'and', 'patient', 'comfort']",1,4,0.4
+"['the', 'staff', 'maint', 'high', 'level', 'of', 'profession', 'and', 'compass', 'make', 'me', 'feel', 'wellcaredfor', 'throughout', 'my', 'stay']",1,4,0.16
+"['i', 'had', 'good', 'experi', 'with', 'dr', 'sanjay', 'bhatt', 'who', 'give', 'time', 'for', 'patient', 'to', 'understand', 'their', 'problem', 'and', 'provid', 'the', 'right', 'medic', 'and', 'suggest']",1,5,0.4928571428571428
+"['all', 'good', 'treatment', 'from', 'pediatr', 'surgeri', 'team']",1,5,0.7
+"['aster', 'ha', 'been', 'the', 'place', 'for', 'all', 'my', 'medic', 'need', 'they', 'have', 'one', 'of', 'best', 'medic', 'care', 'that', 'you', 'can', 'ever', 'get']",1,5,1.0
+"['the', 'staff', 'are', 'care', 'and', 'one', 'of', 'the', 'most', 'effici', 'hospit', 'i', 'have', 'ever', 'visit']",1,5,0.5
+"['i', 'had', 'some', 'issu', 'in', 'bed', 'assign', 'probabl', 'due', 'to', 'patient', 'load', 'on', 'the', 'hospit']",1,3,-0.125
+"['the', 'nurs', 'did', 'an', 'excel', 'job', 'especi', 'manjari', 'payal', 'and', 'moushmi', 'who', 'alway', 'attend', 'with', 'a', 'smile', 'when', 'need']",1,5,0.3
+"['i', 'believ', 'the', 'hospit', 'is', 'expens', 'compar', 'to', 'other']",1,3,-0.125
+"['the', 'cost', 'of', 'hospit', 'is', 'more']",1,3,0.5
+"['i', 'would', 'not', 'like', 'to', 'recommend', 'thi', 'hospit', 'to', 'anyon', 'becaus', 'of', 'the', 'bill', 'they', 'prepar', 'at', 'the', 'time', 'of', 'discharg']",0,2,0.0
+"['i', 'had', 'a', 'singl', 'privat', 'room', 'but', 'wa', 'not', 'clean', 'and', 'the', 'staff', 'wa', 'veri', 'rude']",0,1,-0.24166666666666667
+"['the', 'food', 'is', 'not', 'tasti', 'and', 'is', 'not', 'made', 'well', 'thi', 'can', 'definit', 'improv']",0,2,0.0
+"['my', 'wife', 'dure', 'the', 'treatment', 'got', 'great', 'support', 'from', 'the', 'overal', 'medic', 'team']",1,4,0.8
+"['onli', 'concern', 'is', 'with', 'the', 'admiss', 'process', 'and', 'canteen', 'it', 'need', 'to', 'be', 'improv']",1,3,0.0
+"['came', 'to', 'the', 'radiolog', 'depart', 'for', 'my', 'wifeâ€™', 'mri', 'and', 'ct', 'scan', 'it', 'wa', 'done', 'in', 'a', 'quickli', 'and', 'veri', 'posit', 'way']",1,4,0.0
+"['i', 'am', 'extrem', 'happi', 'the', 'way', 'she', 'is', 'help', 'me', 'in', 'my', 'weight', 'loss', 'journey']",1,5,0.0
+"['i', 'request', 'to', 'provid', 'more', 'staff', 'in', 'gener', 'ward']",1,3,0.5
+"['the', 'nurs', 'staff', 'food', 'servic', 'gener', 'ward', 'room', 'facil', 'were', 'excel']",1,5,0.0
+"['admit', 'one', 'day', 'for', 'the', 'medic', 'observ', '1', 'week', 'befor', 'deliveri', 'all', 'process', 'again', 'wa', 'veri', 'smooth']",1,4,0.4
+"['all', 'produc', 'ha', 'been', 'taken', 'veri', 'care', 'and', 'neat', 'and', 'smooth']",1,4,0.4
+"['shridhara', 's', 'from', 'nurs', 'team', 'ha', 'given', 'immens', 'support', 'and', 'happi', 'for', 'him']",1,4,0.0
+"['gynecologist', 'bhavani', 'madam', 'is', 'good', 'treat', 'commun', 'and', 'treatment', 'all', 'is', 'v', 'good']",1,5,0.7
+"['the', 'poor', 'cant', 'afford', 'thi', 'hospit', 'in', 'my', 'opinion', 'if', 'you', 'have', 'medic', 'insur', 'then', 'it', 'easi']",1,3,-0.4
+"['to', 'the', 'neuro', 'icu', 'nurs', '5th', 'floor', 'nurs', 'shout', 'to', 'samima', 'and', 'full', 'thank', 'you', 'you', 'did', 'a', 'great', 'job']",1,4,0.575
+"['everyth', 'is', 'so', 'well', 'coordin', 'i', 'am', 'definit', 'a', 'happi', 'patient']",1,5,0.0
+"['staff', 'and', 'nurs', 'are', 'quit', 'arrog', 'and', 'rude', 'they', 'are', 'not', 'at', 'all', 'punctual', 'and', 'i', 'believ', 'if', 'there', 'wa', 'a', 'seriou', 'emerg', 'they', 'would', 'still', 'come', 'late']",0,2,-0.3
+"['the', 'amount', 'we', 'are', 'pay', 'is', 'not', 'worth', 'it', 'at', 'all']",0,2,-0.15
+"['my', 'babi', 'got', 'admit', 'in', 'hospit', 'and', 'the', 'treatment', 'wa', 'good', 'as', 'well', 'as', 'secur', 'were', 'kind', 'and', 'polit', 'especi', 'sangeeta', 'and', 'shraddha']",1,4,0.6499999999999999
+"['staff', 'and', 'nurs', 'servic', 'is', 'worst', 'we', 'are', 'onli', 'to', 'beg', 'to', 'treat', 'patient', 'and', 'inform', 'to', 'give', 'tablet', 'to', 'patient']",0,2,-1.0
+"['mani', 'other', 'doctor', 'and', 'support', 'team', 'ha', 'help', 'us', 'to', 'over', 'come', 'thi', 'situat']",1,5,-0.125
+"['if', 'the', 'nurs', 'donâ€™t', 'know', 'how', 'to', 'do', 'their', 'job', 'they', 'shouldnâ€™t', 'be', 'allow', 'to', 'work', 'near', 'a', 'patient']",0,1,0.1
+"['hospit', 'is', 'veri', 'clean', 'and', 'good', 'and', 'doctor', 'mr', 'ravikumar', 'c', 'p', 'is', 'treat', 'our', 'babi', 'within', '3day', 'our', 'babi', 'felt', 'better', 'and', 'she', 'becam', 'activ']",1,4,0.5222222222222223
+"['one', 'of', 'the', 'best', 'hospit', 'and', 'good', 'respons', 'from', 'dr', 'i', 'm', 'happi', 'to', 'the', 'servic', 'and', 'secur', 'nice', 'to', 'see', 'they', 'are', 'commun', 'with', 'attende']",1,5,0.7666666666666666
+"['staff', 'is', 'prompt', 'in', 'their', 'servic', 'excel', 'team', 'special', 'thank', 'to', 'venamma', 'taken', 'good', 'care', 'clean', 'place']",1,4,0.47460317460317464
+"['veri', 'bad', 'experi']",0,2,-0.6999999999999998
+"['peopl', 'who', 'handl', 'insur', 'are', 'veri', 'careless', 'they', 'donâ€™t', 'even', 'bother', 'about', 'the', 'tension', 'and', 'emerg', 'of', 'the', 'patient']",0,2,-0.5
+"['they', 'alway', 'give', 'wrong', 'commun', 'thi', 'is', 'realli', 'a', 'veri', 'sad', 'part', 'about', 'the', 'hospit']",0,1,-0.5
+"['we', 'are', 'veri', 'happi', 'about', 'the', 'treatment', 'provid', 'technolog', 'and', 'doctor', 'advic', 'and', 'concern', 'toward', 'patient', 'in', 'aster', 'cmi', 'hospit']",1,4,0.0
+"['worst', 'experi', 'in', 'aster', 'cmi', 'hospit']",0,2,-1.0
+"['she', 'wa', 'except', 'well', 'in', 'handl', 'patient', 'by', 'her', 'sooth', 'word', 'she', 'made', 'worri', 'patient', 'comfort']",1,4,0.0
+"['they', 'are', 'mislead', 'peopl', 'by', 'not', 'inform', 'about', 'the', 'term', 'and', 'condit', 'properli']",0,2,0.0
+"['the', 'surgeri', 'went', 'realli', 'well', 'and', 'the', 'recoveri', 'is', 'nice', 'as', 'of', 'now']",1,5,0.6
+"['worst', 'hospit', 'to', 'follow', 'up', 'even', 'tri', 'walkin', 'appoint', 'but', 'doctor', 'will', 'not', 'take', 'walkin', 'peopl']",0,2,-1.0
+"['nurs', 'care', 'given', 'by', 'nurs', 'dure', 'all', 'the', 'shift', 'wa', 'good']",1,4,0.7
+"['the', 'support', 'servic', 'team', 'wa', 'also', 'good', 'in', 'their', 'work', 'overal', 'the', 'experi', 'wa', 'realli', 'good', 'and', 'onc', 'again', 'thank', 'to', 'the', 'entir', 'aster', 'team']",1,5,0.7
+"['worst', 'hospit', 'and', 'manag']",0,2,-1.0
+"['the', 'staff', 'is', 'not', 'at', 'all', 'help', 'and', 'do', 'not', 'give', 'clear', 'instruct']",0,1,0.10000000000000002
+"['i', 'also', 'wait', 'for', 'one', 'hour', 'with', 'a', 'confirm', 'appoint', 'and', 'the', 'ladi', 'at', 'the', 'recept', 'wa', 'veri', 'veri', 'rude']",0,2,-0.3
+"['thi', 'ha', 'been', 'the', 'worst', 'experi', 'with', 'a', 'hospit', 'across', 'india']",0,1,-1.0
+"['mani', 'thank', 'to', 'all', 'staff', 'even', 'they', 'celebr', 'my', 'daughter', 'birthday', '', 'senior', 'doctor', 'harish', 'also', 'particip', 'in', 'it']",1,4,0.0
+"['the', 'other', 'servic', 'are', 'good', 'but', 'rehab', 'is', 'horribl', 'pleas', 'rectifi', 'thi', 'fault']",1,3,0.2875
+"['horribl', 'food', 'worst', 'food', 'among', 'all', 'the', 'hospit', 'i', 'know', 'of', 'in', 'bangalor']",0,2,-1.0
+"['veri', 'unrespons', 'housekeep', 'staff', 'they', 'will', 'come', 'to', 'clean', 'and', 'replac', 'the', 'sheet', 'at', '5', 'am', 'when', 'the', 'patient', 'is', 'sleep']",0,2,0.3666666666666667
+"['exhaust', 'fan', 'in', 'the', 'bathroom', 'wa', 'not', 'work', 'thi', 'is', 'safeti', 'issu', 'if', 'you', 'have', 'to', 'use', 'the', 'bathroom', 'after', 'anoth', 'sick', 'patient']",0,1,-0.7142857142857143
+"['overal', 'the', 'hospit', 'is', 'veri', 'expens', 'for', 'the', 'kind', 'of', 'servic', 'and', 'amen', 'provid']",1,4,0.6
+"['i', 'could', 'easili', 'say', 'aster', 'cmi', 'is', 'the', 'best', 'hospit', 'for', 'children', 'in', 'entir', 'bangalor']",1,4,1.0
+"['dr', 'sapna', 'lulla', 'wa', 'veri', 'nice', 'everyth', 'wa', 'veri', 'smooth']",1,4,0.5
+"['veri', 'conveni', 'good', 'park', 'space', 'fast', 'servic', 'in', 'the', 'recept', 'well', 'educ', '', 'experienc', 'doctor', 'lab', 'test', 'on', 'time']",1,5,0.44999999999999996
+"['they', 'took', 'care', 'of', 'everyth', 'and', 'made', 'the', 'patient', 'feel', 'absolut', 'comfort']",1,4,0.0
+"['i', 'expect', 'more', 'profession', 'attitud', 'from', 'the', 'staff', 'we', 'meet', 'two', 'doctor', 'both', 'are', 'busi', 'and', 'allow', 'less', 'time', 'for', 'us']",1,3,0.16666666666666669
+"['i', 'realli', 'like', 'the', 'overal', 'experi', 'the', 'senior', 'doctor', 'are', 'realli', 'qualifi', 'and', 'accur', 'in', 'their', 'diagnosistreat']",1,4,0.0
+"['take', 'good', 'care', 'of', 'the', 'patient', 'food', 'servic']",1,4,0.7
+"['hospit', 'is', 'veri', 'good', 'and', 'quick', 'treatment', 'satisfi', 'with', 'facil']",1,5,0.5166666666666666
+"['my', 'respect', 'and', 'appreci', 'for', 'all', 'the', 'nurs', 'veri', 'care', 'well', 'done', 'aster']",1,5,0.0
+"['support', 'servic', 'team', 'ha', 'also', 'have', 'done', 'their', 'work', 'nice']",1,4,0.6
+"['we', 'had', 'one', 'of', 'the', 'best', 'servic', 'provid', 'by', 'the', 'all', 'the', 'doctor', 'and', 'nurs', 'staff', 'special', 'trivani', 'sister', 'wa', 'the', 'best', 'at', 'her', 'servic']",1,4,0.7857142857142857
+"['we', 'are', 'veri', 'much', 'satisfi', 'with', 'the', 'treatment', 'dure', 'her', 'stay', 'in', 'the', 'hospit', 'the', 'nurs', 'staff']",1,5,0.2
+"['the', 'staff', 'were', 'veri', 'friendli', 'and', 'help']",1,4,0.0
+"['i', 'highli', 'recommend', 'aster', 'hospit', 'for', 'great', 'patient', 'care']",1,4,0.8
+"['the', 'whole', 'neurosurgeri', 'team', 'is', 'excel', 'and', 'awesom', 'special', 'thank', 'to', 'dr', 'nirmala', 'and', 'all', 'other', 'doctor', 'at', 'icu', 'who', 'took', 'care', 'of', 'me']",1,4,0.14404761904761906
+"['all', 'nurs', 'staff', 'and', 'other', 'staff', 'also', 'co', 'oper', 'and', 'took', 'good', 'care', 'of', 'us']",1,4,0.2875
+"['all', 'the', 'staff', 'recept', 'were', 'veri', 'kind', 'and', 'respons', 'they', 'were', 'guid', 'me', 'properli', 'with', 'the', 'procedur']",1,4,0.6
+"['i', 'am', 'veri', 'happi', 'with', 'the', 'servic', 'provid', 'thank', 'you']",1,5,0.0
+"['manjari', 'from', 'canteen', 'gave', 'a', 'good', 'servic', 'to', 'us', 'she', 'keep', 'the', 'food', 'on', 'time']",1,5,0.7
+"['all', 'over', 'good', 'servic', 'from', 'hospit', 'and', 'staff', 'thank', 'you', 'veri', 'much', 'aster', 'cmi', 'hospit', 'and', 'staff']",1,5,0.44999999999999996
+"['never', 'seen', 'thi', 'bad', 'hous', 'keep', 'even', 'after', 'multipl', 'request', 'they', 'dont', 'provid', 'what', 'is', 'ask']",0,2,-0.6999999999999998
+"['and', 'the', 'scanner', 'bar', 'code', 'they', 'have', 'past', 'everywher', 'for', 'feedback', 'link', 'doesnt', 'work']",1,3,-0.25
+"['we', 'had', 'a', 'wonder', 'experi', 'at', 'aster', 'cmi', 'hospit', 'dure', 'our', 'medic', 'visit', 'for', 'my', 'father']",1,4,0.0
+"['all', 'are', 'cooper', 'and', 'help', 'treatment', 'is', 'great', 'and', 'hospit', 'is', 'good']",1,5,0.75
+"['the', 'sister', 'here', 'also', 'take', 'good', 'care', 'of', 'patient', 'and', 'are', 'polit', 'to', 'attend']",1,5,0.7
+"['ccu', 'secur', 'mamatha', 'is', 'veri', 'polit', 'and', 'speak', 'multipl', 'languag', 'and', 'is', 'veri', 'friendli']",1,4,0.0
+"['the', 'facil', 'here', 'are', 'veri', 'good', 'and', 'you', 'get', 'the', 'confid', 'that', 'you', 'will', 'get', 'treat', 'well', 'onc', 'you', 'are', 'here', 'and', 'go', 'back', 'healthi']",1,5,0.35
+"['the', 'test', 'are', 'veri', 'expens', 'and', 'without', 'insur', 'thi', 'will', 'burn', 'a', 'hole', 'in', 'your', 'pocket']",1,3,0.0
+"['i', 'am', 'extrem', 'impress', 'with', 'the', 'servic', 'offer', 'at', 'aster', 'cmi', 'hospit']",1,4,0.0
+"['the', 'facil', 'were', 'modern', 'and', 'wellmaintain', 'creat', 'a', 'comfort', 'environ', 'for', 'patient']",1,4,0.2
+"['i', 'am', 'immens', 'grate', 'for', 'the', 'posit', 'experi', 'and', 'excel', 'medic', 'care', 'provid', 'by', 'aster', 'cmi', 'hospit']",1,5,0.0
+"['we', 'are', 'veri', 'happi', 'with', 'the', 'experi', 'and', 'will', 'be', 'grate', 'forev']",1,5,0.0
+"['thank', 'for', 'the', 'hospit', 'we', 'got', 'good', 'treatment']",1,4,0.7
+"['the', 'patient', 'get', 'hope', 'and', 'ha', 'complet', 'faith', 'that', 'they', 'will', 'get', 'treat', 'and', 'keep', 'in', 'good', 'health']",1,5,0.7
+"['im', 'happi', 'to', 'choos', 'to', 'thi', 'hospit', 'thank', 'you', 'so', 'much', 'everyon', 'for', 'you', 'all', 'good', 'support']",1,4,0.44999999999999996
+"['take', 'lot', 'of', 'time', 'to', 'give', 'report']",1,5,0.0
+"['they', 'were', 'realli', 'patient', 'friendli', 'and', 'nurs', 'care', 'wa', 'realli', 'excel']",1,4,0.0
+"['aster', 'hospit', 'is', 'excel', 'in', 'bangalor', 'with', 'all', 'good', 'servic', 'all', 'are', 'good', 'and', 'help']",1,5,0.7
+"['nurs', 'staff', 'are', 'veri', 'lazi']",0,2,0.0
+"['floor', 'coordin', 'john', 'wa', 'veri', 'help', 'and', 'secur', 'ayang', 'also', 'veri', 'good']",1,4,0.7
+"['worst', 'work', 'profession']",0,1,-1.0
+"['doctor', 'akshay', 'sir', 'and', 'pavan', 'kumar', 'is', 'kind', 'good', 'person', 'he', 'will', 'treat', 'the', 'patient', 'veri', 'nice']",1,4,0.6333333333333333
+"['the', 'dine', 'area', 'is', 'not', 'maintain', 'well', 'dine', 'area', 'is', 'too', 'small']",1,3,-0.25
+"['we', 'are', 'veri', 'much', 'satisfi', 'with', 'hi', 'treatment', 'he', 'explain', 'us', 'the', 'treatment', 'we', 'understood', 'well']",1,5,0.2
+"['there', 'are', 'multipl', 'wait', 'room', 'and', 'cafe', 'the', 'hospit', 'is', 'veri', 'clean']",1,5,0.3666666666666667
+"['mamatha', 'is', 'veri', 'polit', 'and', 'speak', 'multipl', 'languag', 'and', 'is', 'veri', 'friendli', 'overal', 'good', 'servic']",1,5,0.7
+"['we', 'shall', 'refer', 'other', 'as', 'we', 'are', 'total', 'satisfi', 'by', 'the', 'care', 'and', 'hospit']",1,5,-0.0625
+"['today', 'it', 'our', 'discharg', 'and', 'we', 'are', 'happi', 'to', 'leav', 'from', 'here']",1,5,0.0
+"['thank', 'to', 'dr', 'umesh', 'and', 'team', 'all', 'other', 'doctor', 'siter', 'and', 'staff', 'are', 'come', 'oper', 'and', 'support', 'we', 'are', 'thank', 'for', 'the', 'treatment']",1,5,-0.125
+"['medic', 'and', 'nurs', 'staff', 'are', 'veri', 'good', 'and', 'co', 'oper', 'we', 'had', 'a', 'good', 'experi', 'in', 'the', 'hospit']",1,4,0.7
+"['staff', 'is', 'rude', 'special', 'nurs', 'and', 'bill', 'staff', 'they', 'behav', 'as', 'if', 'they', 'own', 'hospit']",0,2,0.21904761904761905
+"['they', 'do', 'not', 'treat', 'in', 'emerg', 'ward', 'so', 'that', 'patient', 'doesnâ€™t', 'get', 'well', 'till', 'they', 'becom', 'potenti', 'in', 'patient', 'or', 'custom']",0,1,0.0
+"['thank', 'for', 'the', 'good', 'treatment', 'nurs', 'care', 'it', 'veri', 'good']",1,4,0.7
+"['great', 'hospit', 'amaz', 'doctor', 'dr', 'sahana', 'took', 'such', 'good', 'care', 'of', 'me', 'nurs', 'and', 'staff', 'were', 'veri', 'attent']",1,5,0.5
+"['had', 'delay', 'with', 'hous', 'keep', 'staff']",0,2,0.0
+"['lakshmi', 'wa', 'veri', 'helpful', 'in', 'arrang', 'the', 'scan', 'appreci', 'all', 'her', 'effort']",1,4,0.0
+"['housekeep', 'didnâ€™t', 'respond', 'for', 'issu', 'neither', 'care', 'about', 'our', 'problem']",0,2,0.0
+"['nurs', 'panchali', 'in', 'night', 'duti', 'veri', 'polit', 'and', 'friendli', 'who', 'make', 'patient', 'to', 'feel', 'home']",1,4,0.0
+"['no', 'emerg', 'attend', 'are', 'there']",0,2,0.0
+"['no', 'nurs', 'or', 'staff', 'respond', 'well', 'or', 'gave', 'ani', 'first', 'aid']",0,1,0.25
+"['i', 'had', 'a', 'veri', 'sensit', 'and', 'care', 'experi', 'with', 'my', 'dad']",1,4,0.0
+"['thi', 'is', 'the', 'first', 'ever', 'worst', 'experi', 'for', 'us', 'on', 'the', 'hospit']",0,2,-0.375
+"['dr', 'rajini', 'maam', 'treat', 'us', 'veri', 'well', 'aster', 'ha', 'best', 'facil', 'for', 'the', 'patient']",1,5,1.0
+"['the', 'surgeri', 'wa', 'realli', 'good', 'everyth', 'went', 'well', 'he', 'is', 'do', 'good', 'after', 'surgeri', 'we', 'are', 'happi']",1,4,0.7
+"['hospit', 'infrastructur', 'is', 'extrem', 'good']",1,4,0.7
+"['food', 'given', 'to', 'patient', 'and', 'attend', 'dure', 'bmt', 'wa', 'below', 'averag', 'and', 'did', 'not', 'meet', 'nutrit', 'requir']",1,3,0.0
+"['doctor', 'wa', 'veri', 'arrog', 'and', 'almost', 'behav', 'like', 'a', 'hooligan', 'peopl', 'like', 'him', 'should', 'not', 'be', 'a', 'doctor']",0,2,0.0
+"['journey', 'in', 'thi', 'hospit', 'went', 'smoothli', 'and', 'we', 'are', 'veri', 'happi', 'with', 'her', 'treatment', 'and', 'the', 'friendli', 'natur', 'of', 'the', 'staff']",1,4,0.0
+"['staff', 'from', 'nurs', 'to', 'housekeep', 'were', 'all', 'realli', 'nice', 'and', 'profession']",1,4,0.6
+"['thank', 'you', 'all', 'for', 'your', 'prompt', 'action', 'which', 'is', 'lead', 'the', 'way', 'for', 'my', 'aunt', 'recoveri']",1,4,0.1
+"['they', 'provid', 'good', 'and', 'qualiti', 'care', 'nurs', 'are', 'veri', 'friendli', 'and', 'equip', 'are', 'good']",1,5,0.7
+"['all', 'doctor', 'and', 'staff', 'are', 'co', 'oper', 'secur', 'jyothi', 'lakshmi', 'ha', 'done', 'good', 'job']",1,5,0.7
+"['veri', 'good', 'about', 'diet', 'and', 'she', 'gave', 'veri', 'good', 'diet', 'plan', 'for', 'my', 'diseas']",1,5,0.7
+"['i', 'had', 'a', 'good', 'experi', 'with', 'aster', 'staff', 'exclent', 'doctor', 'nurs', 'lactat', 'depart', 'dietician', 'nurs', 'aid']",1,5,0.7
+"['veri', 'good', 'treatment', 'receiv', 'thank', 'to', 'sir', 'sri', 'p', 'r', 'dayanidhi', 'and', 'ishika', 'secur', 'ayang', 'madam', 'from', 'arunach']",1,5,0.7
+"['the', 'nurs', 'staff', 'is', 'veri', 'good', 'and', 'polit', 'and', 'we', 'felt', 'veri', 'comfort', 'thank', 'you', 'veri', 'much', 'for', 'the', 'all', 'the', 'support', 'and', 'care']",1,5,0.44999999999999996
+"['overal', 'good', 'treatment', 'and', 'excel', 'doctor', 'and', 'nurs', 'staff']",1,5,0.7
+"['thank', 'to', 'all', 'doctor', 'team', 'treatment', 'is', 'wonder', 'we', 'are', 'complet', 'satisfi']",1,5,0.0
+"['rude', 'doctor', 'rude', 'physiotherapist', 'rude', 'staff', 'inexperienc', 'nurs']",0,2,-0.3
+"['the', 'bill', 'and', 'admiss', 'depart', 'peopl', 'have', 'no', 'heart', 'and', 'they', 'are', 'veri', 'rude']",0,1,-0.3
+"['the', 'doctor', 'who', 'conduct', 'my', 'fatherâ€™', 'surgeri', 'wa', 'rude', 'as', 'well', 'and', 'spoke', 'arrogantli', 'with', 'us']",0,2,-0.3
+"['nurs', 'staff', 'are', 'also', 'realli', 'in', 'their', 'care', 'and', 'treatment', 'support', 'servic', 'team', 'also', 'wa', 'good']",1,4,0.7
+"['dr', 'nishta', 'perform', 'my', 'colposcopi', 'and', 'biopsi', 'so', 'effortlessli', 'made', 'me', 'feel', 'veri', 'comfort']",1,4,0.0
+"['thank', 'you', 'onc', 'again', 'for', 'your', 'except', 'servic', 'and', 'for', 'make', 'my', 'acl', 'surgeri', 'experi', 'a', 'posit', 'one']",1,5,0.0
+"['doctor', 'treatment', 'is', 'good', 'nurs', 'care', 'is', 'good', 'and', 'support', 'servic', 'is', 'veri', 'excel']",1,4,0.7
+"['if', 'you', 'dont', 'have', 'insur', 'pleas', 'dont', 'choos', 'thi', 'hospit']",1,3,0.0
+"['good', 'work', 'is', 'housekeep', 'depart', 'room', 'and', 'restroom', 'clean', 'is', 'nice', 'especi', 'staff']",1,4,0.5555555555555555
+"['dietician', 'aruna', 'devi', 'explain', 'veri', 'well', 'we', 'are', 'veri', 'much', 'satisfi', 'with', 'her', 'counsel', 'she', 'had', 'given', 'diet', 'plan', 'veri', 'helpful', 'thank', 'you']",1,5,0.2
+"['doctor', 'treatmentnurs', 'cure', 'and', 'clean', 'depart', 'are', 'veri', 'excel', 'especi', 'hk', 'staff']",1,5,0.3666666666666667
+"['nurs', 'servic', 'also', 'good', 'thank', 'for', 'over', 'all', 'thank', 'for', 'ortho', 'team']",1,5,0.7
+"['they', 'have', 'confirm', 'me', 'appoint', 'for', 'but', 'nobodi', 'is', 'respond']",0,2,0.0
+"['it', 'is', 'a', 'bad', 'experi', 'overal']",0,2,-0.6999999999999998
+"['the', 'doctor', 'didnt', 'had', 'time', 'to', 'listen', 'to', 'my', 'issu', 'nor', 'could', 'explain', 'to', 'me', 'on', 'the', 'treatment', 'option']",0,2,0.0
+"['complet', 'failur', 'of', 'hospit', 'manag', 'system', 'and', 'foundat', 'patient', 'commun', 'train']",0,2,0.0
+"['veri', 'poor', 'behaviour', 'and', 'attitud', 'display', 'by', 'doctor', 'dr', 'ashwin', 'kr']",0,1,-0.4
+"['thi', 'is', 'worst', 'hospit', 'in', 'two', 'month', 'my', 'father', 'admit', 'thrice', 'and', 'yet', 'doctor', 'can', 'not', 'find', 'out', 'what', 'is', 'the', 'issu']",0,1,-1.0
+"['discharg', 'procedur', 'are', 'so', 'slow', 'mainli', 'becaus', 'of', 'the', 'nurs', 'due', 'to', 'lack', 'of', 'understand', 'and', 'import', 'of', 'patient']",0,2,-0.21250000000000002
+"['and', 'also', 'sister', 'leema', 'wa', 'veri', 'help', 'in', 'explain', 'the', 'insur', 'and', 'wa', 'kind']",1,5,0.6
+"['diagnosi', 'treatment', 'and', 'care', 'are', 'good', 'it', 'is', 'a', 'big', 'organis', 'cost', 'is', 'bit', 'on', 'the', 'higher', 'side', 'discharg', 'process', 'wa', 'not', 'smooth']",1,3,0.1875
+"['the', 'ward', 'wa', 'also', 'veri', 'clean', 'and', 'well', 'maintain']",1,5,0.3666666666666667
+"['my', 'mother', 'wa', 'treat', 'by', 'dr', 'vivek', 'padeg', 'and', 'team', 'the', 'pulmonologist', 'team', 'did', 'a', 'veri', 'thorough', 'diagnosi', 'and', 'suggest', 'the', 'best', 'cours', 'of', 'treatment']",1,4,1.0
+"['diagnosi', 'treatment', 'and', 'care', 'are', 'good']",1,5,0.7
+"['amaz', 'servic']",1,5,0.0
+['good'],1,4,0.7
+"['it', 'is', 'a', 'big', 'organis', 'and', 'a', 'larg', 'team', 'of', 'doctor', 'and', 'support', 'staff', 'do', 'a', 'decent', 'job', 'cost', 'is', 'bit', 'on', 'the', 'higher', 'side']",1,5,0.13888888888888887
+"['im', 'veri', 'happi', 'with', 'thi', 'servic']",1,5,0.0
+"['food', 'qualiti', 'at', 'hospit', 'need', 'improv', 'otherwis', 'excel', 'servic', 'from', 'doctor', 'and', 'hexa', 'buddi']",1,3,0.0
+"['nirmala', 'wa', 'co', 'ordin', 'my', 'son', 'case', 'veri', 'knowledg', 'and', 'end', 'end', 'support', 'i', 'strongli', 'recommend', 'to', 'hexa', 'health']",1,5,0.0
+"['the', 'time', 'of', 'admiss', 'and', 'discharg', 'for', 'insur', 'patient', 'can', 'be', 'provid', 'with', 'more', 'clariti']",1,4,0.5
+"['good', 'servic', 'by', 'dilip', 'kumar']",1,4,0.7
+"['so', 'worst', 'experi']",0,1,-1.0
+"['the', 'recept', 'guy', 'are', 'worst', 'they', 'make', 'you', 'wait', 'like', 'hell']",0,1,-1.0
+"['met', 'dr', 'sagar', 'c', 'in', 'pulmonolog', 'we', 'are', 'veri', 'grate', 'to', 'him', 'for', 'hi', 'apt', 'guidanc', 'onlin', 'appoint', 'book', 'wa', 'help', 'too', 'park', 'wa', 'a', 'challeng', 'though']",1,4,0.6
+"['the', 'onli', 'great', 'doctor', 'that', 'is', 'avail', 'and', 'genuin', 'is', 'sujith', 'ms', 'if', 'not', 'for', 'sujith', 'ms', 'dont', 'even', 'visit', 'thi', 'hospit']",1,3,0.8
+"['went', 'to', 'narayana', 'hospit', 'to', 'visit', 'obstetrician', 'dr', 'janani', 'sarvanan', 'she', 'is', 'liter', 'a', 'god', 'total', 'invis', 'and', 'forev', 'unavail']",0,1,0.0
+"['good', 'servic', 'by', 'dr', 'jagadish', 'in', 'help', 'us', 'in', 'resolv', 'our', 'issu', 'dilip', 'kumar', 'in', 'co', 'ordin']",1,5,0.7
+"['found', 'excel', 'servic', 'by', 'rajeshwari', 'from', 'billl', 'and', 'mod', 'soojanya', 'i', 'would', 'extend', 'my', 'thank', 'for', 'wonder', 'support', 'and', 'help']",1,5,0.2
+"['good', 'servic', 'from', 'erasre', 'peaceful', 'hospit', 'patient', 'will', 'be', 'recov', 'fast']",1,5,0.3833333333333333
+"['good', 'servic', 'by', 'dilip', 'kumar']",1,4,0.7
+"['dr', 'sujith', 'treatment', 'is', 'veri', 'good', 'he', 'will', 'analys', 'diseas', 'from', 'the', 'report', 'for', 'better', 'cure']",1,5,0.6
+"['i', 'realli', 'like', 'the', 'servic', 'there', 'thank', 'to', 'the', 'emerg', 'doctor', 'abhishek', 'and', 'thank', 'to', 'the', 'secur', 'guard', 'there']",1,5,0.0
+"['good', 'hospit']",1,4,0.7
+"['good', 'servic', 'by', 'dilip', 'in', 'help', 'us', 'in', 'consult']",1,5,0.7
+"['wa', 'satisfi', 'with', 'test', 'and', 'time', 'taken', 'for', 'that', 'approxim', 'she', 'would', 'have', 'explain', 'all', 'detail', 'of', 'the', 'test', 'conduct', 'which', 'did', 'not', 'onli', 'in', '5', 'minut', 'she', 'complet']",1,3,0.0
+"['good', 'servic', 'by', 'dilip']",1,5,0.7
+"['emerg', 'ward', 'depart', 'is', 'the', 'worst', 'the', 'worst', 'emerg', 'depart', 'i', 'have', 'seen', 'in', 'bangalor']",0,1,-1.0
+"['overal', 'servic', 'and', 'respons', 'is', 'veri', 'good']",1,5,0.7
+"['new', 'excel', 'experi', 'thank', 'nh']",1,4,0.13636363636363635
+"['good', 'servic', 'by', 'dilip', 'kumar', 'in', 'help', 'us', 'finish', 'the', 'thing', 'faster', 'at', 'opd']",1,5,0.7
+"['narayana', 'should', 'tri', 'and', 'educ', 'their', 'employe', 'on', 'triag', 'protocol', 'becaus', 'the', 'servic', 'doesnt', 'look', 'like', 'that', 'of', 'a', 'hospit']",0,1,0.0
+"['thi', 'review', 'isnt', 'special', 'about', 'the', 'hospit', 'per', 'say', 'i', 'had', 'book', 'an', 'inperson', 'appoint', 'with', 'her', 'a', 'few', 'month', 'ago', 'to', 'understand', 'the', 'risk', 'and', 'gener', 'consult', 'about', 'sexual', 'educ', 'and', 'contracept', 'precaut', 'to', 'take']",0,2,0.21904761904761905
+"['it', 'wa', 'the', 'first', 'time', 'i', 'ever', 'consult', 'a', 'doctor', 'by', 'myself', 'and', 'frankli', 'it', 'wa', 'an', 'ugli', 'experi', 'have', 'her', 'as', 'my', 'doctor', 'that', 'day']",0,1,0.25
+"['i', 'feel', 'compel', 'to', 'share', 'my', 'recent', 'experi', 'at', 'your', 'hospit', 'and', 'unfortun', 'it', 'wa', 'far', 'from', 'satisfactori']",0,2,0.05
+"['the', 'worst', 'hospit', 'ever', 'in', 'the', 'world', 'pleas', 'if', 'you', 'are', 'in', 'an', 'emerg', 'or', 'even', 'not', 'in', 'an', 'emerg', 'situat']",0,1,-1.0
+"['there', 'servic', 'is', 'so', 'ridicul']",1,5,0.0
+"['no', 'respons', 'to', 'ani', 'queri', 'even', 'when', 'it', 'is', 'their', 'mistak', 'they', 'just', 'keep', 'repeat', 'the', 'same', 'mistak', 'and', 'at', 'the', 'end', 'it', 'is', 'the', 'patient', 'fault']",0,1,0.0
+"['it', 'wa', 'am', 'amaz', 'experi', 'and', 'team', 'at', 'the', 'counter', 'were', 'veri', 'co', 'oper', 'and', 'help', 'in', 'all', 'my', 'requir', 'at', 'hospit', 'thnx']",1,4,0.0
+"['dr', 'pratibha', 'dermatolog', 'dr', 'wa', 'veri', 'good']",1,5,0.7
+"['we', 'had', 'a', 'great', 'experi', 'at', 'the', 'hospit', 'dr', 'amarnath', 'reddi', 'sir', 'is', 'a', 'geniou', 'person', 'and', 'a', 'veri', 'care', 'doctor']",1,4,0.8
+"['worst', 'hospit', 'the', 'peopl', 'insid', 'were', 'so', 'rude', 'and', 'not', 'readi', 'to', 'treat', 'the', 'patient', 'itself', 'think', 'befor', 'visit', 'thi', 'hospit']",0,2,-0.65
+"['i', 'went', 'to', 'narayan', 'hospit', 'for', 'the', 'first', 'time', 'with', 'my', 'father', 'i', 'want', 'to', 'share', 'some', 'experi', 'i', 'realli', 'like', 'the', 'servic', 'there', 'thank', 'to', 'the', 'emerg', 'doctor', 'abhishek']",1,5,0.25
+"['they', 'have', 'expert', 'doctor', 'who', 'give', 'the', 'right', 'medicin', 'and', 'help', 'the', 'patient', 'recov', 'fast', 'medic', 'test', 'and', 'get', 'the', 'requir', 'medicin', 'from', 'pharmaci', '']",1,5,0.24285714285714285
+"['patient', 'friendli', 'take', 'good', 'care', 'for', 'the', 'patient', 'and', 'give', 'first', 'prefer', 'much', 'satisfi', 'throughout', '10', 'month', 'journey', 'thank', 'onc', 'again']",1,4,0.3833333333333333
+"['hi', 'thank', 'you', 'for', 'rate', 'us', '5', 'star', 'were', 'glad', 'to', 'know', 'that', 'you', 'had', 'a', 'posit', 'experi', 'in', 'our', 'care', 'take', 'care', 'team', 'narayana', 'health']",1,5,0.5
+"['he', 'will', 'analys', 'diseas', 'from', 'the', 'report', 'for', 'better', 'cure', 'hi', 'medic', 'alway', 'effect', 'the', 'good', 'doctor', 'for', 'cold', 'asthama', 'fever', 'and', 'ani', 'alergi', 'relat', 'to', 'throat', 'and', 'also', 'support', 'of', 'narayani', 'hospit', 'is', 'veri', 'good']",1,5,0.32499999999999996
+"['5', 'star', 'for', 'dr', 'manjula', 'hm', 'she', 'ha', 'been', 'super', 'support', 'and', 'care', 'throughout', 'my', 'pregnanc', 'and', 'ensur', 'normal', 'deliveri', 'she', 'is', 'wonder', 'profession', 'as', 'well', 'as', 'person', 'compassion', 'and', 'humbl', 'attitud', 'is', 'a', 'cherri', 'on', 'the', 'top']",1,5,0.3277777777777778
+"['i', 'had', 'an', 'amaz', 'experi', 'with', 'dr', 'manjula', 'hm', 'in', 'narayana', 'hospit', 'hsr', 'she', 'wa', 'veri', 'patient', 'with', 'me', 'and', 'help', 'me', 'out', 'dure', 'all', 'my', 'medic', 'emerg', 'the', 'hospit', 'also', 'provid', 'all', 'the', 'facil', 'and', 'support', 'need']",1,4,0.0
+"['veri', 'veri', 'clean', 'hospet', 'dr', 'abhinav', 'sir', 'so', 'great', 'nice', 'speak', 'he', 'explain', 'everyth', 'about', 'my', 'son', 'health', 'issu', 'in', 'a', 'veri', 'clear', 'manner']",1,5,0.4666666666666667
+"['i', 'had', 'perform', 'an', 'endoscopi', 'test', 'and', 'found', 'the', 'experi', 'to', 'veri', 'veri', 'manag', 'and', 'perform', 'by', 'skill', 'empathet', 'fixtur', 'and', 'hospit', 'staff', 'overal', 'a', 'veri', 'comfort', 'and', 'profession', 'experi']",1,4,0.0
+"['i', 'visit', 'to', 'thi', 'hospit', 'to', 'consult', 'with', 'dr', 'karthik', 's', 'n', 'gener', 'medicin', 'i', 'had', 'a', 'veri', 'good', 'experi', 'hospit', 'is', 'also', 'provid', 'good', 'servic', 'term', 'of', 'assess', 'appoint', 'treatment', 'consult']",1,5,0.7
+"['at', 'the', 'outset', 'i', 'thank', 'sister', 'shireen', 'in', 'the', 'opd', 'who', 'yesterday', 'help', 'to', 'book', 'appoint', 'with', 'dr', 'vijay', 'as', 'be', 'supersenior', 'citizen', 'i', 'am', 'ignor', 'of', 'book', 'an', 'appoint', 'onlin', 'kindli', 'restor', 'our', 'old', 'type', 'of', 'book']",1,5,0.1
+"['have', 'taken', 'person', 'care', 'to', 'treat', 'me', 'well', 'and', 'advis', 'further', 'investig', 'they', 'were', 'carri', 'out', 'by', 'the', 'lab', 'and', 'usg', 'today', 'utmost', 'care', 'and', 'the', 'staff', 'sharmila', 'and', 'anu', 'gowda', 'for', 'all', 'the', 'help', 'extend', 'me']",1,5,0.0
+"['i', 'have', 'visit', 'to', 'take', 'my', 'second', 'dose', 'and', 'process', 'wa', 'realli', 'smooth', 'hospit', 'from', 'all', 'staff', 'are', 'realli', 'appreci', 'shanti', 'took', 'good', 'care', 'and', 'provid', 'all', 'detail', 'befor', 'vaccin', 'thank', 'you']",1,5,0.3666666666666667
+"['i', 'had', 'consult', 'with', 'dr', 'saji', 'regard', 'my', 'father', 'hip', 'injuri', 'it', 'wa', 'realli', 'good', 'experi', 'to', 'have', 'a', 'clear', 'understand', 'of', 'issu', 'and', 'appropri', 'recommend', 'for', 'treatment']",1,5,0.39999999999999997
+"['thi', 'is', 'a', 'veri', 'good', 'hospit', 'veri', 'nice', 'doctor', 'and', 'good', 'treatment', 'worth', 'of', 'money', 'charg', 'hygien', 'and', 'good', 'facil']",1,4,0.6
+"['i', 'wa', 'veri', 'impress', 'with', 'the', 'doctor', 'and', 'the', 'staff', 'wa', 'friendli', 'and', 'help', 'i', 'wa', 'abl', 'to', 'get', 'an', 'appoint', 'she', 'took', 'the', 'time', 'to', 'answer', 'all', 'of', 'my', 'question', 'and', 'i', 'felt', 'confid', 'in', 'her', 'abil', 'to', 'help', 'me']",1,5,0.0
+"['sampl', 'collect', 'on', 'time', 'prompt', 'punctual', 'attent', 'and', 'courteou', 'nurs', 'well', 'attend', 'care', 'give', 'minut', 'attent', 'doctor', 'detail', 'well', 'explainingand', 'guid', 'specialist']",1,5,0.0
+"['minut', 'detail', 'elicit', 'and', 'patient', 'hear', 'patient', 'infirm', 'and', 'clear', 'instruct', 'cost', 'reason']",1,5,0.10000000000000002
+"['treatment', 'is', 'realli', 'awesom', 'but', 'the', 'fee', 'you', 'are', 'charg', 'is', 'realli', 'veri', 'high', 'normal', 'person', 'cannot', 'afford', 'it', 'pleas', 'do', 'some', 'concess', 'for', 'middl', 'group', 'peopl']",1,4,0.155
+"['wa', 'suffer', 'from', 'sever', 'throat', 'pain', 'for', '5', 'day', 'consult', 'dr', 'ria', 'ent', 'specialist', 'to', 'my', 'surpris', 'the', 'pain', 'almost', 'gone', 'in', '8', 'hr', 'after', 'take', 'med', 'suggest', 'by', 'her', 'dr', 'ria', 'even', 'suggest', 'how', 'i', 'can', 'fix', 'my', 'sleep', 'problem']",1,5,0.0
+"['i', 'had', 'been', 'visit', 'the', 'hospit', 'last', 'week', 'it', 'an', 'imagin', 'hospit', 'everybodi', 'is', 'veri', 'help', 'especi', 'mr', 'runa', 'da', 'she', 'is', 'veri', 'much', 'help', 'and', 'veri', 'cooper', 'i', 'never', 'forget', 'her', 'help', 'dure', 'my', 'visit']",1,5,0.1
+"['it', 'wa', 'am', 'amaz', 'experi', 'and', 'team', 'at', 'the', 'counter', 'were', 'veri', 'co', 'oper', 'and', 'help', 'in', 'all', 'my', 'requir', 'at', 'hospit', 'thnx', 'posit']",1,4,0.0
+"['visit', 'naraya', 'hrudayalaya', 'for', 'health', 'checkup', 'dure', 'the', 'weekend', 'usual', 'veri', 'crowd', 'and', 'took', 'around', '5', '6', 'hour', 'for', 'complet', 'routin', 'checkup', 'staff', 'is', 'support', 'and', 'cleanli', 'is', 'maintain']",1,5,-0.25
+"['good', 'servic', 'by', 'dilip', 'kumar', 'in', 'help', 'us', 'finish', 'the', 'thing', 'faster', 'at', 'opd']",1,5,0.7
+"['i', 'have', 'consult', 'dr', 'karthik', 'sir', 'i', 'would', 'say', 'one', 'of', 'best', 'doctor', 'near', 'hsr', 'he', 'do', 'systemat', 'examin', 'no', 'hurri', 'explain', 'issu', 'calmi', 'and', 'wont', 'suggest', 'unnecessari', 'test']",1,4,0.55
+"['nowaday', 'i', 'have', 'seen', 'doctor', 'they', 'wont', 'even', 'touch', 'patient', 'and', 'never', 'use', 'sethoscop', 'ask', 'everyth', 'to', 'patient', 'and', 'write', 'down', 'some', 'tablet', 'but', 'karthik', 'sir', 'do', 'through', 'examin', 'and', 'treat', 'patient', 'thank', 'you', 'sir']",1,5,-0.15555555555555559
+"['must', 'come', 'for', 'ani', 'cardio', 'issu', 'they', 'are', 'titan', 'for', 'cardio', 'health', 'thank', 'you', 'nh', 'team', 'from', 'ground', 'handl', 'staff', 'to', 'doctor', 'all', 'are', 'superb', 'in', 'their', 'assign', 'job', 'kudo', 'to', 'the', 'organ']",1,4,1.0
+"['the', 'hospit', 'will', 'not', 'take', 'you', 'for', 'a', 'ride', 'with', 'unwant', 'test', '']",1,5,0.0
+"['the', 'doctor', 'do', 'physic', 'examin', 'and', 'with', 'the', 'symptom', 'find', 'and', 'their', 'experi', 'proceed', 'with', 'medic']",1,5,0.0
+"['thank', 'you', 'doctor', 'and', 'nh', 'hospit']",1,4,0.0
+"['dr', 'ramesh', 'patil', 'examin', 'me', 'care', 'and', 'satisfi', 'by', 'all', 'mean', 'as', 'an', 'expert', 'neurologist', 'he', 'impress', 'deepli', 'with', 'hi', 'cool', 'behaviour']",1,5,0.01874999999999999
+"['good', 'servic', 'from', 'erasre', 'peaceful', 'hospit', 'patient', 'will', 'be', 'recov', 'fast']",1,4,0.3833333333333333
+"['doctor', 'and', 'staff', 'are', 'veri', 'support', 'and', 'help', 'thi', 'is', 'my', 'first', 'visit', 'to', 'hsr', 'lay', 'out', 'hospit', 'i', 'am', 'amaz']",1,5,0.25
+"['wonder', 'experi', 'had', 'a', 'consult', 'with', 'the', 'doctor', 'and', 'wa', 'advis', 'veri', 'well', 'umair', 'assist', 'a', 'lot', 'he', 'wa', 'veri', 'help', 'and', 'veri', 'patient', 'friendli']",1,5,0.0
+"['a', 'solid', 'money', 'mint', 'busi', 'factori', 'half', 'and', 'hour', 'dress', 'job', 'done', 'in', '2', 'hour', 'and', 'henc', 'bill', 'of', '500', 'easili', 'escal', 'to', '2000']",0,1,-0.08333333333333333
+"['good', 'and', 'clean', 'hospit']",1,5,0.5333333333333333
+"['there', 'is', 'great', 'team', 'of', 'doctor', 'and', 'good', 'ot', 'facil', 'the', 'medic', 'facil', 'are', 'all', 'great', 'with', 'good', 'inpati', 'post', 'oper', 'care', 'by', 'doctor', 'nurs']",1,4,0.75
+"['the', 'housekeep', 'staff', 'is', 'also', 'good', 'but', 'they', 'can', 'respond', 'to', 'call', 'from', 'the', 'room', 'a', 'littl', 'faster']",1,3,0.7
+"['the', 'admin', 'account', 'depart', 'are', 'veri', 'unprofession', 'with', 'discharg', 'and', 'insur', 'calim', 'settlement', 'had', 'a', 'realli', 'bad', 'experi', 'dure', 'discharg', 'they', 'need', 'to', 'be', 'sensit', 'and', 'more', 'transpar', 'toward', 'the', 'patient', 'and', 'hi', 'her', 'famili']",0,1,-0.09999999999999992
+"['the', 'park', 'is', 'veri', 'limit', 'with', 'space', 'for', '10', '15', 'car', 'with', 'lot', 'of', 'bird', 'drop', 'fall', 'on', 'the', 'car']",1,3,0.0
+"['the', 'street', 'next', 'to', 'the', 'hospit', 'are', 'narrow', 'and', 'can', 'be', 'conjust', 'so', 'better', 'to', 'avoid', 'the', 'street', 'next', 'to', 'hospit']",1,3,0.075
+"['car', 'can', 'be', 'park', 'on', 'the', 'nearbi', 'street', 'is', 'hospit', 'park', 'is', 'unavail']",1,3,0.0
+"['the', 'staff', 'are', 'veri', 'friendli', 'although', 'it', 'wa', 'a', 'walkin', 'appoint', 'i', 'did', 'not', 'have', 'to', 'wait', 'for', 'a', 'long', 'time', 'dr', 'saji', 'is', 'my', 'most', 'favour', 'doctor', 'he', 'is', 'so', 'humbl', 'kind', 'and', 'care']",1,5,0.35000000000000003
+"['the', 'worst', 'hospit', 'ever', 'in', 'the', 'world']",0,1,-1.0
+"['pleas', 'if', 'you', 'are', 'in', 'an', 'emerg', 'or', 'even', 'not', 'in', 'an', 'emerg', 'situat', 'dont', 'ever', 'come', 'here']",0,1,0.0
+"['they', 'dont', 'know', 'how', 'to', 'be', 'profession', 'and', 'treat', 'their', 'patient', 'for', 'just', 'a', 'report', 'they', 'took', '2hr', 'to', 'give']",0,1,0.0
+"['i', 'request', 'each', 'and', 'everi', 'person', 'not', 'to', 'come', 'here', 'pleas', 'save', 'your', 'time', 'and', 'energi']",0,2,0.0
+"['hospit', 'doctor', 'are', 'not', 'good']",0,2,-0.35
+"['they', 'are', 'give', 'medicin', 'and', 'ask', 'for', 'lot', 'of', 'test', 'by', 'onli', 'guess', 'as', 'they', 'are', 'not', 'experienc', 'for', 'me', 'they', 'ask', 'lot', 'of', 'test', 'but', 'not', 'abl', 'to', 'find', 'out', 'whi', 'i', 'am', 'get', 'mild', 'fever', 'in', 'even', 'better', 'i', 'do', 'check', 'up', 'in', 'sakara', 'or', 'manip']",0,1,0.41666666666666663
+"['if', 'you', 'are', 'visit', 'thi', 'hospit', 'visit', 'at', 'your', 'own', 'risk', 'for', 'major', 'test', 'they', 'will', 'get', 'a', 'declar', 'sign', 'by', 'you', 'befor', 'test', 'to', 'reliev', 'themselv', 'of', 'all', 'respons', 'and', 'then', 'your', 'life', 'is', 'in', 'the', 'hand', 'of', 'incompet', 'peopl']",0,2,0.33125
+"['there', 'servic', 'is', 'so', 'ridicul', 'no', 'respons', 'to', 'ani', 'queri', 'even', 'when', 'it', 'is', 'their', 'mistak', 'they', 'just', 'keep', 'repeat', 'the', 'same', 'mistak', 'and', 'at', 'the', 'end', 'it', 'is', 'the', 'patient', 'fault']",0,1,0.0
+"['had', 'the', 'worst', 'experi', 'ever', 'here', 'took', 'my', 'sister', 'here', 'she', 'wa', 'have', 'black', 'out', '']",0,1,-0.5833333333333334
+"['overal', 'averag', 'servic', 'they', 'give', 'onli', '1', 'followup', 'free', 'when', 'a', 'doctor', 'prescrib', 'ani', 'health', 'checkup', 'then', 'you', 'need', 'to', 'take', 'anoth', 'paid', 'book', 'to', 'show', 'your', 'report', 'to', 'the', 'doctor', 'the', 'admin', 'and', 'bill', 'counter', 'staff', 'are', 'veri', 'rude', 'and', 'unprofession']",1,3,0.05000000000000002
+"['good', 'servic']",1,4,0.7
+"['hospit', 'doctor', 'are', 'not', 'good']",0,1,-0.35
+"['i', 'visit', 'narayana', 'multispci', 'hospit', 'at', 'hsr', 'layout', 'and', 'it', 'wa', 'a', 'surprisingli', 'pleasant', 'experi']",1,5,0.7333333333333333
+"['the', 'staff', 'wa', 'help', 'enough', 'to', 'guid', 'me', 'all', 'throughout', 'the', 'time', 'i', 'spent', 'at', 'the', 'hospit', 'the', 'wait', 'time', 'for', 'the', 'checkup', 'wa', 'not', 'veri', 'long', 'and', 'the', 'doctor', 'wa', 'veri', 'good', 'he', 'took', 'the', 'time', 'and', 'had', 'the', 'patienc', 'to', 'explain', 'everyth', 'about', 'my', 'problem']",1,4,0.13749999999999998
+"['i', 'wa', 'given', 'a', 'proper', 'diagnosi', 'and', 'all', 'my', 'symptom', 'were', 'taken', 'into', 'consider', 'the', 'cafeteria', 'wa', 'good', 'and', 'on', 'ground', 'floor', 'they', 'have', 'cafe', 'coffeday']",1,5,0.35
+"['the', 'entir', 'hospit', 'is', 'veri', 'clean', 'and', 'veri', 'well', 'maintain', 'with', 'staff', 'to', 'help', 'out', 'with', 'ani', 'doubt', 'that', 'you', 'might', 'have', 'it', 'is', 'definit', 'recommend', 'if', 'someon', 'is', 'look', 'for', 'proper', 'care']",1,4,0.18333333333333335
+"['olni', 'issu', 'is', 'there', 'wa', 'long', 'queue', 'at', 'the', 'recept', 'on', 'earli', 'morn']",1,3,-0.05
+"['i', 'wa', 'veri', 'impress', 'with', 'the', 'doctor', 'and', 'the', 'staff', 'wa', 'friendli', 'and', 'help', 'i', 'wa', 'abl', 'to', 'get', 'an', 'appoint', 'quickli']",1,5,0.0
+"['i', 'would', 'highli', 'recommend', 'narayana', 'hospit']",1,5,0.0
+"['worst', 'emerg', 'servic', 'i', 'have', 'ever', 'seen']",0,1,-1.0
+"['i', 'have', 'never', 'seen', 'a', 'hospit', 'outright', 'deni', 'a', 'patient', 'support', 'is', 'it', 'becaus', 'they', 'are', 'understaf', 'at', 'the', 'emerg', 'unit', 'i', 'donâ€™t', 'know', 'anyway', 'i', 'had', 'to', 'go', 'to', 'anoth', 'hospit', 'nearbi', 'where', 'they', 'immedi', 'took', 'me', 'to', 'a', 'room', 'to', 'dress', 'up', 'my', 'injuri']",0,1,0.0
+"['when', 'to', 'the', 'opd', 'section', 'the', 'staff', 'there', 'prioritis', 'their', 'own', 'peopl', 'for', 'the', 'doctor', 'visit', 'inspit', 'of', 'take', 'appoint', 'wa', 'made', 'to', 'wait', 'for', '2', 'hr', 'and', 'the', 'staff', 'there', 'wa', 'prioritis', 'the', 'medic', 'rep', 'and', 'other', 'agent']",0,2,0.2375
+"['worst', 'emerg', 'servic', 'i', 'have', 'ever', 'seen', 'i', 'kept', 'wait', 'for', 'more', 'than', '3', 'hr', 'to', 'get', 'iv', 'inject', 'the', 'hospit', 'doe', 'not', 'have', 'separ', 'facil', 'to', 'provid', 'iv', 'inject', 'or', 'other', 'similar', 'kind', 'of', 'oper']",0,1,-0.0050000000000000044
+"['i', 'do', 'not', 'recommend', 'thi', 'hospit', 'at', 'all', 'pleas', 'think', 'twice', 'befor', 'go', 'to', 'narayana', 'hospit', 'hsr', 'layout']",0,2,0.0
+"['prompt', 'punctual', 'attent', 'and', 'courteou', 'well', 'attend', 'care', 'give', 'minut', 'attent', 'cost', 'reason']",1,5,0.0
+"['no', 'support', 'for', 'patient', 'after', 'consult', 'hour', 'onli', 'you', 'can', 'talk', 'to', 'doctor', 'if', 'you', 'book', 'a', 'appoint', 'be', 'regular', 'visitor', 'also', 'not', 'help', 'doctor', 'is', 'good', 'but', 'naryana', 'healthcar', 'hospit', 'is', 'bad']",0,1,3.700743415417188e-17
+"['most', 'pathet', 'clinic', 'i', 'would', 'say', 'they', 'did', 'xray', 'unnecessari', 'and', 'most', 'importantli', 'they', 'told', 'me', 'i', 'have', 'infect', 'in', 'lung', 'when', 'check', 'with', 'other', 'doctor', 'it', 'wa', 'all', 'good', 'not', 'recommend', 'at', 'all']",0,2,0.39375
+"['thi', 'is', 'an', 'emerg', 'case', 'and', 'you', 'would', 'at', 'least', 'expect', 'one', 'person', 'to', 'be', 'sent', 'insid', 'with', 'the', 'patient', 'just', 'for', 'an', 'emerg', 'situat', 'but', 'they', 'wonâ€™t', '1', 'star', 'for', 'hospit', 'here']",0,1,-0.3
+"['treatment', 'is', 'realli', 'awesom']",1,5,0.0
+"['they', 'ask', 'me', 'to', 'come', 'after', '2', 'day', 'to', 'show', 'to', 'the', 'orthopedician', 'and', 'when', 'i', 'came', 'for', 'the', 'same', 'they', 'are', 'treat', 'me', 'as', 'new', 'patient', 'ask', 'me', 'to', 'book', 'an', 'appoint', 'with', 'the', 'orthopedician', 'and', 'wait', 'for', 'slot']",0,1,0.06818181818181818
+"['matter', 'is', 'not', 'specif', 'the', 'money', 'it', 'is', 'the', 'attitud', 'or', 'gestur', 'which', 'hurt', 'the', 'tens', 'patient']",0,2,0.0
+"['we', 'had', 'book', 'an', 'eye', 'consult', 'with', 'dr', 'vinay', 'patil', 'but', 'some', 'other', 'dr', 'check', 'us', 'under', 'hi', 'name', 'and', 'didnt', 'give', 'eye', 'no', 'also', 'he', 'then', 'redirect', 'us', 'to', 'sankalp', 'nethralaya', 'hospitaloveral', 'eye', 'checkup', 'experi', 'wa', 'veri', 'bad']",0,1,-0.4124999999999999
+"['one', 'good', 'thing', 'about', 'thi', 'hospit', 'in', 'comparison', 'to', 'other', 'one', 'is', 'the', 'respons', 'of', 'the', 'all', 'staff', 'though', 'there', 'are', 'delay']",1,3,0.2875
+"['one', 'if', 'the', 'worst', 'experi', 'i', 'had', 'today']",0,1,-1.0
+"['it', 'wa', 'overal', 'good', 'experi', 'doctor', 'and', 'manag', 'from', 'nh', 'were', 'support', 'bajaj', 'finserv', 'came', 'as', 'saviour', 'when', 'our', 'claim', 'from', 'insur', 'got', 'reject', 'me', 'to', 'get', 'the', 'process', 'done', 'with', 'no', 'glitch']",1,4,0.7
+"['good', 'servic', 'by', 'dr', 'jagadish', 'in', 'help', 'us', 'in', 'resolv', 'our', 'issu', 'dilip', 'kumar', 'in', 'co', 'ordin']",1,5,0.7
+"['anoth', 'worst', 'experi', 'simpli', 'peopl', 'be', 'there', 'and', 'mani', 'thing', 'not', 'avail', 'i', 'dont', 'know', 'what', 'the', 'pharmaci', 'manag', 'do', 'there', 'not', 'do', 'their', 'job', 'properli', 'i', 'ha', 'thi', 'experi', 'mani', 'time']",1,3,-1.0
+"['treatment', 'and', 'other', 'servic', 'are', 'good', 'they', 'will', 'charg', 'more', 'for', 'emerg', 'servic', 'dure', 'night', 'in', 'hous', 'canteen', 'for', 'and', 'food', 'servic', 'for', 'patient', 'admit', 'is', 'not', 'good', 'iâ€™m', 'disappoint', 'with', 'their', 'time', 'servic']",1,3,0.18125
+"['veri', 'poor', 'bad', 'worst', 'experi', 'for', 'a', 'hairlin', 'fractur', 'as', 'per', 'doctor', 'due', 'to', 'unwant', 'plaster', 'cast', 'for', '2', 'month', 'i', 'made', 'my', 'leg', 'underperform', 'els', 'i', 'wa', 'fit', 'for', 'run', 'i', 'ask', 'doctor', 'to', 'show', 'me', 'the', 'crack', 'in', 'ct', 'report', 'he', 'refus', '']",0,1,-0.36499999999999994
+"['if', 'you', 'are', 'choos', 'thi', 'hospit', 'for', 'treatment', 'or', 'surgeri', 'then', 'pleas', 'do', 'it', 'at', 'your', 'own', 'risk', 'they', 'are', 'realli', 'good', 'unless', 'you', 'admit', 'and', 'get', 'your', 'treatment', 'start']",0,1,0.6499999999999999
+"['i', 'had', 'been', 'visit', 'the', 'hospit', 'last', 'week', 'it', 'an', 'imagin', 'hospit', 'everybodi', 'is', 'veri', 'help', 'especi', 'mr', 'runa', 'da', 'she', 'is', 'veri', 'much', 'help', 'and', 'veri', 'cooper', 'i', 'never', 'forget', 'her', 'help', 'dure', 'my', 'visit']",1,5,0.1
+"['recent', 'visit', 'thi', 'hospit', 'doctor', 'are', 'extrem', 'good', 'but', 'the', 'manag', 'and', 'the', 'servic', 'provid', 'by', 'the', 'staff', 'is', 'worst', 'vital', 'check', 'person', 'are', 'veri', 'careless']",0,1,-0.14
+"['visit', 'naraya', 'hrudayalaya', 'for', 'health', 'checkup', 'dure', 'the', 'weekend', 'usual', 'veri', 'crowd', 'and', 'took', 'around', '56', 'hour', 'for', 'complet', 'routin', 'checkup', 'staff', 'is', 'support', 'and', 'cleanli', 'is', 'maintain']",1,5,-0.25
+"['i', 'would', 'have', 'given', '0', 'if', 'there', 'is', 'an', 'option', 'i', 'took', 'my', 'father', 'to', 'emerg', 'ward', 'and', 'we', 'wait', '2', 'hour', 'no', 'bodi', 'attend', 'him', 'at', 'all', 'what', 'is', 'the', 'purpos', 'of', 'emerg', 'if', 'you', 'dont', 'have', 'anyon', 'to', 'treat', 'patient']",1,5,0.0
+"['worst', 'hospit', 'in', 'bangalor', 'onli', 'money', 'make', 'market', 'as', 'soon', 'u', 'go', 'to', 'emerg', 'ward', 'u', 'will', 'end', 'up', 'go', 'to', 'icu', '', 'all', 'the', 'hospit', 'diagnost', 'are', 'use', 'to', 'make', 'moneyr']",0,1,-1.0
+"['i', 'have', 'consult', 'dr', 'karthik', 'sir', 'no', 'hurri', 'explain', 'issu', 'calmi', 'and', 'wont', 'suggest', 'unnecessari', 'test']",1,4,0.0
+"['must', 'come', 'for', 'ani', 'cardio', 'issu', 'they', 'are', 'titan', 'for', 'cardio', 'health', 'thank', 'you', 'nh', 'team', 'from', 'ground', 'handl', 'staff', 'to', 'doctor', 'all', 'are', 'superb', 'in', 'their', 'assign', 'job', 'kudo', 'to', 'the', 'organ']",1,5,1.0
+"['the', 'hospit', 'will', 'not', 'take', 'you', 'for', 'a', 'ride', 'with', 'unwant', 'test', 'the', 'doctor', 'do', 'physic', 'examin', 'and', 'with', 'the', 'symptom', 'find', 'and', 'their', 'experi', 'proceed', 'with', 'medic']",1,5,0.0
+"['hospit', 'staff', 'is', 'veri', 'irrespons', 'their', 'behaviour', 'is', 'not', 'good', 'they', 'are', 'take', 'so', 'much', 'time', 'for', 'small', 'treatment', 'thi', 'hospit', 'is', 'not', 'good', 'for', 'major', 'injuri', 'and', 'in', 'emerg']",0,2,-0.1375
+"['one', 'of', 'the', 'rare', 'hospit', 'brand', 'in', 'bangalor', 'which', 'still', 'keep', 'the', 'digniti', 'of', 'thi', 'profess', 'the', 'hospit', 'manag', 'system', 'is', 'effici', 'and', 'the', 'staff', 'help', 'the', 'doctor', 'are', 'compet']",1,3,0.3
+"['dr', 'sujith', 'ms', 'ha', 'been', 'veri', 'help', 'dure', 'everi', 'visit', 'at', 'nh', 'hospit', 'thank', 'you', 'doctor', 'and', 'nh', 'hospit']",1,5,0.0
+"['dr', 'ramesh', 'patil', 'examin', 'me', 'care', 'and', 'satisfi', 'by', 'all', 'mean', 'as', 'an', 'expert', 'neurologist', 'he', 'impress', 'deepli', 'with', 'hi', 'cool', 'behaviour']",1,5,0.01874999999999999
+"['worst', 'hospit', 'dont', 'go', 'here', 'never', 'recommend', 'thi', 'hospit', 'to', 'anyon', 'instead', 'go', 'to', 'apollo', 'or', 'some', 'other', 'hospit', 'that', 'have', 'more', 'sens', 'that', 'you', 'shouldnt', 'keep', 'the', 'patient', 'waitingnegative2', 'servic', 'is', 'excel', 'but', 'charg', 'are', 'extrem', 'high', 'compar', 'to', 'apollo', '247', 'for', 'lab', 'reportsposit', '5', 'thi', 'place', 'is', 'open', 'just', 'for', 'mint', 'money', 'it', 'is', 'so', 'obviou', 'in', 'their', 'behaviour', 'they', 'manipul', 'test', 'result', 'in', 'their', 'favour', 'so', 'you', 'can', 'get', 'admit', 'where', 'no', 'admiss', 'is', 'requir', 'at', 'all', 'thi', 'ha', 'happen', 'to', 'my', 'uncl', 'and', 'a', 'neighbor', 'negative2', 'doctor', 'and', 'staff', 'are', 'veri', 'support', 'and', 'help', 'thi', 'is', 'my', 'first', 'visit', 'to', 'hsr', 'lay', 'out', 'hospit', 'i', 'am', 'amazednegative1', 'first', 'dont', 'admit', 'your', 'love', 'one', 'here', 'chutiya', 'hospit', 'cant', 'diagnos', 'or', 'find', 'anyth', 'even', 'after', '3', 'day', 'of', 'icu', 'admiss', 'with', 'lot', 'of', 'repetit', 'test', 'cant', 'cure', 'even', 'dengu', 'despit', 'admit', 'on', 'veri', 'first', 'day', 'of', 'fever']",0,2,0.08722222222222223
+"['with', 'the', 'excel', 'support', 'guidanc', 'and', 'supervis', 'of', 'dr', 'manjula', 'gynaecologist', 'in', 'narayana', 'multispeci', 'hospit', 'hsr', 'layout', 'surgeri', 'for', 'my', 'wife', 'went', 'on', 'well', 'and', 'smooth']",1,5,0.4
+"['worst', 'hospit', 'pleas', 'never', 'go', 'to', 'thi', 'hospit', 'in', 'emerg', 'ward', 'they', 'are', 'just', 'money', 'looter', 'and', 'they', 'just', 'want', 'all', 'patient', 'to', 'go', 'to', 'icu', '']",0,1,-1.0
+"['veri', 'good', 'servic', 'and', 'good', 'doctor', 'onli', 'challeng', 'is', 'with', 'park', 'with', 'patient', 'of', 'u', 'r', 'alon', 'it', 'is', 'a', 'big', 'challeng', 'also', 'the', 'locat', 'is', 'such', 'you', 'hardli', 'get', 'a', 'proper', 'park']",1,3,0.27999999999999997
+"['examin', 'me', 'care', 'and', 'satisfi', 'by', 'all', 'mean', 'as', 'an', 'expert', 'neurologist', 'he', 'impress', 'deepli', 'with', 'hi', 'cool', 'behaviour']",0,1,0.01874999999999999
+"['the', 'hospit', 'offer', 'great', 'patient', 'care', 'but', 'the', 'road', 'are', 'veri', 'veri', 'narrow', 'and', 'highli', 'imposs', 'to', 'get', 'park', 'avail', 'here', 'or', 'in', 'the', 'vicin']",1,3,0.30000000000000004
+"['veri', 'good', 'experi', 'the', 'doctor', 'ha', 'address', 'my', 'health', 'issu', 'veri', 'patient', 'and', 'i', 'had', 'quick', 'recoveri']",1,5,0.5166666666666666
+"['thi', 'is', 'a', 'second', 'time', 'we', 'visit', 'here', 'thi', 'time', 'we', 'have', 'done', 'a', 'surgeri', 'from', 'here', 'doctor', 'and', 'nurs', 'are', 'veri', 'profession', 'and', 'helpfulhospit', 'promis', 'clean', 'and', 'servic', 'veri', 'good', 'hope', 'a', 'good', 'futur', 'ahead', 'thank', 'you']",1,5,0.44166666666666665
+"['emerg', 'is', 'a', 'joke', 'here', 'they', 'have', 'been', 'ask', 'us', 'to', 'just', 'wait', 'and', 'wait', 'the', 'concern', 'patient', 'ha', 'veri', 'high', 'fever', 'with', 'dengu', 'multipl', 'payment', '']",0,2,0.16
+"['i', 'realli', 'wish', 'and', 'hope', 'that', 'someon', 'from', 'the', 'upper', 'manag', 'read', 'thi', 'you', 'guy', 'have', 'everyth', 'avail', 'yet', 'the', 'hospit', 'will', 'never', 'achiev', 'ani', 'great', 'and', 'itll', 'be', 'on', 'you']",1,3,0.4
+"['prompt', 'servic', 'v', 'good', 'housekeep', 'disciplin', 'nurs', 'abov', 'all', 'expert', 'doctor', 'well', 'manag', 'ot', 'facil']",1,3,0.7
+"['fantast', 'medic', 'care', 'highest', 'degre', 'of', 'profession', 'awesom', 'peac', 'of', 'mind', 'for', 'the', 'patient', 'n', 'famili', 'keep', 'up', 'the', 'good', 'work']",1,5,0.7
+"['a', 'veri', 'well', 'manag', 'medic', 'superspeci', 'with', 'hassl', 'free', 'assist', 'to', 'patient', 'and', 'their', 'famili', 'a', 'must', 'recommend', 'to', 'citizen']",1,4,0.4
+"['recent', 'i', 'had', 'a', 'fractur', 'in', 'my', 'right', 'hand', 'i', 'went', 'to', 'narayana', 'hospit', 'hsr', 'to', 'get', 'diagnos', 'by', 'one', 'of', 'the', 'best', 'doctor', '']",1,5,0.42857142857142855
+"['worst', 'worst', 'give', 'good', 'suggest', 'and', 'the', 'staff', 'were', 'good', 'at', 'patient', 'eerashi', 'and', 'arun', 'sister', 'were', 'help', 'to', 'the', 'patient', 'i', 'wa', 'forc', 'by', 'them', 'to', 'post', 'good', 'opinion', 'but', 'it', 'wa', 'worst']",1,3,-0.15000000000000002
+"['hear', 'your', 'issu', 'and', 'address', 'them', 'staff', 'are', 'absolut', 'dear', 'softspoken', 'and', 'help', 'bill', 'need', 'improv']",1,5,0.0
+"['last', 'l', 'wa', 'visit', 'the', 'hospit', 'veri', 'experienc', 'doctor', 'is', 'there', 'special', 'drguddu', 'and', 'miss', 'anu', 'thank']",1,5,0.17857142857142858
+"['one', 'of', 'best', 'hospit', 'in', 'bangalor', 'doctor', 'and', 'staff', 'are', 'veri', 'polit', 'with', 'the', 'patient', 'and', 'understand', 'the', 'problem', 'and', 'give', 'best', 'treatment', 'also', 'the', 'mainten', 'of', 'hospit', 'with', 'clean', 'neat', 'and', 'tidi']",1,5,0.7888888888888889
+"['i', 'have', 'an', 'excel', 'experi', 'with', 'with', 'the', 'servic', 'the', 'provid', 'and', 'also', 'dr', 'sujit', 'is', 'a', 'veri', 'good', 'doctor']",1,4,0.7
+"['they', 'let', 'the', 'emmerg', 'patient', 'to', 'die', 'i', 'took', 'my', '65yr', 'mom', 'as', 'she', 'keep', 'complain', 'about', 'chest', 'pain', 'i', 'told', 'them', 'we', 'are', 'here', 'for', 'emmerg', 'show', 'mom', 'feel', 'breathless']",0,1,0.0
+"['prompt', 'servic', 'v', 'good', 'housekeep', 'disciplin', 'nurs', 'abov', 'all', 'expert', 'doctor', 'well', 'manag', 'ot', 'facil']",1,4,0.7
+"['dr', 'saji', 'm', 'j', 'have', 'been', 'consult', 'him', 'from', 'past', '4', 'year', 'one', 'of', 'the', 'finest', 'doctor', 'to', 'be', 'known', 'and', 'also', 'a', 'good', 'human', 'be']",1,5,0.15
+"['the', 'session', 'with', 'dr', 'jagadeesh', 'as', 'veri', 'insight', 'he', 'patient', 'answer', 'all', 'my', 'queri', 'and', 'made', 'me', 'understand', 'the', 'intricaci', 'involv', 'with', 'my', 'kidney', 'issu', 'i', 'strongli', 'recommend', 'him', 'for', 'ani', 'urolog', 'relat', 'issu']",1,4,0.0
+"['manjunath', 'kp', 'said', 'he', 'will', 'come', 'at', '8', 'pm', 'on', 'septemb', '16', 'still', 'he', 'is', 'not', 'here', 'and', 'my', 'kid', 'is', 'have', 'fever', 'there', 'are', 'mani', 'patient', 'wait', 'from', '7pm', 'now', 'it', 'alreadi', '9', 'pm']",0,1,0.0
+"['courteou', 'treatment', 'by', 'the', 'attend', 'support', 'staff', 'dr', 'sarat', 'damodar', 'is', 'excel', 'and', 'veri', 'help', 'in', 'make', 'me', 'to', 'understand', 'the', 'issu', 'involv', 'and', 'put', 'me', 'on', 'satisfactori', 'regimen', 'thank', 'to', 'him', 'and', 'everyon', 'at', 'nmh']",1,4,0.0
+"['money', 'loot', 'hospit', 'emerg', 'ward', 'is', 'not', 'actual', 'it', 'is', 'it', 'is', 'a', 'fun', 'ward', 'on', 'patient', 'they', 'cannot', 'abl', 'to', 'identifi', 'the', 'root', 'caus', 'of', 'the', 'problem']",0,2,0.15
+"['they', 'charg', 'us', '1', 'lakh', 'rs', 'for', 'just', '24', 'hr', 'hospit', 'on', 'argu', 'and', 'check', 'the', 'bill', 'after', 'i', 'almost', 'paid', 'the', 'money']",0,2,0.0
+"['veri', 'good', 'consult', 'with', 'dr', 'karthik', 'sir', 'gener', 'medicin', 'i', 'ã', 'm', 'realli', 'happi', 'and', 'coordinatior', 'revathi', 'also', 'help', 'me', 'a', 'lot', 'i', 'am', 'realli', 'tank', 'to', 'dr', 'karthik', 'and', 'revathi', 'i', 'am', 'realli', 'recommend', 'to', 'thi', 'dr', 'and', 'hospit']",1,5,0.7
+"['everyon', 'in', 'staff', 'as', 'well', 'as', 'doctor', 'were', 'veri', 'help', 'and', 'with', 'good', 'behaviour', 'had', 'a', 'smooth', 'experi', 'through', 'my', 'consult', 'and', 'diagnos', 'for', 'a', 'week']",1,4,0.55
+"['excel', 'treatment', 'best', 'doctor', 'and', 'nurs', 'my', 'kid', 'got', 'well', 'in', '3', 'day']",1,5,1.0
+"['complet', 'unhelp', 'and', 'exploit', 'staff', 'none', 'of', 'the', 'narayana', 'brand', 'principl', 'are', 'follow', 'here', 'they', 'will', 'exploit', 'you', 'for', 'money', 'with', 'uneccessari', 'test', 'and', 'procedur', 'got', 'refus', 'twice', 'in', 'er', 'as', 'well', 'when', 'famili', 'member', 'had', 'emerg']",0,1,0.0
+"['well', 'organis', 'help', 'and', 'support', 'staff', 'and', 'abov', 'all', 'veri', 'profession', 'and', 'experienc', 'doctor', 'who', 'listen', 'and', 'understand', 'the', 'patient']",1,5,0.0
+"['dr', 'saji', 'orthoped', 'is', 'an', 'asset', 'of', 'the', 'hospit', 'hi', 'way', 'of', 'treatingpati', 'is', 'excel', 'we', 'are', 'happi']",1,5,0.0
+"['best', 'manag', 'best', 'doctor', 'and', 'best', 'servic', 'i', 'am', 'go', 'to', 'narayana', 'hrudayalaya', 'sinc', '15', 'year', 'and', 'alway', 'satisfi', 'with', 'the', 'consult', 'and', 'doctor']",1,5,1.0
+"['excel', 'prompt', 'hospit', 'servic', 'dure', 'stay', 'of', '1', 'week', 'doctor', 'paid', 'continu', 'visit', '', 'respond', 'as', 'need', 'promptli', 'at', 'one', 'point', 'they', 'had', 'to', 'be', 'vigil', 'whole', 'night', '', 'save', 'the', 'patient']",1,5,0.2
+"['extrem', 'knowledg', 'and', 'veri', 'good', 'doctor', 'i', 'have', 'been', 'admit', 'for', 'a', 'infect', 'and', 'lung', 'issu', 'veri', 'courteou', 'and', 'profession', 'support', 'staff']",1,4,0.7
+"['we', 'had', 'to', 'wait', 'an', 'hour', 'despit', 'have', 'an', 'appoint', 'thi', 'isnâ€™t', 'the', 'first', 'time', 'thi', 'happen', 'they', 'have', 'no', 'understand', 'of', 'how', 'to', 'manag', 'the', 'appoint', 'queue', 'itâ€™', 'just', 'so', 'random', 'and', 'unorganis', 'and', 'a', 'lot', 'of', 'scope', 'to', 'improv']",1,3,-0.125
+"['nh', 'is', 'one', 'of', 'the', 'best', 'hospit', 'at', 'hsr', 'when', 'we', 'went', 'there', 'at', 'first', 'mr', 'dileep', 'kumar', 'coordin', 'the', 'visit', 'with', 'our', 'doctor', 'and', 'the', 'visit', 'wa', 'also', 'comfort', 'and', 'quick']",1,5,0.5277777777777778
+"['consult', 'uther', 'dr', 'babu', 'reddi', 'sir', 'past', '2yar', 'for', 'cardiologist', 'strong', 'good', 'treat', 'well', 'and', 'well', 'explain', 'each', 'and', 'veri', 'thing', 'take', 'care', 'veri', 'much', 'about', 'patient', 'can', 'recommend', 'to', 'thi', 'dr', 'babu', 'reddi', 'sir', 'and', 'hospit']",1,5,0.2708333333333333
+"['dr', 'r', 'veri', 'they', 'listen', 'all', 'the', 'issu', 'of', 'patient', 'care']",1,5,0.0
+"['best', 'doctor', 'avail', 'in', 'narayana', 'and', 'also', 'hospit', 'is', 'veri', 'nice', 'they', 'provid', 'a', 'good', 'and', 'hygan', 'diet', 'for', 'patient', 'daili', 'take', 'feedback', 'relat', 'to', 'their', 'servic']",1,4,0.7666666666666666
+"['veri', 'good', 'servic', 'by', 'the', 'hospit', 'staff', 'and', 'nurs', 'and', 'doctor', 'l', 'am', 'happi', 'about', 'narayana', 'hospit', 'hsr']",1,5,0.7
+"['excel', 'servic', 'the', 'staff', 'were', 'all', 'so', 'polit', 'and', 'dr', 'saji', 'wa', 'so', 'amaz', 'would', 'definit', 'recommend']",1,4,0.0
+"['worst', 'behaviour', 'by', 'ultrasound', 'consult', 'she', 'doesnt', 'even', 'speak', 'properli', 'she', 'disconnect', 'the', 'call', 'in', 'between', 'better', 'to', 'avoid', 'we', 'decid', 'to', 'do', 'thi', 'from', 'outsid', 'and', 'move', 'away', 'from', 'narayana']",0,1,-0.25
+"['look', 'like', 'hospit', 'doctor', 'are', 'well', 'train', 'to', 'ask', 'patient', 'to', 'do', 'unnecessari', 'test', 'to', 'gener', 'more', 'revenu', 'for', 'hospit', 'and', 'they', 'will', 'also', 'doctor', 'will', 'get', 'some', 'percentag', 'from', 'lab', 'test']",0,2,0.5
+"['we', 'came', 'for', 'ultra', 'sound', 'for', 'my', 'wife', 'hospit', 'staff', 'are', 'veri', 'help', 'and', 'friendli', 'the', 'ladi', 'name', 'sandhya', 'assist', 'near', 'ultrasound', 'guid', 'her', 'to', 'have', 'water', 'walk', 'around', 'and', 'manag', 'quot', 'well', 'all', 'the', 'patient']",1,5,0.25
+"['veri', 'pathet', 'experi', 'i', 'wont', 'recommend', 'thi', 'hospit', 'to', 'anyon']",0,1,0.0
+"['blood', 'test', 'guy', 'wa', 'also', 'good', 'with', 'hi', 'servic', 'but', 'their', 'ultrasound', 'test', 'servic', 'is', 'veri', 'poor', 'wont', 'suggest', 'to', 'do', 'that', 'from', 'hospit']",1,3,0.14999999999999997
+"['got', 'a', 'good', 'experi', 'dure', 'surgeri', 'of', 'knee', 'replac', 'for', 'my', 'mother']",1,5,0.7
+"['the', 'qualiti', 'of', 'the', 'ho', 'ha', 'tumbl', 'down', 'drastic', 'their', 'nurs', 'station', 'do', 'not', 'honour', 'the', 'appoint', 'time', 'and', 'they', 'are', 'clueless', 'when', 'to', 'send', 'a', 'patient', 'again', 'back', 'to', 'the', 'doctor']",0,2,-0.07777777777777779
+"['everyth', 'wa', 'perfectli', 'organis']",1,4,0.0
+"['the', 'staff', 'wa', 'highli', 'attent', 'and', 'profession', 'ensur', 'my', 'comfort', 'throughout', 'my', 'visit', 'and', 'the', 'facil', 'cleanli', 'and', 'organ', 'were', 'also', 'impress']",1,4,0.0
+"['i', 'had', 'mani', 'complic', 'but', 'she', 'identifi', 'them', 'at', 'an', 'earli', 'stage', 'and', 'continu', 'monitor', 'the', 'same', 'to', 'ensur', 'a', 'safe', 'deliveri', 'dure', 'the', 'deliveri', 'a', 'smooth', 'normal', 'deliveri']",1,5,0.2625
+"['a', 'veri', 'poor', 'experi', 'of', 'servic', 'by', 'staff', 'food', 'and', 'they', 'charg', 'a', 'bomb', 'and', 'utter', 'nonsens', 'happen', 'while', 'i', 'got', 'admit', 'for', 'a', 'knee', 'surgeri']",0,2,-0.2
+"['one', 'of', 'mani', 'promin', 'hospit', 'found', 'in', 'bangalor', 'found', 'good', 'servic', 'when', 'visit', 'last', 'time', 'for', 'an', 'emerg', 'visit', 'all', 'the', 'necessari', 'test', 'were', 'done', 'in', 'quick', 'time']",1,4,0.3444444444444444
+"['i', 'spent', 'a', 'good', '5', 'hr', 'in', 'that', 'hospit', 'for', 'test', 'and', 'consult', 'while', 'the', 'doctor', 'are', 'good', 'the', 'help', 'staff', 'have', 'no', 'clue', 'especi', 'the', 'util', 'staff']",1,3,0.4333333333333333
+"['poor', 'experi', 'for', 'bill', 'and', 'poor', 'experi', 'for', 'bill']",1,3,-0.4
+"['i', 'went', 'to', 'the', 'hospit', 'for', 'minor', 'symptom', 'like', 'a', 'cold', 'there', 'were', 'no', 'problem', 'but', 'when', 'i', 'went', 'to', 'the', 'hospit', 'for', 'an', 'emerg', 'there', 'seem', 'to', 'be', 'a', 'lot', 'of', 'problem']",0,1,-0.325
+"['grate', 'for', 'the', 'except', 'care', 'and', 'expertis', 'at', 'manip', 'hebbal', 'dr', 'shafalika', 'and', 'the', 'staff', 'made', 'our', 'visit', 'stress', 'immens', 'appreci', 'and', 'heartfelt', 'thank']",1,5,0.0
+"['effici', 'and', 'compassion', 'emerg', 'care', 'though', 'opt', 'for', 'surgeri', 'elsewher', 'due', 'to', 'cost', 'grate', 'for', 'the', 'support', 'bill', 'team', 'prompt', 'refund', 'assist']",1,3,-0.125
+"['i', 'wa', 'thoroughli', 'impress', 'with', 'the', 'level', 'of', 'care', 'and', 'profession', 'the', 'doctor', 'and', 'nurs', 'were', 'knowledg', 'and', 'took', 'the', 'time', 'to', 'explain', 'my', 'treatment', 'plan', 'in', 'a', 'way', 'that', 'i', 'could', 'understand']",1,4,0.0
+"['the', 'servic', 'are', 'upto', 'intern', 'standard', 'just', 'one', 'thing', 'which', 'annoy', 'is', 'they', 'charg', 'you', 'park', 'fee', 'even', 'if', 'you', 'are', 'spend', 'thousand', 'of', 'money', 'for', 'treatment']",1,3,0.0
+"['the', 'manag', 'in', 'recept', 'are', 'not', 'more', 'activ', 'i', 'book', 'appoint', 'through', 'iho', 'for', 'cunsult', 'i', 'strugll', 'too', 'much', 'for', 'my', 'appoint', 'overal', 'behavior', 'of', 'all', 'staff', 'menber', 'are', 'polit']",1,3,-0.024999999999999994
+"['horribl', 'condit', 'of', 'everyth', 'block', 'toilet', 'block', 'sink', 'unclean', 'floor', 'patient', 'bed', 'is', 'also', 'shake', 'and', 'make', 'nois', 'hospit', 'make', 'lot', 'of', 'money', 'still', 'not', 'use', 'for', 'renov', 'pathet']",0,1,-0.03333333333333333
+"['the', 'comprehens', 'care', 'provid', 'by', 'manip', 'hospit', 'from', 'the', 'ccu', 'and', 'icu', 'unit', 'to', 'the', 'nurs', 'station', 'wa', 'outstand']",1,5,0.0
+"['high', 'cost', 'paid', 'park', 'even', 'on', 'admitt', 'manag', 'with', 'high', 'number', 'of', 'inpati', 'capac', 'theyâ€™r', 'extrem', 'busi', 'nurs', 'multipl', 'patient', 'and', 'some', 'miss', 'here']",1,3,0.16
+"['i', 'recent', 'visit', 'thi', 'hospit', 'in', 'bangalor', 'l', 'i', 'had', 'a', 'great', 'experi', 'star', 'are', 'veri', 'friendli', 'and', 'attent', 'hospit', 'is', 'veri', 'clean', 'and', 'well', 'maintain']",1,5,0.3888888888888889
+"['horribl', 'experi', 'after', 'colonoscopi', 'staff', 'wa', 'talk', 'rude', 'to', 'her', 'and', 'when', 'she', 'told', 'that', 'she', 'wa', 'in', 'pain', 'she', 'wa', 'told', 'not', 'to', 'make', 'nois']",0,1,-0.3
+"['came', 'for', 'annual', 'health', 'checkup', 'face', 'lot', 'of', 'issu', 'to', 'start', 'the', 'process', 'even', 'book', '2', 'day', 'befor', 'no', 'staff', 'poor', 'manag', 'for', 'a', 'health', 'checkup', '6', 'hour']",0,2,-0.4
+"['we', 'couldnâ€™t', 'get', 'an', 'appoint', 'with', 'dr', 'abhijit', 'but', 'need', 'to', 'see', 'him', 'urgent', 'for', 'my', 'mother', 'she', 'wa', 'so', 'kind', 'and', 'proactiv', 'and', 'spoke', 'to', 'the', 'doctor', 'immedi', 'and', 'he', 'kindli', 'agre', 'to', 'see', 'her']",1,4,0.6
+"['she', 'help', 'with', 'book', 'an', 'appoint', 'with', 'lab', 'test', 'as', 'well', 'as', 'help', 'me', 'with', 'a', 'consult', 'doctor', 'and', 'made', 'sure', 'i', 'go', 'through', 'a', 'smooth', 'process', 'when', 'im', 'on', 'my', 'low', 'ho', 'servic', 'wa', 'good', 'as', 'well']",1,5,0.4
+"['the', 'worst', 'experi', 'that', 'i', 'ever', 'had', 'at', 'the', 'hospit', 'when', 'i', 'took', 'my', 'son', 'to', 'the', 'emerg', 'ward', 'recent', 'there', 'wa', 'no', 'bed', 'in', 'the', 'emerg', 'room', 'for', 'my', 'son']",0,1,-0.5
+"['worst', 'facil', 'no', 'proper', 'treatment', 'provid', 'to', 'the', 'patient', 'and', 'befor', 'estim', 'the', 'bill', 'will', 'be', 'limit', 'to', 'the', 'extend', 'and', 'post', 'that', 'itâ€™', 'gonna', 'be', 'doubl', 'and', 'tripl', 'for', 'unwant', 'test', 'been', 'perform']",0,2,-0.5
+"['no', 'respons', 'from', 'manag', 'properli', 'and', 'everyth', 'delay', 'thing', 'never', 'go', 'smooth', 'we', 'need', 'to', 'wait', 'for', 'hour', 'n', 'hour', 'even', 'if', 'the', 'patient', 'is', 'under', 'emerg', 'they', 'never', 'take', 'incharg', 'of', 'belong']",0,2,0.4
+"['dear', 'team', 'hospit', 'servic', 'and', 'respons', 'of', 'each', 'staff', 'wa', 'realli', 'good', 'and', 'pleas', 'she', 'save', 'my', 'energi', 'and', 'time', 'as', 'well', 'thank']",1,5,0.7
+"['it', 'simpli', 'four', 'wall', 'with', 'marbl', 'floor', 'and', 'some', 'peopl', 'roam', 'around', 'in', 'green', 'blue', 'scrub', 'and', 'some', 'room', 'that', 'claim', 'to', 'be', 'seat', 'doctor', 'definit', 'not', 'a', 'hospit']",0,1,-0.1
+"['adiolog', 'depart', 'is', 'veri', 'clean', 'and', 'give', 'good', 'servic', 'i', 'am', 'happi']",1,4,0.5333333333333333
+"['we', 'do', 'not', 'have', 'enough', 'word', 'to', 'express', 'our', 'gratitud', 'toward', 'dr', 'vijaya', 'for', 'her', 'attent', 'expertis', 'behaviour', 'and', 'understand', 'toward', 'patient']",1,5,0.0
+"['there', 'ha', 'been', 'a', 'big', 'issu', 'is', 'bill', 'we', 'were', 'charg', 'twice', 'for', 'room', 'charg', 'and', 'insur', 'compani', 'also', 'gave', 'approv', 'without', 'a', 'check', 'for', 'thier', 'part', 'of', 'payment']",0,1,0.0
+"['the', 'overal', 'bill', 'experi', 'made', 'my', 'impress', 'as', 'the', 'manag', 'is', 'just', 'keen', 'and', 'make', 'money', 'be', 'it', 'even', 'uneth']",1,3,0.0
+"['hospit', 'staff', 'onli', 'provid', 'an', 'estim', 'post', 'discharg', 'estim', 'ha', 'chang', 'and', 'taken', '60k', 'extra']",0,2,0.0
+"['after', 'take', 'over', 'by', 'manip', 'manag', 'is', 'not', 'bother', 'about', 'patient', 'they', 'need', 'onli', 'money']",0,2,0.0
+"['these', 'wall', 'have', 'seen', 'better', 'day', 'thi', 'establish', 'is', 'look', 'like', 'it', 'lose', 'it', 'zeal', 'that', 'wa', 'onc', 'love', 'and', 'admir']",1,3,0.5
+"['the', 'staff', 'seem', 'to', 'have', 'becom', 'less', 'respons', 'and', 'lax', 'after', 'covid', 'or', 'probabl', 'under', 'the', 'new', 'manag']",0,1,-0.015151515151515152
+"['i', 'had', 'an', 'good', 'experi', 'in', 'thi', 'hospit', 'where', 'in', 'the', 'doctor', 'are', 'veri', 'help', 'and', 'experienc']",1,4,0.7
+"['not', 'so', 'impress', 'with', 'checkup', 'but', 'somehow', 'have', 'accept', 'overal', 'feel', 'not', 'worthi']",1,3,0.0
+"['my', 'experi', 'wa', 'realli', 'good', 'here', 'support', 'staff', 'and', 'nurs', 'thank', 'you', 'manip', 'and', 'team']",1,5,0.7
+"['worst', 'experi', 'nurs', 'station', 'ha', 'no', 'clue', 'when', 'doctor', 'gonna', 'see', 'patient', 'you', 'will', 'never', 'find', 'ani', 'doctor', 'in', 'their', 'allot', 'room']",0,2,-1.0
+"['recept', 'is', 'eager', 'to', 'get', 'the', 'review', 'even', 'befor', 'servic', 'is', 'deliv', 'i', 'got', 'an', 'appoint', 'at', '1020', 'but', 'it', 'is', 'chang', 'to', '11', 'am', 'i', 'am', 'not', 'commun', 'on', 'the', 'same']",0,1,0.0
+"['may', 'be', 'the', 'treatment', 'is', 'good', 'depend', 'on', 'the', 'doctor', 'but', 'worst', 'nurs', 'experi', 'manag', 'is', 'averag', 'and', 'the', 'cost', 'of', 'treatment', 'especi', 'is', 'abruptli', 'and', 'absurdli', 'high']",1,3,-0.04666666666666668
+"['their', 'cafeteria', 'is', 'an', 'absolut', 'mess', 'staff', 'is', 'clueless', 'appar', 'for', 'health', 'check', 'up', 'packag', 'the', 'menu', 'is', 'separ']",0,1,-0.175
+"['we', 'are', 'convinc', 'henceforth', 'we', 'will', 'continu', 'our', 'treatment', 'here', 'keep', 'up', 'the', 'good', 'work', 'manip', 'hebbal']",1,5,0.7
+"['thi', 'is', 'unexpect', 'wast', 'time', 'is', 'more', 'here', 'pleas', 'go', 'to', 'near', 'by', 'hospit', 'govern', 'hospit', 'is', 'better', 'than', 'thi', 'bloodi', 'hospit']",0,1,0.3666666666666667
+"['we', 'were', 'at', 'manip', 'to', 'get', 'my', 'father', 'treat', 'for', 'cbag', 'and', 'we', 'had', 'a', 'wonder', 'experi']",1,4,0.0
+"['it', 'wa', 'amaz', 'consult', 'and', 'so', 'friendli', 'with', 'us', 'in', 'the', 'start', 'recept', 'miss', 'sowmya', 'she', 'is', 'so', 'friendli', 'and', 'veri', 'kind', 'with', 'us', 'and', 'she', 'will', 'do', 'warm', 'greet', 'with', 'us']",1,4,0.6
+"['my', 'sister', 'got', 'an', 'admit', 'here', 'for', 'deliveri', 'treatment', 'wa', 'given', 'well', 'n', 'also', 'care', 'well', 'by', 'staff']",1,5,0.0
+"['hey', 'get', 'the', 'patient', 'admit', 'in', 'the', 'icu', 'for', 'a', 'silli', 'reason', 'and', 'charg', 'â‚¹60000', 'per', 'day', 'also', 'they', 'dont', 'diagnos', 'the', 'patient', 'properli', 'and', 'they', 'dont', 'care', 'about', 'the', 'patient']",0,1,0.0
+"['there', 'is', 'park', 'charg', 'for', 'both', '2', '', '4', 'wheeler', 'and', 'there', 'is', 'no', 'point', 'in', 'book', 'an', 'appoint', 'as', 'they', 'wont', 'stick', 'to', 'the', 'time', 'for', 'op', 'manag', 'need', 'to', 'be', 'streamlin']",0,2,0.0
+"['we', 'have', 'been', 'wait', 'more', '2hr', 'their', 'is', 'no', 'doctor', 'at', 'least', 'no', 'respons', 'from', 'manag', 'that', 'doctor', 'will', 'late']",0,1,-0.033333333333333326
+"['they', 'add', 'the', 'charg', 'for', 'medicin', 'which', 'are', 'not', 'even', 'prescrib']",0,1,0.0
+"['i', 'had', 'the', 'worst', 'experi', 'price', 'are', 'high', 'and', 'servic', 'is', 'too', 'bad', 'that', 'recept', 'staff', 'make', 'you', 'wait', 'for', 'hour']",0,2,-0.5133333333333333
+"['i', 'had', 'the', 'best', 'treatment', 'dure', 'my', 'stay', 'in', 'hospit', 'now', 'i', 'am', 'back', 'to', 'normal', 'work']",1,4,0.3833333333333333
+"['we', 'are', 'veri', 'grate', 'for', 'the', 'medic', 'support', 'and', 'hospit', 'provid', 'i', 'highli', 'recommend', 'thi', 'hospit', 'for', 'it', 'highli', 'profession', 'medic', 'servic']",1,4,0.0
+"['he', 'help', 'me', 'with', 'everyth', 'and', 'made', 'my', 'job', 'easi', 'overal', 'i', 'had', 'a', 'great', 'experi', 'at', 'manip', 'hospit', 'hebbal']",1,5,0.8
+"['that', 'wa', 'a', 'great', 'experi', 'to', 'have', 'select', 'manip', 'hospit', 'hebbal', 'out', 'of', 'other', 'competitor', 'around']",1,4,0.3375
+"['the', 'treatment', 'she', 'receiv', 'here', 'wa', 'excel', 'she', 'had', 'multipl', 'injuri', 'but', 'with', 'the', 'help', 'of', 'the', 'doctor', 'and', 'staff', 'here', 'she', 'is', 'complet', 're', 'over', 'now']",1,4,0.0
+"['i', 'had', 'worst', 'experi', 'in', 'thi', 'hospit', 'simpli', 'they', 'are', 'charg', 'more', 'final', 'patient', 'wil', 'not', 'get', 'ani', 'solut']",0,2,-0.16666666666666666
+"['he', 'took', 'us', 'through', 'veri', 'smooth', 'process', 'for', 'my', 'mom', 'surgeri', 'and', 'everyth', 'went', 'well', 'by', 'god', 'grace']",1,5,0.4
+"['excel', 'health', 'care', 'hospit', 'and', 'intellig', 'and', 'humbl', 'doctor', 'but', 'fee', 'structur', 'is', 'more']",1,3,0.5
+"['veri', 'friendli', 'staff', 'made', 'our', 'health', 'packag', 'procedur', 'smooth', 'and', 'hastl', 'free']",1,5,0.4
+"['i', 'didnt', 'have', 'hard', 'copi', 'of', 'the', 'report', 'but', 'she', 'wa', 'so', 'help', 'tat', 'she', 'immedi', 'gave', 'me', 'the', 'hardcopi', 'of', 'the', 'report', 'for', 'me']",1,5,-0.2916666666666667
+"['i', 'had', 'been', 'struggl', 'to', 'find', 'some', 'vaccin', 'that', 'wa', 'need', 'for', 'a', 'foreign', 'colleg', 'admiss', 'the', 'entir', 'staff', 'were', 'help']",1,5,-0.125
+"['overal', 'we', 'got', 'good', 'treatment', 'from', 'the', 'hospit', 'faculti', 'and', 'the', 'doctor']",1,4,0.7
+"['dr', 'shridhar', 'singhortho', 'he', 'is', 'such', 'a', 'scammer', 'and', 'remain', 'staff', 'is', 'good', 'i', 'must', 'say', 'he', 'should', 'be', 'remov', 'from', 'hospit']",1,3,0.35
+"['radiolog', 'depart', 'is', 'good', 'and', 'radiolog', 'staff', 'are', 'veri', 'helpful', 'specilli', 'in', 'radiolog', 'nurs', 'swapna']",1,4,0.7
+"['manip', 'as', 'a', 'whole', 'it', 'good', 'but', 'thi', 'branch', 'is', 'liter', 'useless', 'no', 'doctor']",1,3,0.1333333333333333
+"['great', 'experi', 'mr', 'vishaal', 'from', 'intern', 'depart', 'wa', 'veri', 'help', 'with', 'the', 'dr', 'appoint', 'and', 'all', 'the', 'test', 'hassl', 'free', 'experi']",1,5,0.6000000000000001
+"['veri', 'profession', 'and', 'friendli', 'toward', 'patient', 'staff', 'were', 'also', 'veri', 'kind', 'and', 'cooper']",1,5,0.6
+"['staff', 'is', 'so', 'polit', 'and', 'friendli', 'doctor', 'are', 'kind', 'and', 'diagnos', 'throughli', 'had', 'a', 'great', 'experi']",1,4,0.7
+"['he', 'spend', 'qualiti', 'time', 'with', 'me', 'and', 'explain', 'my', 'kidney', 'issu', 'and', 'lay', 'out', 'a', 'plan', 'to', 'handl', 'these', 'issu', 'we', 'are', 'veri', 'happi', 'with', 'the', 'hosp']",1,5,0.0
+"['overal', 'we', 'have', 'receiv', 'veri', 'good', 'servic', 'from', 'manip', 'hospit', 'hebbal', 'team']",1,5,0.7
+"['thi', 'is', 'one', 'worst', 'hospit', 'and', 'money', 'make']",0,1,-1.0
+"['manip', 'take', 'over', 'columbia', 'asia', 'ha', 'made', 'everyth', 'nonsens', 'to', 'take', 'appoint', 'i', 'had', 'to', 'call', '10', 'time']",0,1,0.0
+"['i', 'had', 'a', 'worst', 'experi', 'today', 'doctor', 'suggest', 'sdp', 'process', 'to', 'transfer', 'platlet', 'o', 'blood', 'is', 'not', 'avail', 'in', 'lab', 'in', 'manip', 'hospit']",0,2,-1.0
+"['excel', 'health', 'care', 'hospit', 'and', 'intellig', 'and', 'humbl', 'doctor']",1,5,0.0
+"['they', 'are', 'just', 'play', 'with', 'the', 'patient', 'to', 'earn', 'money', 'they', 'donâ€™t', 'give', 'medicin', 'which', 'is', 'prescrib', 'by', 'doctor', 'and', 'give', 'local', 'medicin']",0,2,0.0
+"['one', 'of', 'the', 'worst', 'hospit', 'no', 'mainten', 'no', 'commun', 'and', 'no', 'human', 'too', 'dr', 'sunil', 'cardio', 'he', 'is', 'worst', 'doc', 'possibl']",0,2,-0.6666666666666666
+"['if', 'ani', 'anyon', 'is', 'in', 'critic', 'emerg', 'go', 'to', 'some', 'other', 'hospit', 'not', 'for', 'thi', 'govt', 'hospit', 'are', 'far', 'better', 'than', 'thi', 'for', 'them', 'patient', 'are', 'atm', 'card', 'not', 'just', 'patient', 'i', 'request']",0,1,0.15833333333333333
+"['their', 'expertis', 'explan', 'and', 'except', 'care', 'made', 'thi', 'a', 'topnotch', 'experi', 'highli', 'recommend', 'them', 'for', 'anyon', 'seek', 'excel', 'dental', 'care']",1,5,0.0
+"['i', 'wa', 'admit', 'to', 'manip', 'hospit', 'for', 'my', 'surgeri', 'nurs', '', 'doctor', 'did', 'their', 'job', 'realli', 'well', 'food', 'wa', 'awesom', '', 'tasti']",1,5,0.0
+"['it', 'expens', 'sinc', 'i', 'had', 'insur', 'it', 'wa', 'manag', 'but', 'more', 'more', 'charg', 'in', 'park']",1,3,0.5
+"['dont', 'go', 'for', 'opd', 'they', 'tri', 'to', 'admit', 'to', 'emerg', 'or', 'make', 'you', 'wait', 'like', 'hell']",1,3,0.0
+"['excel', 'hospit', 'everyon', 'made', 'us', 'feel', 'comfort', 'and', 'guid', 'thru', 'eco', 'and', 'ecg', 'test']",1,5,0.0
+"['thi', 'hospit', 'is', 'nice', 'all', 'the', 'section', 'are', 'well', 'organis', 'and', 'the', 'staff', 'are', 'also', 'veri', 'polit', 'realli', 'like', 'thi', 'ambienc', 'and', 'facil']",1,4,0.6
+"['you', 'may', 'go', 'for', 'it', 'without', 'ani', 'second', 'thought']",1,4,0.0
+"['it', 'wa', 'hectic', 'deal', 'with', 'peopl', 'at', 'manip', 'hebbal', 'the', 'doctor', 'are', 'amaz', 'undoubtedli']",1,3,0.0
+"['it', 'wa', 'hectic', 'deal', 'with', 'peopl', 'at', 'manip', 'hebbal', 'the', 'doctor', 'are', 'amaz', 'undoubtedli', 'but', 'befor', 'we', 'reach', 'the', 'doctor', 'we', 'deal', 'with', 'these', 'buffoon', 'and', 'thi', 'is', 'troublesom']",1,3,0.0
+"['the', 'servic', 'are', 'upto', 'intern', 'standard', 'someth', 'which', 'hamper', 'the', 'brand', 'valu', 'of', 'manip', 'other', 'than', 'that', 'everyth', 'seem', 'to', 'be', 'valuabl']",1,3,-0.0625
+"['they', 'will', 'ask', 'you', 'to', 'regist', 'first', 'by', 'pay', '1000', 'and', 'then', 'tell', 'that', 'they', 'donâ€™t', 'have', 'the', 'medicin', 'pleas', 'tri', 'the', 'other', 'hospit']",0,1,0.0625
+"['help', 'us', 'detect', 'an', 'import', 'issu', 'via', 'blood', 'test', 'perform', 'dure', 'our', 'stay', 'in', 'emerg', 'i', 'initi', 'thought', 'whi', 'the', 'blood', 'test', 'wa', 'expens']",1,4,0.0
+"['i', 'cant', 'thank', 'you', 'enough', 'for', 'the', 'special', 'excel', 'care', 'you', 'have', 'provid', 'and', 'for', 'the', 'uniqu', 'gift', 'you', 'are', 'to', 'your', 'patient']",1,5,0.17857142857142858
+"['thank', 'you', 'so', 'much', 'for', 'the', 'great', 'care', 'and', 'surgeri', 'you', 'perform', 'on', 'me']",1,4,0.5
+"['we', 'are', 'extrem', 'veri', 'happi', 'with', 'hi', 'treatment', 'from', 'admiss', 'to', 'discharg', 'everyth', 'went', 'smoothli']",1,5,0.0
+"['veri', 'good', 'and', 'fast', 'servic']",1,4,0.44999999999999996
+"['thi', 'hospit', 'is', 'nice', 'all', 'the', 'section', 'are', 'well', 'organis', 'and', 'the', 'staff', 'are', 'also', 'veri', 'polit']",1,5,0.6
+"['doctor', 'are', 'good', 'but', 'the', 'mangement', 'and', 'servic', 'provid', 'are', 'atmost', 'neglig', 'and', 'pathet']",1,3,0.7
+"['the', 'treatment', 'is', 'good', 'but', 'bit', 'costli']",1,3,0.7
+"['doctor', 'is', 'veri', 'profession', 'good', 'good', 'servic', 'from', 'all', 'other', 'staff']",1,4,0.425
+"['the', 'icu', 'is', 'clean', 'spaciou', 'silent', 'and', 'had', 'sever', 'patient', 'onli', 'one', 'visitor', 'wa', 'allow', 'at', 'a', 'time']",1,4,0.18333333333333335
+"['my', 'father', 'is', 'underw', 'hip', 'replac', 'surgeri', 'with', 'dr', 'navinchand', 'we', 'are', 'realli', 'veri', 'happi', 'with', 'hi', 'surgeri', 'my', 'father', 'recov', 'veri', 'quickli']",1,5,0.0
+"['i', 'had', 'an', 'except', 'experi', 'at', 'manip', 'hospit', 'found', 'good', 'servic', 'when', 'visit', 'last', 'time', 'for', 'an', 'emerg', 'visit']",1,4,0.35
+"['except', 'the', 'doctor', 'everyth', 'wa', 'a', 'mess']",0,2,-0.175
+"['poor', 'experi', 'for', 'bill', 'and', 'poor', 'experi', 'for', 'bill']",0,2,-0.4
+"['facil', 'staff', 'and', 'cleanli', 'is', 'miss']",0,1,0.0
+"['spl', 'mention', 'for', 'nurs', 'staff', 'who', 'are', 'patient', 'and', 'provid', 'great', 'support']",1,5,0.8
+"['hygien', 'condit', 'are', 'poor', 'i', 'saw', 'rat', 'run', 'around', 'the', 'emerg', 'room']",0,2,-0.4
+"['hygien', 'condit', 'are', 'poor', 'i', 'saw', 'rat', 'run', 'around', 'the', 'emerg', 'room']",1,4,-0.4
+"['the', 'care', 'by', 'the', 'emerg', 'team', 'wa', 'prompt', 'and', 'quick', 'the', 'cost', 'of', 'surgeri', 'wa', 'expens']",1,3,0.3333333333333333
+"['i', 'wa', 'thoroughli', 'impress', 'with', 'the', 'level', 'of', 'care', 'and', 'profession', 'i', 'encount']",1,4,0.0
+"['good', 'hospit', 'in', 'the', 'hebbal', 'bengaluru', 'area']",1,5,0.7
+"['had', 'onli', 'anzio', 'happen', 'for', '4', 'day', 'of', 'hospit', 'befor', 'i', 'rise', 'my', 'voic']",0,2,0.0
+"['patient', 'care', 'staff', 'is', 'excel', 'and', 'dedic', 'excel', 'servic', 'of', 'doctor', 'were', 'excel', 'in', 'all', 'way', 'thank', 'everyth', 'wa', 'good']",1,4,0.7
+"['first', 'time', 'got', 'admit', 'here', 'horribl', 'condit', 'of', 'everyth', 'block', 'toilet', 'block', 'sink', 'unclean', 'floor', 'patient', 'bed', 'is', 'also', 'shake', 'and', 'make', 'nois']",0,2,0.10833333333333334
+"['i', 'recent', 'visit', 'thi', 'hospit', 'in', 'bangalor', 'i', 'had', 'a', 'great', 'experi', 'star', 'are', 'veri', 'friendli', 'and', 'attent', 'hospit', 'is', 'veri', 'clean', 'and', 'well', 'maintain']",1,5,0.3888888888888889
+"['dr', 'chandan', 'and', 'dr', 'rehan', 'sy', 'at', 'manip', 'hospit', 'deserv', 'accolad', 'for', 'their', 'except', 'expertis', 'in', 'angiogram', 'angioplasti', 'and', 'heart', 'surgeri']",1,5,0.0
+"['the', 'hospit', 'staff', 'is', 'pretti', 'welcom', 'the', 'servic', 'are', 'upto', 'intern', 'standard', 'just', 'one', 'thing', 'which', 'annoy', 'is', 'they', 'charg', 'you', 'park', 'fee']",1,3,0.0
+"['aisha', 'the', 'custom', 'case', 'supervisor', 'wa', 'fantast']",1,4,0.0
+"['the', 'worst', 'experi', 'that', 'i', 'ever', 'had', 'at', 'the', 'hospit', 'when', 'i', 'took', 'my', 'son', 'to', 'the', 'emerg', 'ward', 'recent']",0,2,-0.5
+"['worst', 'facil', 'no', 'proper', 'treatment', 'provid', 'to', 'the', 'patient', 'and', 'befor', 'estim', 'the', 'bill', 'will', 'be', 'limit', 'to', 'the', 'extend', 'and', 'post', 'that', 'itâ€™', 'gonna', 'be', 'doubl', 'and', 'tripl', 'for', 'unwant', 'test', 'been', 'perform']",0,2,-0.5
+"['dear', 'team', 'hospit', 'servic', 'and', 'respons', 'of', 'each', 'staff', 'wa', 'realli', 'good', 'and', 'pleas']",1,5,0.7
+"['it', 'simpli', 'four', 'wall', 'with', 'marbl', 'floor', 'and', 'some', 'peopl', 'roam', 'around', 'in', 'green', 'blue', 'scrub', 'and', 'some', 'room', 'that', 'claim', 'to', 'be', 'seat', 'doctor']",1,3,-0.1
+"['radiolog', 'depart', 'is', 'veri', 'clean', 'and', 'give', 'good', 'servic']",1,5,0.5333333333333333
+"['the', 'facil', 'in', 'the', 'hospit', 'are', 'realli', 'good', 'all', 'the', 'work', 'staff', 'and', 'nurs', 'doe', 'their', 'job', 'properli']",1,4,0.7
+"['the', 'staff', 'seem', 'to', 'have', 'becom', 'less', 'respons', 'and', 'lax', 'after', 'covid', 'or', 'probabl', 'under', 'the', 'new', 'manag']",1,3,-0.015151515151515152
+"['i', 'had', 'an', 'good', 'experi', 'in', 'thi', 'hospit', 'where', 'in', 'the', 'doctor', 'are', 'veri', 'help', 'and', 'experienc']",1,5,0.7
+"['1st', 'star', 'for', 'well', 'maintain', 'hospit', '2nd', 'star', 'for', 'final', 'got', 'a', 'treatment']",1,5,0.0
+"['dr', 'suma', 'mam', 'treat', 'wa', 'veri', 'friendli', 'explain', 'veri', 'detail', 'and', 'taken', 'care', 'like', 'a', 'famili', 'member']",1,5,0.0
+"['i', 'had', 'admit', 'my', 'grandmoth', 'in', 'manip', 'hospit', 'my', 'experi', 'wa', 'realli', 'good', 'here']",1,4,0.7
+"['worst', 'experi', 'nurs', 'station', 'ha', 'no', 'clue', 'when', 'doctor', 'gonna', 'see', 'patient', 'you', 'will', 'never', 'find', 'ani', 'doctor', 'in', 'their', 'allot', 'room']",1,4,-1.0
+"['recept', 'is', 'eager', 'to', 'get', 'the', 'review', 'even', 'befor', 'servic', 'is', 'deliv']",0,2,0.0
+"['doctor', 'and', 'staff', 'are', 'profession', 'in', 'front', 'desk', 'the', 'way', 'they', 'welcom', 'us', 'with', 'fold', 'hand', 'namast', 'with', 'smile', 'is', 'amaz']",1,5,0.3
+"['may', 'be', 'the', 'treatment', 'is', 'good', 'depend', 'on', 'the', 'doctor', 'but', 'worst', 'nurs', 'experi', 'manag', 'is', 'averag', 'and', 'the', 'cost', 'of', 'treatment', 'especi', 'is', 'abruptli', 'and', 'absurdli', 'high']",1,3,-0.04666666666666668
+"['we', 'were', 'at', 'manip', 'to', 'get', 'my', 'father', 'treat', 'for', 'cbag', 'and', 'we', 'had', 'a', 'wonder', 'experi', 'here', 'the', 'doctor', 'we', 'first', 'consult']",1,5,0.25
+"['it', 'wa', 'amaz', 'consult', 'and', 'so', 'friendli', 'with', 'us', 'in', 'the', 'start', 'recept', 'miss', 'sowmya', 'she', 'is', 'so', 'friendli', 'and', 'veri', 'kind', 'with', 'us', 'and', 'she', 'will', 'do', 'warm', 'greet', 'with', 'us']",1,5,0.6
+"['worst', 'experi', 'thi', 'hospit', 'doesnt', 'deserv', 'even', 'one', 'star', 'it', 'too', 'expens', 'and', 'no', 'proper', 'treatment']",0,2,-0.5
+"['there', 'is', 'park', 'charg', 'for', 'both', '2', '', '4', 'wheeler', 'and', 'there', 'is', 'no', 'point', 'in', 'book', 'an', 'appoint', 'as', 'they', 'wont', 'stick', 'to', 'the', 'time', 'for', 'op', 'manag', 'need', 'to', 'be', 'streamlin']",1,3,0.0
+"['went', 'to', 'get', 'my', 'checkup', 'wasnâ€™t', 'familiar', 'with', 'thi', 'hospit', 'as', 'thi', 'wa', 'my', 'first', 'visit', 'staff', 'wa', 'veri', 'friendli', 'and', 'help']",1,5,0.3125
+"['the', 'manag', 'is', 'worst']",1,4,-1.0
+"['realli', 'bad', 'experi', 'im', 'truli', 'baffl', 'by', 'all', 'the', '5', 'star', 'review', 'on', 'the', 'page', 'i', 'wonder', 'if', 'the', 'doctor', 'paid', 'for', 'them', 'the', 'servic', 'is', 'realli', 'overpr']",0,2,-0.6999999999999998
+"['i', 'underw', 'bypass', 'heart', 'surgeri', '', 'micabg', '', 'at', 'manip', 'hospit', 'hebbal', 'bangalor', 'on', '05092023', 'i', 'had', 'the', 'best', 'treatment', 'dure', 'my', 'stay', 'in', 'hospit']",0,1,1.0
+"['mr', 'vishal', 'and', 'dr', 'aradhana', 'sood', 'were', 'veri', 'welcom', 'and', 'alway', 'readi', 'to', 'assist']",1,4,0.0
+"['meet', 'dr', 'aradhana', 'sood', 'the', 'dr', 'is', 'highli', 'qualifi', 'and', 'expert', 'i', 'am', 'extrem', 'happi', 'with', 'the', 'consult', 'and', 'the', 'staff']",1,5,0.0
+"['i', 'had', 'the', 'worst', 'experi', 'price', 'are', 'high', 'and', 'servic', 'is', 'too', 'bad', 'that', 'recept', 'staff', 'make', 'you', 'wait', 'for', 'hour', 'nurs', 'also', 'dont', 'know', 'when', 'will', 'doctor', 'come', 'they', 'dont', 'have', 'ani', 'list', 'of', 'patient']",0,2,-0.5133333333333333
+"['my', 'daughter', 'wa', 'admit', 'here', 'when', 'she', 'had', 'met', 'with', 'an', 'accid', 'the', 'treatment', 'she', 'receiv', 'here', 'wa', 'excel']",1,5,0.0
+"['horribl', 'experi', 'after', 'colonoscopi', 'i', 'sent', 'my', 'parent', 'who', 'live', 'alon', 'in', 'bangalor', 'for', 'coloniscopi']",0,2,0.13636363636363635
+"['manip', 'is', 'the', 'best', 'hospit', 'in', 'bangalor']",1,5,1.0
+"['my', 'uncl', 'oper', 'knee', 'replac', 'surgeri', 'in', 'manip', 'hospit', 'hebbal', 'excel', 'health', 'care', 'hospit', 'and', 'intellig', 'and', 'humbl', 'doctor', 'like', 'dr', 'kiran', 'chouka']",1,4,0.0
+"['veri', 'friendli', 'staff', 'made', 'our', 'health', 'packag', 'procedur', 'smooth', 'and', 'hastl', 'free']",1,4,0.4
+"['thi', 'hospit', 'is', 'nice', 'all', 'the', 'section', 'are', 'well', 'organis', 'and', 'the', 'staff', 'are', 'also', 'veri', 'polit', 'realli', 'like', 'thi', 'ambienc', 'and', 'facil']",1,4,0.6
+"['wonder', 'experi', 'at', 'the', 'hospit', 'i', 'had', 'been', 'struggl', 'to', 'find', 'some', 'vaccin', 'that', 'wa', 'need', 'for', 'a', 'foreign', 'colleg', 'admiss']",1,5,-0.125
+"['my', 'dad', 'got', 'treatment', 'for', 'bacteri', 'mening', 'in', 'manip', 'hebbala', 'doctor', 'mr', 'anil', 'and', 'mr', 'srinivasa', 'raju', 'took', 'care', 'of', 'him']",1,5,0.0
+"['i', 'wish', 'there', 'would', 'have', 'been', 'an', 'option', 'to', 'give', '0', 'star', 'for', 'dr', 'shridhar', 'singhortho', 'he', 'is', 'such', 'a', 'scammer', 'and', 'i', 'must', 'say', 'he', 'should', 'be', 'remov', 'from', 'hospit']",0,2,0.0
+"['do', 'not', 'and', 'i', 'mean', 'it', 'do', 'not', 'get', 'ur', 'test', 'done', 'here', 'i', 'got', 'my', 'mri', 'report', 'in', '4day', 'my', 'wife', 'ct', 'scan', 'and', 'blood', 'report', 'also', 'they', 'mess', 'up']",0,1,-0.24375
+"['our', 'first', 'visit', 'to', 'the', 'hospit', 'great', 'experi', 'mr', 'vishaal', 'from', 'intern', 'depart', 'wa', 'veri', 'help', 'with', 'the', 'dr', 'appoint', 'and', 'all', 'the', 'test', 'hassl', 'free', 'experi']",1,5,0.4833333333333334
+"['updat', 'as', 'of', '15th', 'oct', 'ms', 'sharmila', 'from', 'mh', 'drop', 'a', 'note', 'to', 'me', 'with', 'detail', 'and', 'i', 'have', 'respond', 'with', 'artefact', 'hope', 'i', 'will', 'get', 'justic']",0,2,0.0
+"['manip', 'take', 'over', 'columbia', 'asia', 'ha', 'made', 'everyth', 'nonsens', 'to', 'take', 'appoint', 'i', 'had', 'to', 'call', '10', 'time']",0,2,0.0
+"['i', 'will', 'not', 'recommend', 'thi', 'hospit', 'to', 'anyon', 'i', 'had', 'a', 'worst', 'experi', 'today', 'i', 'have', 'admit', 'my', 'wife', 'in', 'hebbal', 'manip', 'doctor', 'suggest', 'sdp', 'process', 'to', 'transfer', 'platlet']",0,1,-1.0
+"['i', 'have', 'sever', 'abdomin', 'pain', 'n', 'the', 'custom', 'care', 'said', 'he', 'will', 'arrang', 'a', 'video', 'call', 'with', 'doctor', 'to', 'understand', 'and', 'suggest', 'me', 'medic', 'but', 'then', 'no', 'bodi', 'turn', 'n', 'again']",0,1,0.0
+"['one', 'of', 'the', 'worst', 'hospit', 'no', 'mainten', 'no', 'commun', 'and', 'no', 'human', 'too', 'dr', 'sunil', 'cardio', 'he', 'is', 'worst', 'doc', 'possibl']",0,1,-0.6666666666666666
+"['had', 'an', 'amaz', 'dental', 'procedur', 'experi', 'with', 'dr', 'sindhu', 'and', 'dr', 'bhargav', 'for', 'my', 'wife', 'manisha', 'from', 'start', 'to', 'finish', 'they', 'were', 'profession', 'care', 'and', 'made', 'me', 'feel', 'at', 'eas']",1,4,0.0
+"['we', 'have', 'been', 'consult', 'dr', 'sunil', 'kumar', 'cardiolog', 'dr', 'girish', 'nephrolog', 'dr', 'udnur', 'pulmonolog', 'and', 'dr', 'abhijit', 'bhograj', 'diabetolog', 'sinc', '2021', 'i', 'must', 'say', 'they', 'are', 'a', 'great', 'team', 'of', 'doctor']",1,4,0.8
+"['i', 'wa', 'admit', 'to', 'manip', 'hospit', 'for', 'my', 'surgeri', 'nurs', '', 'doctor', 'did', 'their', 'job', 'realli', 'well']",1,5,0.0
+"['the', 'staff', 'is', 'incompet', 'deal', 'with', 'them', 'wa', 'tediou']",0,2,0.0
+"['dont', 'go', 'for', 'opd', 'they', 'tri', 'to', 'admit', 'to', 'emerg', 'or', 'make', 'you', 'wait', 'like', 'hell', 'i', 'went', 'in', 'the', 'morn', 'with', 'mild', 'fever']",0,1,0.3333333333333333
+"['had', 'consult', 'cardiologist', 'dr', 'chandan', 'excel', 'hospit', 'by', 'dr', 'chandan', 'and', 'front', 'desk', 'everyon', 'made', 'us', 'feel', 'comfort', 'and', 'guid', 'thru', 'eco', 'and', 'ecg', 'test']",1,5,0.0
+"['the', 'hospit', 'staff', 'is', 'pretti', 'welcom']",1,4,0.0
+"['ive', 'admit', 'in', 'labour', 'ward', 'for', 'deliveri', 'the', 'treatment', 'is', 'good', 'but', 'bit', 'costli']",1,3,0.7
+"['thi', 'place', 'is', 'a', 'nightmar', 'they', 'will', 'ask', 'you', 'to', 'regist', 'first', 'by', 'pay', '1000', 'and', 'then', 'tell', 'that', 'they', 'donâ€™t', 'have', 'the', 'medicin', 'pleas', 'tri', 'the', 'other', 'hospit']",0,1,0.0625
+"['help', 'us', 'detect', 'an', 'import', 'issu', 'via', 'blood', 'test', 'perform', 'dure', 'our', 'stay', 'in', 'emerg']",1,4,0.0
+"['my', 'aunt', 'tkr', 'surgeri', 'done', 'with', 'dr', 'ravichandra', 'kelkar', 'we', 'are', 'extrem', 'veri', 'happi', 'with', 'hi', 'treatment']",1,4,0.0
+"['veri', 'good', 'and', 'fast', 'servic', 'mr', 'vishal', 'help', 'a', 'lot', 'and', 'thank', 'to', 'him', 'we', 'were', 'abl', 'to', 'receiv', 'the', 'servic', 'and', 'care', 'within', '20', 'minut']",1,5,0.44999999999999996
+"['thi', 'hospit', 'is', 'nice', 'all', 'the', 'section', 'are', 'well', 'organis', 'and', 'the', 'staff', 'are', 'also', 'veri', 'polit']",1,4,0.6
+"['doctor', 'are', 'good', 'but', 'the', 'mangement', 'and', 'servic', 'provid', 'are', 'atmost', 'neglig', 'and', 'pathet']",1,3,0.7
+"['dr', 'bhargav', 'and', 'dr', 'sindhu', 'dental', 'are', 'super', 'star', 'had', 'been', 'there', 'last', 'saturday', 'and', 'today', 'for', 'my', 'daughter', 'check', 'up', 'and', 'consult', 'and', 'they', 'veri', 'patient', 'check', 'provid', 'expert', 'advic']",1,4,0.16666666666666666
+"['i', 'went', 'to', 'manip', 'hebbal', 'for', 'a', 'check', 'up', 'the', 'front', 'desk', 'person', 'somya', 'wa', 'realli', 'courteou', 'he', 'help', 'me', 'get', 'paid', 'with', 'addit', 'inform']",1,5,0.0
+"['my', 'grandmoth', 'wa', 'admit', 'in', 'cardiolog', 'depart', 'excel', 'doctor', 'who', 'explain', 'condit', 'prognosi', 'and', 'treatment', 'plan', 'in', 'simpl', 'manner']",1,4,0.0
+"['it', 'is', 'good', 'experi', 'doctor', 'are', 'veri', 'nice', 'they', 'treat', 'the', 'patient', 'veri', 'nice', 'staff', 'r', 'veri', 'good']",1,5,0.6499999999999999
+"['on', 'sunday', 'staff', 'are', 'minim', 'non', 'of', 'the', 'staff', 'will', 'help', 'you', 'at', 'ani', 'cost', 'if', 'patient', 'die', 'even', 'though', 'they', 'doesnt', 'care', 'for', 'a', 'singl', 'report', 'they', 'need', '2', 'day', 'of', 'time']",0,2,0.0
+"['doctor', 'are', 'knowledg', 'in', 'the', 'hospit', 'but', 'pleas', 'bewar', 'of', 'mr', 'chinna', 'kesava', 'head', 'of', 'bill', 'and', 'payment', 'depart', 'he', 'will', 'charg', 'you', 'for', 'some', 'thing', 'that', 'is', 'not', 'in', 'the', 'prescript']",0,1,0.0
+"['the', 'doctor', 'are', 'good', 'but', 'it', 'is', 'a', 'veri', 'mismanag', 'hospit']",1,3,0.7
+"['the', 'supervisor', 'vivek', 'is', 'not', 'at', 'work', 'place', 'not', 'supervis', 'anyth', 'realli', 'the', 'manag', 'should', 'look', 'into', 'it']",0,2,0.0
+"['we', 'have', 'been', 'come', 'to', 'manip', 'for', 'our', 'parent', 'from', 'last', '2', 'year', 'and', 'have', 'been', 'get', 'a', 'veri', 'cordial', 'support', 'from', 'the', 'staff', 'and', 'the', 'team']",1,4,0.0
+"['it', 'wa', 'amaz', 'consult', 'at', 'manip', 'hospit', 'they', 'were', 'veri', 'kind', 'and', 'friendli', 'i', 'heart', 'prefer', 'everyon', 'must', 'visit', 'manip', 'hospit', 'thank', 'to', 'dr', 'indranil']",1,5,0.6
+"['good', 'and', 'help', 'staff', 'doctor', 'describ', 'issu', 'clearli', 'instead', 'give', 'medicin', 'directli']",1,4,0.7
+"['veri', 'good', 'hospit', 'in', 'the', 'area', 'manag', 'is', 'littl', 'messi', 'at', 'time', 'but', 'not', 'alway']",1,5,0.7
+"['dont', 'go', 'for', 'health', 'checkup', 'packag', 'here', 'veri', 'bad', 'manag', 'no', 'one', 'assist']",0,2,-0.6999999999999998
+"['i', 'wish', 'to', 'give', 'a', 'rate', 'which', 'will', 'shut', 'down', 'thi', 'hospit', 'and', 'cancel', 'licens', 'for', 'orthoped', 'surgeon', 'dr', 'navinchand', 'dambekodi', 'they', 'end', 'up', 'kill', 'my', 'dad']",0,1,-0.15555555555555559
+"['worri', 'about', 'the', 'human', 'how', 'thi', 'hospit', 'treat', 'emerg', 'case']",0,2,0.0
+"['love', 'the', 'servic', 'from', 'all', 'the', 'staff', 'staff', 'member', 'were', 'veri', 'helpfuldr', 'santosh', 'is', 'veri', 'profession', 'veri', 'much', 'satisfi', 'with', 'the', 'overal', 'experi']",1,5,0.35
+"['veri', 'good', 'experi', 'overal', 'right', 'from', 'appoint', 'book', 'to', 'reschedul', 'prompt', 'of', 'the', 'staff']",1,4,0.4928571428571428
+"['thi', 'place', 'is', 'veri', 'unreasonablli', 'expens']",0,2,0.0
+"['i', 'had', 'been', 'there', 'for', 'comprehens', 'health', 'check', 'up', 'and', 'wa', 'impress', 'to', 'find', 'veri', 'streamlin', 'approach']",1,5,0.0
+"['attent', 'to', 'patient', 'is', 'bit', 'lag', 'zero', 'guidanc', '', 'connect', 'between', 'depart', 'for', 'singl', 'patient']",0,2,0.0
+"['come', 'here', 'for', 'the', 'past', '17', 'year', 'the', 'doctor', 'are', 'realli', 'good', 'and', 'the', 'overal', 'servic', 'is', 'superb']",1,4,0.48333333333333334
+"['nu', 'hospit', 'provid', 'excel', 'servic', 'for', 'the', 'patient', 'they', 'follow', 'up', 'everyday', '3', 'to', '4', 'time', 'to', 'the', 'patient']",1,5,-0.2
+"['like', 'the', 'hospit', 'afford', 'plan', 'is', 'easi', 'to', 'oper', 'and', 'save', 'me', 'some', 'money', 'with', 'the', 'cash', 'back', 'discount']",1,4,0.0
+"['the', 'canteen', 'provid', 'excel', 'food', 'and', 'servic']",1,4,0.0
+"['they', 'charg', 'us', 'to', 'park', 'our', 'vehicl', 'in', 'their', 'own', 'hospit', 'and', 'make', 'us', 'wait', 'for', 'hour']",0,2,0.6
+"['were', 'come', 'here', 'for', 'quit', 'a', 'long', 'time', 'the', 'staff', 'here', 'are', 'veri', 'friendli', 'and', 'help']",1,5,-0.05
+"['room', 'attend', 'are', 'so', 'kind', 'and', 'alway', 'make', 'sure', 'the', 'room', 'is', 'clean', 'and', 'alway', 'replenish', 'the', 'amen']",1,5,0.48888888888888893
+"['doctor', 'are', 'so', 'kind', 'and', 'alway', 'give', 'updat', 'regard', 'the', 'patient', 'and', 'fee', 'structur', 'is', 'more']",1,3,0.55
+"['they', 'did', 'my', 'transplant', 'done', 'success', 'hospit', 'for', 'give', 'second', 'life', 'for', 'me']",1,4,0.15
+"['good', 'servic', 'front', 'offic', 'staff', 'is', 'treat', 'good', 'and', 'doctor', 'also', 'i', 'will', 'refer', 'my', 'famili', 'to', 'thi', 'hospit']",1,5,0.7
+"['to', 'earn', 'money', 'they', 'will', 'copi', 'and', 'past', 'the', 'report', 'and', 'if', 'the', 'patient', 'ask', 'for', 'an', 'explan', 'not', 'even', 'one', 'doctor', 'will', 'be', 'avail']",0,2,-0.25
+"['exlent', 'servic', 'about', 'food', 'and', 'tast', 'veri', 'good', 'but', 'staff', 'is', 'not', 'nice']",1,3,0.19999999999999998
+"['insur', 'depart', 'for', 'help', 'with', 'the', 'process', 'overal', 'experi', 'wa', 'realli', 'good']",1,5,0.7
+"['some', 'patient', 'express', 'dissatisfact', 'with', 'wait', 'time', 'for', 'appoint']",0,1,0.0
+"['a', 'few', 'review', 'mention', 'issu', 'with', 'administr', 'process']",0,2,-0.2
+"['special', 'care', 'and', 'expertis', 'in', 'nephrolog', 'and', 'urolog']",1,4,0.35714285714285715
+"['profession', 'and', 'knowledg', 'medic', 'staff', 'but', 'nurs', 'are', 'not', 'knowledg']",1,3,0.0
+"['clean', 'and', 'well', 'maintain', 'facil', 'but', 'doctor', 'are', 'too', 'late']",1,3,0.033333333333333354
+"['i', 'had', 'a', 'good', 'experi', 'dure', 'the', 'time', 'i', 'spend', 'in', 'the', 'hospit']",1,4,0.7
+"['servic', 'is', 'veri', 'good', 'and', 'nurs', 'and', 'front', 'offic', 'staff', 'are', 'take', 'person', 'care', 'plz', 'visit']",1,5,0.7
+"['awesom', 'hospit', 'and', 'it', 'manag', 'is', 'good', 'all', 'the', 'staff', 'are', 'good', 'and', 'disciplin', 'for', 'their', 'work']",1,4,0.7
+"['they', 'provid', 'help', 'and', 'guidanc', 'everi', 'step', 'of', 'the', 'way', 'to', 'get', 'the', 'best', 'care', 'possibl']",1,5,1.0
+"['the', 'staff', 'and', 'doctor', 'were', 'not', 'good', 'and', 'veri', 'poor', 'profession']",0,1,-0.375
+"['it', 'wa', 'good', 'hospit', 'and', 'they', 'all', 'help', 'us', 'veri', 'well', 'in', 'park', 'system', 'more', 'fee', 'structur']",1,3,0.6
+"['the', 'staff', 'of', 'thi', 'hospit', 'are', 'reali', 'help', 'and', 'the', 'hospit', 'is', 'excel']",1,4,0.0
+"['good', 'servic', 'in', 'all', 'staff', 'and', 'well', 'maintain']",1,5,0.7
+"['i', 'receiv', 'excel', 'servic', 'in', 'thi', 'hospit']",1,5,0.0
+"['no', 'proper', 'manag', 'noth', 'is', 'organis', 'you', 'will', 'wait', 'for', 'hour', 'with', 'no', 'proper', 'respons', 'from', 'staff', 'they', 'will', 'put', 'your', 'patienc', 'to', 'test']",0,2,0.0
+"['there', 'wa', 'a', 'more', 'delay', 'on', 'anyth', 'i', 'am', 'happi', 'to', 'get', 'medic', 'from', 'thi', 'hospit']",0,1,0.5
+"['everi', 'singl', 'person', 'we', 'met', 'at', 'your', 'hospit', 'were', 'so', 'kind', 'care', 'and', 'friendli', 'the', 'tremend', 'support', 'reciev', 'from', 'the', 'hospit', 'from', 'the', 'first', 'day']",1,5,0.425
+"['good', 'heart', 'person', 'well', 'qualifi', 'doctor', 'and', 'she', 'ha', 'good', 'sens', 'of', 'humour', 'best', 'hospit']",1,5,0.7999999999999999
+"['good', 'experi', 'overal', 'doctor', 'are', 'well', 'experienc', 'in', 'nephro', 'and', 'urolog', 'hospit', 'staff', 'is', 'veri', 'help', 'and', 'cooper']",1,4,0.7
+"['onc', 'we', 'arriv', 'to', 'the', 'hospit', 'she', 'wa', 'alway', 'there', 'to', 'guid', 'us', 'through', 'the', 'procedur', 'and', 'even', 'direct']",1,4,0.1
+"['no', 'proper', 'manag', 'they', 'will', 'put', 'your', 'patienc', 'to', 'test']",0,1,0.0
+"['they', 'didnt', 'explain', 'complic', 'and', 'about', 'the', 'procedur', 'befor', 'procedur', 'wa', 'done', 'but', 'consent', 'form', 'it', 'written', 'explain']",1,3,0.0
+"['i', 'have', 'onli', 'one', 'complaint', 'regard', 'consent', 'take', 'for', 'procedur', 'didnt', 'explain', 'complic']",0,2,-0.3
+"['no', 'help', 'natur', 'no', 'support', 'all', 'lab', 'staff', 'are', 'worst', 'no', 'use', 'of', 'work', 'as', 'lab', 'technician', 'in', 'that', 'lab', 'no', 'support', 'to', 'each', 'other']",0,1,-0.5625
+"['the', 'place', 'is', 'veri', 'well', 'maintain', 'with', 'clean', 'happen', 'throughout', 'the', 'day']",1,4,0.3666666666666667
+"['be', 'a', 'intern', 'travel', 'with', 'full', 'insur', 'coverag', 'thi', 'hospit', 'wa', 'the', 'best', 'treatment', 'we', 'had', 'so', 'far']",1,5,0.4833333333333334
+"['who', 'ha', 'contact', 'the', 'veri', 'begin', 'when', 'we', 'got', 'approv', 'from', 'govern', 'and', 'ask', 'about', 'the', 'travel', 'time', 'also', 'if', 'we', 'need', 'ani', 'help', 'from', 'airport', 'to', 'hotel']",1,5,0.0
+"['i', 'strongli', 'recommend', 'not', 'to', 'go', 'that', 'hospit', 'veri', 'worst', 'hospit']",0,1,-1.0
+"['bad', 'experi', 'at', 'the', 'first', 'i', 'went', 'for', 'kidney', 'stone', 'remov', 'consult', 'doctor', 'did', 'not', 'give', 'proper', 'answer', 'to', 'the', 'issu', 'it', 'just', 'money', 'eat', 'hospit']",1,3,-0.14999999999999994
+"['worst', 'staff', 'pleas', 'dont', 'go', 'that', 'lab', 'my', 'person', 'advic', 'to', 'all', 'the', 'lab', 'technician']",0,2,-1.0
+"['best', 'treatment', 'for', 'uro', 'nephro', 'issu', 'our', 'experi', 'wa', 'pretti', 'good', 'admit', 'for', 'kidney', 'stone', 'problem', 'nurs', 'doctor', 'well', 'experienc']",1,4,0.85
+"['doctor', 'is', 'veri', 'good', 'and', 'he', 'is', 'have', 'patienc', 'to', 'explain', 'veri', 'well', 'but', 'more', 'cost']",1,3,0.6
+"['after', 'that', 'doctor', 'will', 'see', 'but', 'when', 'check', 'wait', 'number', 'wa', 'increas']",1,3,0.0
+"['if', 'the', 'patient', 'is', 'readi', 'with', 'report', 'and', 'other', 'patient', 'come', 'after', 'them', 'are', 'get', 'consult', 'old', 'patient', 'have', 'to', 'wait']",0,2,-0.012499999999999997
+"['i', 'came', 'in', 'with', 'bad', 'kidney', 'pain', 'and', 'got', 'help', 'immedi', 'had', 'a', 'brief', 'stay', 'in', 'the', 'er', 'that', 'wa', 'quit', 'good']",0,2,3.700743415417188e-17
+"['excel', 'treatment', 'from', 'hospit', 'accommod', 'and', 'food', 'are', 'good']",1,5,0.7
+"['teartment', 'wise', 'realli', 'happi', 'special', 'dialysi', 'depart', 'team', 'work', 'is', 'good', 'i', 'will', 'suggest', 'to', 'my', 'know', 'friend', 'and', 'famili', 'member', 'to', 'choos', 'nu', 'hospit']",1,5,0.5857142857142857
+"['he', 'wa', 'so', 'rudemechan', 'toward', 'patient', 'pl', 'train', 'thi', 'doctor', 'how', 'to', 'be', 'empathet', 'toward', 'patient', 'first']",0,1,0.25
+"['everybodi', 'is', 'so', 'well', 'train', '', 'love', 'right', 'from', 'cleaner', 'helper', 'i', 'would', 'highli', 'recommend', 'thi', 'hospit']",1,4,0.39285714285714285
+"['veri', 'confer', 'tabl', 'but', 'bit', 'costli', 'best', 'treatment', 'for', 'kidni']",1,3,1.0
+"['veri', 'much', 'help', 'and', 'friendli', 'to', 'patient', 'i', 'suggest', 'dialysi', 'patient', 'to', 'reach', 'nu', 'hospit']",1,4,0.2
+"['took', 'care', 'of', 'end', 'to', 'end', 'process', 'with', 'out', 'ani', 'burden', 'to', 'the', 'patient', 'attende']",1,5,0.0
+"['the', 'too', 'good', 'servic', 'and', 'treatment', 'i', 'feel', 'to', 'refer', 'patient', 'who', 'need', 'urolog', 'nephrolog', 'treatment', 'at', 'nu', 'hospit']",1,4,0.7
+"['provid', 'good', 'health', 'servic', 'and', 'give', 'a', 'well', 'guidlin', 'regard', 'health', 'care']",1,5,0.7
+"['doctor', 'consult', 'is', 'excel', 'but', 'the', 'servic', 'from', 'the', 'the', 'staff', 'is', 'not', 'satisfi']",1,3,0.0
+"['remov', 'my', 'all', 'old', 'report', 'from', 'file', 'and', 'shuffl', 'all', 'the', 'report', 'and', 'onc', 'after', 'upload', 'the', 'report', 'given', 'the', 'old', 'report', 'in', 'tear', 'manner', 'which', 'is', 'veri', 'worst', 'thing']",0,2,-0.26666666666666666
+"['one', 'of', 'the', 'best', 'hospit', 'to', 'get', 'treatment', 'hospit', 'staff', 'and', 'doctor', 'are', 'veri', 'friendli', 'and', 'kind', 'hospit', 'is', 'veri', 'clean', 'and', 'tidi']",1,5,0.6555555555555556
+"['thi', 'hospit', 'everyon', 'is', 'so', 'good', 'veri', 'help', 'also']",1,5,0.7
+"['they', 'ensur', 'i', 'had', 'a', 'smooth', 'prep', 'surgeri', 'and', 'followup', 'i', 'am', 'so', 'glad', 'i', 'chose', 'nu', 'hospit']",1,4,0.45
+"['wait', 'long', 'time', 'even', 'befor', 'consult', 'and', 'after', 'consult']",0,2,-0.05
+"['i', 'am', 'not', 'no', 'about', 'inpati', 'servic', 'but', 'excel', 'servic', 'by', 'outpati', 'depart', 'thankyou', 'onc', 'again']",1,3,0.0
+"['thi', 'is', 'our', 'pleasur', 'to', 'inform', 'you', 'that', 'it', 'a', 'great', 'hospit', 'and', 'staff', 'of', 'custom', 'care', 'more', 'profession', 'and', 'they', 'are', 'give', 'nice', 'hospit']",1,4,0.6333333333333333
+"['doctor', 'and', 'co', 'ordin', 'are', 'veri', 'good', 'support', 'peopl', 'and', 'excel', 'servic', 'from', 'staff']",1,5,0.7
+"['excel', 'servic', 'and', 'good', 'doctor', 'special', 'thank', 'to', 'dr', 'aashish', 'and', 'ranjitha', 'madam', 'she', 'guid', 'us', 'excel']",1,5,0.5285714285714286
+"['doctor', 'are', 'good', 'but', 'the', 'toilet', 'are', 'veri', 'stinki', 'smell', 'everywher', 'in', 'the', 'recept', 'also', 'canâ€™t', 'sit', 'neat', 'should', 'maintain', 'near', 'restroom']",1,3,0.25555555555555554
+"['good', 'hospit', 'and', 'staff', 'are', 'nice', 'good', 'servic', 'and', 'i', 'will', 'suggest', 'clean']",1,3,0.5916666666666666
+"['he', 'ha', 'explain', 'the', 'diagnosi', 'in', 'detail', 'and', 'the', 'treatment', 'procedur', 'veri', 'clearli', 'pharmaci', 'staff', 'were', 'also', 'veri', 'kind', 'and', 'fast', 'in', 'provid', 'their', 'servic']",1,4,0.4
+"['one', 'of', 'the', 'best', 'hospit', 'i', 'have', 'visit', 'in', 'india', 'friendli', 'and', 'welcom', 'care', 'from', 'nurs', 'and', 'insur', 'staff']",1,4,1.0
+"['the', 'toilet', 'are', 'veri', 'stinki', 'smell', 'everywher', 'in', 'the', 'recept', 'also', 'canâ€™t', 'sit', 'neat', 'should', 'maintain', 'near', 'restroom']",0,2,0.03333333333333334
+"['pharmaci', 'staff', 'need', 'to', 'be', 'more', 'profession', 'in', 'check', 'the', 'doctorâ€™', 'prescript', 'and', 'write', 'the', 'dose', 'on', 'the', 'medicin']",1,3,0.5
+"['more', 'cost', 'in', 'park', 'system', 'so', 'worst', 'experi', 'but', 'good', 'servic', 'from', 'the', 'staff', 'team', 'and', 'doctor']",0,2,0.06666666666666665
+"['it', 'good', 'hospit', 'we', 'come', 'as', 'a', 'walk', 'in', 'to', 'see', 'urologist', 'but', 'they', 'guid', 'veri', 'well', 'and', 'nice', 'atmosph', 'and', 'support', 'staff']",1,4,0.6499999999999999
+"['the', 'hospit', 'is', 'veri', 'hygien', 'overal', 'the', 'experi', 'wa', 'veri', 'hassl', 'free', 'as', 'everyth', 'wa', 'veri', 'well', 'manag', 'and', 'organ']",1,4,0.4
+"['enjoy', 'the', 'local', 'food', 'serv', 'at', 'the', 'hospit', 'cafeteria', 'the', 'manag', 'ensur', 'that', 'we', 'were', 'comfort']",1,5,0.2
+"['i', 'm', 'satisfi', 'with', 'the', 'servic', 'but', 'it', 'seam', 'bit', 'costli', 'compar', 'with', 'other', 'hospit']",1,3,-0.125
+"['it', 'more', 'costli', 'compar', 'to', 'the', 'other', 'hospit', 'worst', 'toilet', 'clean']",0,2,-0.05833333333333333
+"['good', 'hospit', 'for', 'all', 'kind', 'of', 'neurolog', 'and', 'urolog', 'well', 'hygien', 'and', 'organis', 'hospit', 'all', 'kind', 'of', 'test', 'laboratori', 'relat', 'to', 'kindney', 'is', 'avail']",1,4,0.6333333333333333
+"['we', 'had', 'a', 'great', 'experi', 'and', 'appreci', 'it', 'will', 'recommend', 'to', 'famili', 'and', 'friend']",1,5,0.8
+"['they', 'have', 'told', 'me', 'that', 'you', 'need', 'to', 'wait', 'for', 'sometim', 'becaus', 'first', 'you', 'need', 'to', 'tell', 'all', 'the', 'histori', 'of', 'the', 'patient', 'to', 'other', 'doctor', 'then', 'you', 'can', 'meet', 'the', 'main', 'doctor']",0,2,0.09722222222222221
+"['she', 'have', 'misplac', 'our', 'report', 'and', 'we', 'didnâ€™t', 'get', 'that', 'report', 'onli', 'after', 'that']",0,1,0.0
+"['she', 'is', 'such', 'a', 'ill', 'manner', 'doctor', 'without', 'ani', 'ethic', 'pleas', 'guy', 'donâ€™t', 'consult', 'her', 'for', 'futur', 'visit']",1,3,-0.25
+"['the', 'hospit', 'build', 'itself', 'wa', 'well', 'maintain', 'and', 'hygien', 'with', 'facil', 'staff', 'keep', 'to', 'the', 'highest', 'standard']",1,4,0.0
+"['hi', 'nu', 'is', 'veri', 'good', 'hospit', 'all', 'the', 'staff', 'and', 'doctor', 'are', 'friendli', 'they', 'have', 'veri', 'good', 'team']",1,5,0.7
+"['onli', 'go', 'to', 'thi', 'hospit', 'if', 'you', 'are', 'not', 'in', 'need', 'of', 'immedi', 'care', 'and', 'have', 'the', 'time', 'to', 'wait', 'for', 'hour', 'at', 'least', '3', 'hour', 'just', 'to', 'meet', 'the', 'doctor']",0,2,-0.3
+"['they', 'are', 'so', 'effici', 'and', 'excel', 'in', 'make', 'their', 'patient', 'wait', 'you', 'do', 'need', 'a', 'lot', 'of', 'patienc', 'to', 'be', 'a', 'patient', 'here']",0,2,0.0
+"['youd', 'reach', 'thi', 'hospit', 'faster', 'from', 'silk', 'board', 'despit', 'the', 'traffic', 'than', 'meet', 'the', 'doctor']",1,3,0.0
+"['experienc', 'doctor', 'and', 'manag', 'staff', 'clean', 'and', 'systemat', 'hospit']",1,4,0.3666666666666667
+"['the', 'staff', 'at', 'nu', 'hospit', 'ha', 'been', 'veri', 'help', 'and', 'kind', 'the', 'servic', 'provid', 'for', 'the', 'patient', 'wa', 'excel']",1,5,0.6
+"['excel', 'drâ€™', 'are', 'here', 'in', 'nu', 'hospit', 'they', 'treat', 'veri', 'well', 'i', 'am', 'veri', 'happi', 'with', 'the', 'treatment']",1,4,0.0
+"['i', 'never', 'thought', 'we', 'will', 'be', 'taken', 'care', 'at', 'such', 'a', 'level', 'she', 'exceed', 'our', 'expect', 'and', 'made', 'our', 'medic', 'trip', 'smooth']",1,4,0.2
+"['i', 'wish', 'nu', 'hospit', 'should', 'do', 'more', 'progress', 'in', 'futur', 'to', 'cater', 'the', 'need', 'of', 'the', 'new', 'urolog', 'and', 'renal', 'dieas']",1,3,0.3181818181818182
+"['they', 'ensur', 'i', 'had', 'a', 'smooth', 'prep', 'surgeri', 'and', 'followup', 'made', 'our', 'journey', 'easi']",1,4,0.4
+"['nu', 'hospit', 'is', 'one', 'of', 'the', 'clean', 'hispit', 'i', 'have', 'ever', 'visit', 'though', 'it', 'doe', 'not', 'have', 'a', 'number', 'system', 'for', 'the', 'queue']",1,5,0.3666666666666667
+"['nu', 'hospit', 'believ', 'in', 'patient', 'centric', 'and', 'is', 'commit', 'to', 'provid', 'the', 'best', 'outcom', 'and', 'care', 'to', 'it', 'patient']",1,4,0.5
+"['the', 'doctor', 'were', 'veri', 'profession', 'and', 'avail', 'anytim', 'the', 'nurs', 'staff', 'were', 'veri', 'attent', 'and', 'kind']",1,5,0.6
+"['most', 'of', 'all', 'the', 'intern', 'coordin', 'were', 'veri', 'help', 'and', 'alway', 'with', 'a', 'smile', 'and', 'readi', 'to', 'assist', 'you']",1,5,0.4
+"['when', 'a', 'person', 'enter', 'to', 'a', 'hospit', 'that', 'is', 'a', 'veri', 'stress', 'time', 'and', 'if', 'there', 'is', 'some', 'commun', 'issu', 'then', 'it', 'will', 'be', 'realli', 'tuff', 'at', 'the', 'custom', 'end']",1,5,0.0
+"['at', 'the', 'start', 'i', 'believ', 'to', 'show', 'the', 'relev', 'doctor', 'and', 'to', 'do', 'the', 'test', 'it', 'took', 'a', 'long', 'time']",0,1,-0.05
+"['nu', 'hospit', 'weâ€™r', 'etern', 'grate', 'for', 'your', 'hospit', 'and', 'knowledg']",1,4,0.0
+"['as', 'per', 'the', 'commun', 'some', 'of', 'the', 'staff', 'wa', 'veri', 'good', 'but', 'some', 'wa', 'a', 'littl', 'rude']",1,3,0.19999999999999998
+"['i', 'believ', 'thi', 'wa', 'a', 'miscommun', 'from', 'the', 'hospit', 'side', 'and', 'it', 'wa', 'notic', 'by', 'the', 'person', 'in', 'the', 'scan', 'room']",0,2,0.0
+"['howev', 'dure', 'discharg', 'process', 'i', 'felt', 'it', 'there', 'wa', 'a', 'delay', 'both', 'hospit', 'and', 'aasanda', 'side']",0,2,0.0
+"['i', 'believ', 'in', 'futur', 'from', 'hospit', 'side', 'you', 'can', 'make', 'arrang', 'by', 'take', 'into', 'consider', 'to', 'improv', 'commun', 'with', 'custom']",1,3,0.0
+"['look', 'at', 'custom', 'view', 'point', 'like', 'wait', 'for', 'sever', 'hr', 'at', 'hospit', 'for', 'noth']",0,2,0.0
+"['good', 'servic', 'and', 'excel', 'treatment', 'from', 'doctor', 'and', 'staff']",1,4,0.7
+"['the', 'doctor', 'the', 'nurs', 'and', 'everi', 'singl', 'staff', 'at', 'nu', 'hospit', 'were', 'commit', 'to', 'what', 'they', 'are', 'do', 'as', 'a', 'patient', 'i', 'felt', 'home', 'be', 'at', 'nu', 'hospit']",1,4,0.0
+"['itâ€™', 'so', 'hard', 'to', 'just', 'sit', 'and', 'wait', 'at', 'oper', 'theater', 'the', 'oper', 'wa', 'conduct', 'success']",1,3,0.004166666666666652
+"['all', 'staff', 'are', 'good', 'thank', 'you', 'for', 'dr', 'krishna', 'prasad', 'and', 'dr', 'imran', 'khan', 'for', 'give', 'time', 'and', 'detail', 'explan', 'of', 'my', 'condit']",1,5,0.7
+"['he', 'wa', 'veri', 'patient', 'and', 'wa', 'of', 'great', 'help', 'for', 'us', 'throughout', 'the', 'admin', 'process']",1,5,0.8
+"['the', 'nurs', 'were', 'super', 'friendli', 'and', 'they', 'will', 'never', 'leav', 'your', 'side', 'if', 'you', 'need', 'attent', 'at', 'anytim', 'while', 'you', 'are', 'admit']",1,4,0.3333333333333333
+"['i', 'believ', 'the', 'servic', 'i', 'mention', 'about', 'do', 'the', 'test', 'have', 'been', 'improv', 'as', 'i', 'have', 'met', 'someon', 'who', 'did', 'all', 'test', 'with', 'in', 'one', 'to', 'two', 'week']",1,3,0.0
+"['we', 'had', 'veri', 'good', 'experi', 'at', 'nu', 'hospit', 'west', 'good', 'servic', 'and', 'excel', 'treatment', 'from', 'doctor', 'and', 'staff']",1,5,0.7
+"['im', 'realli', 'satisfi', 'that', 'i', 'chose', 'nu', 'hospit', 'for', 'my', 'medic', 'treatment', 'you', 'will', 'be', 'too']",1,4,0.0
+"['we', 'cannot', 'prais', 'the', 'nu', 'hospit', 'cafeteria', 'enough', 'for', 'the', 'amaz', 'food', 'qualiti', 'and', 'great', 'food']",1,3,0.4
+"['they', 'are', 'not', 'give', 'valu', 'patient', 'time', 'and', 'money', 'so', 'bad', 'experi']",0,2,-0.6999999999999998
+"['we', 'deepli', 'appreci', 'the', 'fact', 'that', 'our', 'commun', 'ha', 'access', 'to', 'such', 'a', 'highqual', 'organ', 'of', 'profession', 'and', 'worker']",1,4,0.0
+"['icu', 'team', 'is', 'best', 'here', 'but', 'pl', 'valu', 'patient', 'time', 'and', 'money', 'if', 'you', 'take', 'advanc', 'appoint', 'for', 'doctor', 'consult']",1,3,1.0
+"['hospit', 'provid', 'by', 'the', 'staff', 'nurs', 'housekeep', 'team', 'canteen', 'employe', 'wa', 'outstand', 'especi', 'the', 'doctor', 'team']",1,5,0.0
+"['best', 'qualiti', 'of', 'servic', 'compar', 'to', 'surround', 'hospit']",1,5,1.0
+"['staff', 'is', 'well', 'behav', 'and', 'cooper', 'within', 'their', 'limit', 'excel', 'as', 'compar', 'to', 'other']",1,4,-0.125
+"['the', 'recept', 'team', 'is', 'quit', 'help', 'aswel', 'but', 'sometim', 'i', 'observ', 'that', 'thing', 'went', 'haywir', 'due', 'to', 'loophol', 'in', 'the', 'manag']",1,3,-0.125
+"['on', 'the', 'other', 'hand', 'the', 'financ', 'team', 'is', 'bad', 'in', 'provid', 'financi', 'estim', 'they', 'will', 'tri', 'to', 'sell', 'packag']",0,2,-0.4124999999999999
+"['the', 'ladi', 'who', 'lead', 'the', 'financ', 'team', 'is', 'veri', 'rude', 'and', 'have', 'got', 'some', 'attitud', 'issu']",0,1,-0.3
+"['i', 'had', 'a', 'great', 'experi', 'at', 'nu', 'hospit', 'west', 'as', 'a', 'new', 'patient', 'and', 'so', 'grate', 'that', 'my', 'surgeri', 'wa', 'a', 'success']",1,4,0.4121212121212121
+"['over', 'all', 'i', 'would', 'say', 'it', 'an', 'ok', 'type', 'hospit', 'not', 'good', 'to', 'get', '3', 'star']",0,1,0.07500000000000001
+"['the', 'hospit', 'is', 'veri', 'clean', 'and', 'the', 'nurs', 'were', 'veri', 'care', 'dure', 'my', 'stay', 'after', 'surgeri']",1,4,0.3666666666666667
+"['the', 'staff', 'are', 'veri', 'help', 'and', 'care', 'they', 'give', 'us', 'great', 'hospit', 'guid', 'us', 'thank', 'you', 'veri', 'much', 'my', 'coordin', 'from', 'hospit']",1,5,0.5
+"['great', 'servic', 'receiv', 'from', 'hospit', 'all', 'staff', 'are', 'veri', 'good', 'front', 'offic', 'doctor', 'and', 'nurs']",1,5,0.75
+"['i', 'hau', 'under', 'went', 'pcnl', 'urgeri', 'in', 'nu', 'hospit', 'thi', 'wa', 'good', 'hospit', 'all', 'the', 'staff', 'wa', 'veri', 'profession']",1,5,0.7
+"['i', 'am', 'not', 'no', 'about', 'inpati', 'servic', 'but', 'excel', 'servic', 'by', 'outpati', 'depart', 'thank', 'you', 'onc', 'again']",1,3,0.0
+"['thi', 'is', 'our', 'pleasur', 'to', 'inform', 'you', 'that', 'it', 'a', 'great', 'hospit', 'and', 'staff', 'of', 'custom', 'care', 'more', 'profession', 'and', 'they', 'are', 'give', 'nice', 'hospit']",1,5,0.6333333333333333
+"['hospit', 'custom', 'is', 'a', 'patient', 'and', 'not', 'a', 'person', 'but', 'in', 'nu', 'hospit', 'clearli', 'custom', 'is', 'a', 'person', 'who', 'need', 'care']",1,5,0.0
+"['nu', 'hospit', 'provid', 'a', 'person', 'touch', 'and', 'you', 'can', 'see', 'empathi', 'with', 'doctor', 'nurs', 'and', 'other', 'staff', 'which', 'is', 'lack', 'in', 'other', 'hospit']",1,4,-0.125
+"['veri', 'nice', 'profession', 'staff', 'in', 'all', 'the', 'block', 'but', 'in', 'admin', 'or', 'insur', 'team', 'a', 'bit', 'rude']",1,3,0.15
+"['nu', 'hospit', 'is', 'best', 'hospit', 'in', 'bangalor', 'as', 'thi', 'be', 'a', 'super', 'special', 'hospit', 'it', 'ha', 'all', 'the', 'basic', 'amen', 'under', 'one', 'roof']",1,5,0.4226190476190476
+"['my', 'heartfelt', 'gratitud', 'to', 'nu', 'hospit', 'staff', 'who', 'took', 'care', 'my', 'father', 'in', 'law', 'dure', 'admiss']",1,4,0.0
+"['all', 'staff', 'are', 'not', 'friendli', 'so', 'that', 'we', 'can', 'feel', 'stress', 'worst', 'experi']",0,2,-1.0
+"['we', 'are', 'face', 'a', 'lot', 'of', 'difficulti', 'and', 'no', 'one', 'is', 'guid', 'us', 'some', 'staff', 'is', 'rude']",0,1,-0.3
+"['the', 'nurs', 'are', 'veri', 'well', 'train', 'and', 'they', 'know', 'how', 'to', 'take', 'care', 'of', 'the', 'patient', 'the', 'place', 'is', 'veri', 'well', 'maintain', 'with', 'clean', 'happen', 'throughout', 'the', 'day']",1,4,0.3666666666666667
+"['worst', 'staff', 'pleas', 'dont', 'go', 'that', 'lab', 'my', 'person', 'advic', 'to', 'all', 'the', 'lab', 'technician']",0,1,-1.0
+"['nu', 'west', 'hospit', 'lab', 'staff', 'one', 'of', 'worst', 'staff', 'ever', 'i', 'have', 'seen', 'in', 'my', 'life', 'no', 'help', 'natur', 'no', 'support']",0,2,-1.0
+"['our', 'experi', 'is', 'veri', 'veri', 'bad', 'with', 'front', 'offic', 'staff', 'at', 'urolog', 'depart', 'we', 'reach', 'at', '1015', 'am', 'and', 'left', 'at', '530', 'pm', 'with', 'an', 'hour', 'of', 'lunch', 'break']",0,2,-0.3499999999999999
+"['good', 'respons', 'from', 'hospit', 'staff', 'and', 'cleaness', 'and', 'good', 'doctor', 'our', 'experi', 'is', 'veri', 'good']",1,4,0.6999999999999998
+"['worst', 'experi', 'we', 'have', 'a', 'mix', 'experi', 'when', 'visit', 'two', 'doctor', 'found', 'to', 'be', 'veri', 'cordial', 'and', 'patient', 'listen']",0,2,-1.0
+"['if', 'we', 'continu', 'our', 'visit', 'next', 'time', 'do', 'i', 'get', 'assur', 'from', 'hospit', 'the', 'patient', 'will', 'be', 'treat', 'properli']",1,3,0.0
+"['all', 'lab', 'staff', 'are', 'worst', 'no', 'use', 'of', 'work', 'as', 'lab', 'technician', 'in', 'that', 'lab', 'no', 'support', 'to', 'each', 'other']",0,2,-0.5625
+"['we', 'left', 'the', 'hospit', 'with', 'a', 'hurt', 'feel', 'we', 'sought', 'an', 'appoint', 'with', 'doctor', 'after', 'mcu', 'test', 'so', 'more', 'delay']",0,1,0.25
+"['nu', 'hospit', 'is', 'a', 'good', 'servic', 'doctor', 'are', 'avail', '24', 'hour', 'for', 'the', 'ani', 'clarif']",1,5,0.7
+"['the', 'staff', 'and', 'doctor', 'made', 'us', 'to', 'wait', 'till', 'even', 'when', 'ever', 'enquir', 'we', 'were', 'told', 'some', 'more', 'patient', 'are', 'in', 'the', 'queue']",0,1,0.5
+"['had', 'an', 'extrem', 'good', 'experi', 'at', 'nu', 'hospit', 'hadnt', 'heard', 'about', 'the', 'place', 'till', 'i', 'had', 'to', 'get', 'admit', 'there', 'for', 'a', 'procedur']",1,5,0.7
+"['the', 'no', 'of', 'patient', 'befor', 'us', 'increas', 'everi', 'time', 'when', 'we', 'check', 'in', 'queue', 'bad', 'experi', 'in', 'queue', 'process', 'i', 'suggest', 'u', 'to', 'do', 'token', 'system']",1,3,-0.6999999999999998
+"['the', 'dietitian', 'is', 'more', 'concern', 'than', 'the', 'famili', 'member', 'and', 'her', 'guidanc', 'made', 'a', 'differ', 'as', 'well', 'iâ€™m', 'glad', 'we', 'chose', 'nu', 'hospit', 'for', 'our', 'surgeri']",1,4,0.5
+"['there', 'were', 'issu', 'at', 'the', 'begin', 'of', 'the', 'day', 'our', 'last', 'day', 'here', 'were', 'veri', 'satisfi']",1,3,0.0
+"['when', 'we', 'lost', 'patienc', 'and', 'sought', 'appoint', 'next', 'day', 'with', 'rais', 'voic', 'thi', 'led', 'to', 'unpleas', 'discuss', 'between', 'doctor', 'and', 'patient']",0,2,0.0
+"['overal', 'good', 'experi', 'with', 'nu', 'hospit', 'thank']",1,5,0.7
+"['nu', 'hospit', 'staff', 'are', 'extrem', 'friendli', 'and', 'kind', 'they', 'provid', 'help', 'and', 'guidanc', 'everi', 'step', 'of', 'the', 'way', 'to', 'get', 'the', 'best', 'care', 'possibl']",1,4,0.8
+"['doctor', 'explain', 'condit', 'realli', 'well', 'and', 'address', 'our', 'concern', 'with', 'outmost', 'generos', 'look', 'forward', 'for', 'best', 'care', 'for', 'our', 'next', 'trip', 'as', 'well']",1,3,0.5
+"['everybodi', 'is', 'so', 'well', 'train', '', 'love', 'right', 'from', 'cleaner', 'helper', 'i', 'would', 'highli', 'recommend', 'thi', 'hospit']",1,5,0.39285714285714285
+"['provid', 'good', 'health', 'servic', 'and', 'give', 'a', 'well', 'guidlin', 'regard', 'health', 'care']",1,5,0.7
+"['the', 'experi', 'wa', 'veri', 'hassl', 'free', 'as', 'everyth', 'wa', 'veri', 'well', 'manag', 'and', 'organ']",1,4,0.4
+"['the', 'hospit', 'and', 'all', 'the', 'staff', 'are', 'good', 'in', 'servic', 'and', 'care', 'i', 'm', 'satisfi', 'with', 'the', 'servic', 'but', 'it', 'seam', 'bit', 'costli', 'compar', 'with', 'other', 'hospit']",1,3,0.2875
+"['doctor', 'made', 'sure', 'that', 'we', 'understood', 'how', 'they', 'were', 'go', 'to', 'proceed', 'with', 'the', 'treatment', 'explain', 'it', 'veri', 'well', 'the', 'hospit', 'is', 'veri', 'hygien']",1,4,0.5
+"['i', 'want', 'to', 'express', 'my', 'extrem', 'gratitud', 'for', 'the', 'care', 'i', 'receiv', 'at', 'your', 'hospit']",1,5,0.0
+"['doctor', 'consult', 'is', 'excel', 'but', 'the', 'servic', 'from', 'the', 'the', 'staff', 'is', 'not', 'satisfi', 'need', 'to', 'be', 'improv']",1,3,0.0
+"['excel', 'work', 'done', 'from', 'nu', 'hospit', 'i', 'love', 'thi', 'houspit', 'veri', 'much', 'becaus', 'starff', 'are', 'so', 'help', 'and', 'kind']",1,4,0.4333333333333333
+"['great', 'servic', 'doctor', 'team', 'nurs', 'team', 'and', 'all', 'staff', 'of', 'the', 'hospit', 'are', 'veri', 'kind', 'i', 'realli', 'appreci', 'the', 'great', 'work', 'and', 'help', 'done']",1,4,0.7333333333333334
+"['he', 'alway', 'take', 'a', 'lot', 'of', 'time', 'for', 'understand', 'the', 'patient', 'histori', 'condit']",0,1,0.0
+"['overal', 'hospit', 'well', 'maintain', 'hygien', 'clean', 'and', 'have', 'good', 'staff']",1,4,0.5333333333333333
+"['satisfi', 'with', 'the', 'servic', 'well', 'support', 'from', 'the', 'staff', 'and', 'happi', 'with', 'the', 'affordplan', 'benefit']",1,4,0.0
+"['the', 'servic', 'are', 'in', 'low', 'level', 'howev', 'veri', 'few', 'time', 'some', 'doctor', 'and', 'nurs', 'show', 'unhappi', 'face']",0,2,-0.1
+"['nu', 'hospit', 'is', 'veri', 'good', 'n', 'care', 'n', 'kind', 'hospit', 'they', 'arrang', 'everi', 'thing', 'veri', 'comfort', 'toth', 'patient']",1,4,0.6499999999999999
+"['one', 'of', 'the', 'hospit', 'staff', 'took', 'my', 'mobil', 'phone', 'to', 'type', 'the', 'review', 'herself', 'fortun', 'i', 'wasnt', 'sign', 'in']",0,2,0.0
+"['bad', 'experi', 'on', 'the', 'servic', 'i', 'dont', 'want', 'to', 'be', 'bias', 'becaus', 'im', 'a', 'middleclass']",0,2,-0.6999999999999998
+"['we', 'had', 'a', 'wonder', 'experi', 'at', 'nu', 'hospit', 'west', 'front', 'offic', 'staff', 'were', 'extrem', 'help']",1,4,0.0
+"['the', 'servic', 'we', 'receiv', 'from', 'nu', 'hospit', 'is', 'excel', 'clarifi', 'everyth', 'to', 'us', 'in', 'a', 'veri', 'clear', 'way', 'wonder', 'servic', 'from', 'start', 'to', 'finish']",1,4,0.10000000000000002
+"['the', 'staff', 'at', 'nu', 'hospit', 'ha', 'been', 'veri', 'help', 'and', 'kind', 'the', 'servic', 'provid', 'for', 'the', 'patient', 'wa', 'excel']",1,4,0.6
+"['overal', 'we', 'had', 'a', 'great', 'hasslefre', 'experi', 'at', 'nu', 'hospit', 'but', 'worst', 'staff', 'and', 'more', 'time', 'wast']",0,2,0.10000000000000002
+"['doctor', 'are', 'experienc', 'and', 'treatment', 'is', 'good', 'howev', 'the', 'staff', 'manag', 'need', 'to', 'definet', 'get', 'better']",1,3,0.6
+"['good', 'staff', 'in', 'help', 'desk', 'help', 'us', 'throughout', 'the', 'process', 'from', 'visit', 'doctor', 'to', 'come', 'out', 'from', 'hospit']",1,4,0.7
+"['sinc', 'a', 'year', 'i', 'notic', 'there', 'is', 'no', 'cooper', 'from', 'the', 'staff', 'to', 'manag', 'appoint']",0,2,0.0
+"['it', 'is', 'expect', 'that', 'we', 'get', 'to', 'consult', 'the', 'doctor', 'at', 'schedul', 'time', 'and', 'not', 'whenev', 'the', 'staff', 'get', 'free', 'even', 'the', 'follow', 'up', 'patient', 'are', 'made', 'to', 'wait', 'for', 'hour', 'with', 'no', 'respons', 'from', 'staff']",0,1,0.4
+"['i', 'am', 'extrem', 'happi', 'with', 'servic', 'and', 'definit', 'recommend', 'thi', 'hospit', 'to', 'my', 'friend', 'and', 'famili']",1,5,0.0
+"['everyth', 'went', 'smoothli', 'doctor', 'visit', 'the', 'patient', '23', 'time', 'daili', 'doctor', 'are', 'veri', 'inform', 'and', 'respons', 'to', 'our', 'queri']",1,5,0.0
+"['more', 'delay', 'in', 'queue', 'thi', 'could', 'easili', 'be', 'fix', 'if', 'they', 'consid', 'token', 'issu', 'system', 'for', 'appoint', '', 'consult']",1,3,0.5
+"['she', 'alway', 'take', 'long', 'time', 'to', 'explain', 'thing', 'to', 'me', 'in', 'term', 'that', 'i', 'can', 'understand']",1,3,-0.05
+"['the', 'onli', 'thing', 'we', 'didnt', 'like', 'wa', 'the', 'time', 'spent', 'wait', 'for', 'opd', 'consult', 'had', 'to', 'wait', 'quit', 'a', 'long', 'time']",0,1,-0.07500000000000001
+"['i', 'had', 'a', 'great', 'visit', 'and', 'the', 'doctorâ€™', 'outward', 'manner', 'ha', 'realli', 'put', 'me', 'at', 'eas', 'so', 'i', 'highli', 'recommend', 'nu', 'for', 'nephrolog', 'problem']",1,5,0.8
+"['an', 'excel', 'qualiti', 'health', 'care', 'provid', 'the', 'staff', 'are', 'help', 'environ', 'is', 'veri', 'clean', 'and', 'posit']",1,4,0.3666666666666667
+"['veri', 'care', 'about', 'safeti', 'measur', 'everi', 'one', 'is', 'veri', 'friendli', 'love', 'everyth', 'about', 'hospit']",1,4,0.5
+"['i', 'do', 'not', 'trust', 'in', 'their', 'report', 'i', 'got', 'same', 'test', 'done', 'outsid', 'and', 'the', 'result', 'were', 'more', 'reliabl']",0,2,0.25
+"['they', 'just', 'want', 'the', 'patient', 'to', 'return', 'to', 'their', 'hospit', 'and', 'shell', 'out', 'money', 'they', 'suggest', 'expens', 'procedur', 'without', 'proper', 'diagnosi']",0,1,0.0
+"['i', 'suggest', 'you', 'not', 'to', 'visit', 'thi', 'hospit', 'if', 'you', 'care', 'about', 'your', 'health', 'and', 'pocket']",0,2,0.0
+"['nu', 'hospit', 'ha', 'provid', 'us', 'the', 'excel', 'servic', 'it', 'wa', 'amaz', 'comfort', 'from', 'the', 'moment', 'we', 'enter', 'the', 'hospit', 'with', 'the', 'support', 'they', 'have', 'provid']",1,4,0.0

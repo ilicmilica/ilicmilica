@@ -1,8 +1,6 @@
 import os
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 from functions import topN, top3_corr, plot_world_map
 
 # path to the folder that contains the CSV files
