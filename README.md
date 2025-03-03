@@ -8,6 +8,7 @@ I specialize in developing and optimizing machine learning models, with expertis
 
 Some of my projects include:
 - World Happiness Data Analysis and Visualization
+- Hospital Review Sentiment Analysis with BI-LSTM (NLP)
 - Target Variable Prediction: A Time-Series Modeling Project
 
 Beyond my technical pursuits, I enjoy reading and painting, and I’m always eager to expand my knowledge in AI/ML.
