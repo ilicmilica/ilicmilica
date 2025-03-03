@@ -28,5 +28,5 @@ The model’s performance is visualized below, showing the alignment between tru
 ![conf_mat](https://github.com/user-attachments/assets/a8de1567-8393-458a-a44f-b7a8514f32ed)
 
 ### Conclusion
-This project demonstrates the complete pipeline for hospital feedback sentiment analysis, starting from raw text preprocessing through to deep learning classification with BI-LSTM. With an achieved accuracy of 82 % and an AUC score of 0.8, the project successfully highlights the potential of deep learning for sentiment analysis in the healthcare domain.
+This project demonstrates the complete pipeline for hospital feedback sentiment analysis, starting from raw text preprocessing through to deep learning classification with BI-LSTM. With an achieved accuracy of 85 % and an AUC score of 0.78, the project successfully highlights the potential of deep learning for sentiment analysis in the healthcare domain.
 
