@@ -1,7 +1,5 @@
 ## Hi 👋
 
-﻿## ilicmilica
-
 ## About Me
 
 Hello! 👋 I'm **Milica Ilic**, a passionate Data Science Engineer with a strong academic background and hands-on experience in artificial intelligence and machine learning. I hold a Master’s degree in Medical Engineering & eHealth from FH Technikum Wien and a Bachelor’s degree in Electrical Engineering and Computing.
